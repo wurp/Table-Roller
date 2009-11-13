@@ -1,4 +1,4 @@
-Treasure type
+Treasure
 |*Type*	| *cp*			| *sp*			| *ep*			| *gp*			| *pp*			| *gems*	| *jewelry*	| *magic*			|
 | A	| 50% 4d10 * 1000	| -			| 25% 3d4 * 1000	| 10% d4 * 1000		| -			| 90% d10	| 5% d4		| -				|
 
