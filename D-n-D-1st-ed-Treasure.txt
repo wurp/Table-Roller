@@ -1,4 +1,21 @@
 Treasure
-|*Type*	| *cp*			| *sp*			| *ep*			| *gp*			| *pp*			| *gems*	| *jewelry*	| *magic*			|
-| A	| 50% 4d10 * 1000	| -			| 25% 3d4 * 1000	| 10% d4 * 1000		| -			| 90% d10	| 5% d4		| -				|
+|*Type*	| *cp*			| *sp*			| *ep*			| *gp*			| *pp*			| *gems*		| *jewelry*	| *magic*			|
+| "A"	| 50% 4d10 * 1000	| -			| 25% 3d4 * 1000	| 10% d4 * 1000		| -			| 90% [Gems] * d10	| 5% d4		| -				|
 
+Gems (Score=d100)
+|Score	| *Base Value*	| *Description*		| *(or Size)*		| *Value mod*		|
+| 01->25	| 10		| "ornamental" 		| "very small"	| [Gem Value Mod] 	|
+| 26->50	| 50		| "semi-precious"	|		| [Gem Value Mod] 	|
+| 51->70	| 100		| "fancy" 		|		| [Gem Value Mod] 	|
+| 71->90	| 500		| "fancy (precious)" 	|		| [Gem Value Mod] 	|
+| 91->99	| 1000		| "gem stones" 		|		| [Gem Value Mod] 	|
+| 100		| 5000		| "gem stones (jewels)"	|		| [Gem Value Mod] 	|
+
+Gem Value Mod (Score=d10)
+|Score	| *Desc*				|
+| 1		| "10->50->100->500->1000->5000->10000->25000->50000->100000->250000->500000->1000000, run [Gem Value Mod:Score=d8]" |
+| 2		| "value * 2"	|
+| 3		| "increase by %:" + d6 * 10 |
+| 4->8		| "no change"	|
+| 9		| "decrease by %:" + d4 * 10 |
+| 10		| "5000->1000->500->100->50->10->5->1->.5->.25->.05, run [Gem Value Mod:Score=d9+1]" |
