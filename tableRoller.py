@@ -15,45 +15,53 @@ multRE = re.compile('^(.*?)\s*\*\s*(.*)$')
 plusRE = re.compile('^(.*?)\s*\+\s*(.*)$')
 numRE = re.compile('^([0-9]*)$')
 tableSelectRE = re.compile('^\[\s*(.*?)\s*\]$')
-rangeRE = re.compile('^([0-9]+)\s*->\s*([0-9]+)$')
+rangeRE = re.compile('^([0-9]*)\s*->\s*([0-9]+)$')
 tableNameRE = re.compile('^(.*?)\s*\(\s*(.*)\s*\)$')
+altStrRE = re.compile('^[A-Za-ce-z]')
+evalRE = re.compile('^(.*){\s*([^}]+?)\s*}(.*)$')
 
 headerRE = re.compile("^\s*\**\s*(.*?)\s*\**\s*$")
 
 def die(sides):
   return random.randint(1, sides)
 
-def expressionObject(str):
-  str = str.strip()
-  m = strRE.match(str)
+def expressionObject(objStr):
+  objStr = objStr.strip()
+  m = evalRE.match(objStr)
+  if( m ): return expressionObject(m.group(1) + str(expressionObject(m.group(2)).resolve()) + m.group(3))
+
+  m = strRE.match(objStr)
   if( m ): return ConstExpr(m.group(1))
 
-  if( str == '-' ) : return ConstExpr(None)
+  m = altStrRE.match(objStr)
+  if( m ): return ConstExpr(objStr)
 
-  if( str.strip() == '' ) : return ConstExpr('')
+  if( objStr == '-' ) : return ConstExpr(None)
+
+  if( objStr.strip() == '' ) : return ConstExpr('')
   
-  m = numRE.match(str)
+  m = numRE.match(objStr)
   if( m ): return ConstExpr(int(m.group(1)))
   
-  m = chanceRE.match(str)
+  m = chanceRE.match(objStr)
   if( m ): return ChanceExpr(m.group(1), expressionObject(m.group(2)))
 
-  m = dieRE.match(str)
+  m = dieRE.match(objStr)
   if( m ): return DieRollExpr(m.group(1), m.group(2))
 
-  m = plusRE.match(str)
+  m = plusRE.match(objStr)
   if( m ): return expressionObject(m.group(1)).plus(expressionObject(m.group(2)))
 
-  m = multRE.match(str)
+  m = multRE.match(objStr)
   if( m ): return expressionObject(m.group(1)).mult(expressionObject(m.group(2)))
 
-  m = tableSelectRE.match(str)
+  m = tableSelectRE.match(objStr)
   if( m ): return TableSelectExpr(m.group(1))
 
-  m = rangeRE.match(str)
+  m = rangeRE.match(objStr)
   if( m ): return RangeExpr(m.group(1), m.group(2))
 
-  raise Exception("Could not understand expression: " + repr(str))
+  raise Exception("Could not understand expression: " + repr(objStr))
 
 class Expr:
   def __init__(self):
@@ -68,18 +76,22 @@ class Expr:
   def mult(self, rhs):
     return MultiplyExpr(self, rhs)
 
-  def match(self, str):
-    return self.resolve() == str
+  def match(self, objStr):
+    return self.resolve() == objStr
 
 class RangeExpr(Expr):
   def __init__(self, minval, maxval):
-    self.minval = int(minval)
+    if( minval == '' ):
+      self.minval = -sys.maxint-1
+    else:
+      self.minval = int(minval)
     self.maxval = int(maxval)
 
   def __repr__(self): return self.resolve()
 
   def resolve(self):
-    return repr(self.minval) + "-" + repr(self.maxval)
+    if( self.minval == -sys.maxint-1 ): return ".." + repr(self.maxval)
+    return repr(self.minval) + ".." + repr(self.maxval)
 
   def match(self, val):
     val = int(val)
@@ -137,7 +149,12 @@ class TableSelectExpr(Expr):
     self.tableCriterion = tableCriterion
 
   def resolve(self):
-    return Table.getRow(self.tableCriterion)[1]
+    tableCriterion, colName = self.tableCriterion, None
+    if( self.tableCriterion.find("/") != -1 ):
+      tableCriterion, colName = self.tableCriterion.split("/")
+    table, row = Table.getRow(tableCriterion)
+    if( colName ): return table.getRowExpr(row, colName).resolve()
+    return row
 
   def mult(self, rhs):
     return RepeatExpr(self, rhs)
@@ -180,8 +197,8 @@ class Row:
         join = "/"
     return retval + "]"
 
-def debug(str):
-  if DEBUG: print str
+def debug(msg):
+  if DEBUG: print msg
 
 class Table:
   tables = {}
@@ -218,6 +235,8 @@ class Table:
     self.__dict__[attr] = value
 
   def getRowExpr(self, row, headerName):
+    if( not headerName in self.headerIdx ):
+      raise Exception("No such column " + str(headerName) + " in " + str(self.name))
     return row.cols[self.headerIdx[headerName]]
 
   #look up row that has specified value for given column
@@ -226,6 +245,8 @@ class Table:
 
     if( columnCriteria == None ): columnCriteria = self.defaultCriteria
 
+    debug(columnCriteria)
+    if( columnCriteria.find('=') == -1 ): raise Exception("No = found in criteria: " + columnCriteria)
     colName, colVal = columnCriteria.split('=')
     debug("raw value to find " + repr(colVal))
     colVal = expressionObject(colVal).resolve()

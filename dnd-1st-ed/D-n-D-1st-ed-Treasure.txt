@@ -1,16 +1,18 @@
-Treasure
-|*Type*	| *cp*			| *sp*			| *ep*			| *gp*			| *pp*			| *gems*		| *jewelry*	| *magic*			|
-| "A"	| 50% 4d10 * 1000	| -			| 25% 3d4 * 1000	| 10% d4 * 1000		| -			| 90% [Gems] * d10	| 5% [Jewelry] * d4		| -				|
-
+##
+# See page 26 of DMG
+##
 Gems (Score=d100)
 |Score	| *Base Value*	| *Description*		| *(or Size)*		| *Value mod*		|
-| 01->25	| 10		| "ornamental" 		| "very small"	| [Gem Value Mod] 	|
-| 26->50	| 50		| "semi-precious"	|		| [Gem Value Mod] 	|
-| 51->70	| 100		| "fancy" 		|		| [Gem Value Mod] 	|
-| 71->90	| 500		| "fancy (precious)" 	|		| [Gem Value Mod] 	|
-| 91->99	| 1000		| "gem stones" 		|		| [Gem Value Mod] 	|
-| 100		| 5000		| "gem stones (jewels)"	|		| [Gem Value Mod] 	|
+| 01->25	| 10		| "ornamental" 		| "very small"	| [Gem Value Mod/Desc] 	|
+| 26->50	| 50		| "semi-precious"	|		| [Gem Value Mod/Desc] 	|
+| 51->70	| 100		| "fancy" 		|		| [Gem Value Mod/Desc] 	|
+| 71->90	| 500		| "fancy (precious)" 	|		| [Gem Value Mod/Desc] 	|
+| 91->99	| 1000		| "gem stones" 		|		| [Gem Value Mod/Desc] 	|
+| 100		| 5000		| "gem stones (jewels)"	|		| [Gem Value Mod/Desc] 	|
 
+##
+# See page 26 of DMG
+##
 Gem Value Mod (Score=d10)
 |Score	| *Desc*				|
 | 1		| "10->50->100->500->1000->5000->10000->25000->50000->100000->250000->500000->1000000, run [Gem Value Mod:Score=d8]" |
@@ -20,27 +22,338 @@ Gem Value Mod (Score=d10)
 | 9		| "decrease by %:" + d4 * 10 |
 | 10		| "5000->1000->500->100->50->10->5->1->.5->.25->.05, run [Gem Value Mod:Score=d9+1]" |
 
+##
+# See page 26 of DMG
+##
 Jewelry (Score=d100)
 |Score		| *Base Value*	| *Description*				| *Value mod*			|
-| 01->10	| d10*100	| "Ivory or wrought silver"		| [Standard Jewelry Mod]	|
-| 11->20	| 2d6*100	| "wrought silver and gold"		| [Standard Jewelry Mod]	|
-| 21->40	| 3d6*100	| "wrought gold"			| [Standard Jewelry Mod]	|
-| 41->50	| 5d6*100	| "jade, coral or wrought platinum"	| [Standard Jewelry Mod]	|
-| 51->70	| d6*1000	| "Silver with gems"			| [Standard Jewelry Mod] + [Jewelry Gem Mod]	|
-| 71->90	| 2d4*1000	| "Gold with gems"			| [Standard Jewelry Mod] + [Jewelry Gem Mod]	|
-| 91->100	| 2d6*1000	| "Platinum with gems"			| [Standard Jewelry Mod] + [Jewelry Gem Mod]	|
+| 01->10	| d10*100	| "Ivory or wrought silver"		| [Standard Jewelry Mod/Desc]	|
+| 11->20	| 2d6*100	| "wrought silver and gold"		| [Standard Jewelry Mod/Desc]	|
+| 21->40	| 3d6*100	| "wrought gold"			| [Standard Jewelry Mod/Desc]	|
+| 41->50	| 5d6*100	| "jade, coral or wrought platinum"	| [Standard Jewelry Mod/Desc]	|
+| 51->70	| d6*1000	| "Silver with gems"			| [Standard Jewelry Mod/Desc] + [Jewelry Gem Mod/Desc]	|
+| 71->90	| 2d4*1000	| "Gold with gems"			| [Standard Jewelry Mod/Desc] + [Jewelry Gem Mod/Desc]	|
+| 91->100	| 2d6*1000	| "Platinum with gems"			| [Standard Jewelry Mod/Desc] + [Jewelry Gem Mod/Desc]	|
 
+##
+# See page 26 of DMG
+##
 Standard Jewelry Mod (Score=d10)
 | Score	| *Desc* |
 | 1	| "Next higher value or max value" |
 | 2->10	| "No change" |
 
+##
+# See page 26 of DMG
+##
 Jewelry Gem Mod (Score=d8)
 | Score	| *Desc* |
 | 1	| "5000 bonus to gem value, run [Jewelry Gem Mod II]" |
 | 2->8	| "No change" |
 
+##
+# See page 26 of DMG
+##
 Jewelry Gem Mod II (Score=d6)
 | Score	| *Desc* |
 | 1	| "double gem bonus, to max of 640000, run [Jewelry Gem Mod II]" |
 | 2->6	| "No change" |
+
+III A (Score=d100)
+| Score		| *Name*		| *XP*		| *GP*		| *Other*		|
+| 01->03	| Animal Control	| 250		| 400		|			|
+| 04->06	| Clairaudience		| 		| 		|			|
+| 07->10	| Clairvoyance 		| 		| 		|			|
+| ->12		| Climbing 		| 		| 		|			|
+| ->15		| Delusion 		| 		| 		| [III A]		|
+| ->18		| Diminution 		| 		| 		|			|
+| ->20		| Dragon Control* 	| 		| 		|			|
+| ->23		| ESP 			| 		| 		|			|
+| ->26		| Extra-Healing		| 		| 		|			|
+| ->29		| Fire Resistance	| 		| 		|			|
+| ->32		| Flying 		| 		| 		|			|
+| ->34		| Gaseous Form 		| 		| 		|			|
+| ->36		| Giant Control* 	| 		| 		|			|
+| ->39		| Giant Strength* 	| 		| 		|			|
+| ->41		| Growth 		| 		| 		|			|
+| ->47		| Healing 		| 		| 		|			|
+| ->49		| Heroism (F) 		| 		| 		|			|
+| ->51		| Human Control* 	| 		| 		|			|
+| ->54		| Invisibility 		| 		| 		|			|
+| ->57		| Invulnerability (F) 	| 		| 		|			|
+| ->60		| Levitation 		| 		| 		|			|
+| ->63		| Longevity		| 		| 		|			|
+| ->66		| Oil of Etherealness 	| 		| 		|			|
+| ->69		| Oil of Slipperiness 	| 		| 		|			|
+| ->72		| Philter of Love 	| 		| 		|			|
+| ->75		| Philter of Persuasiveness	| 		| 		|			|
+| ->78		| Plant Control 	| 		| 		|			|
+| ->81		| Polymorph (self) 	| 		| 		|			|
+| ->84		| Poison 		| 		| 		|			|
+| ->87		| Speed 		| 		| 		|			|
+| ->90		| Super-Heroism (F) 	| 		| 		|			|
+| ->93		| Sweet Water 		| 		| 		|			|
+| ->96		| Treasure Finding 	| 		| 		|			|
+| ->97		| Undead Control* 	| 		| 		|			|
+| ->100		| Water Breathing 	| 		| 		|			|
+
+
+#From DMG pg 121
+#.30*.75
+#.30*.25
+#.70*.90
+#.70*.10
+Scroll Class (Score=d1000)
+| Score		| *Class*	|
+| 1->630	| M-U		|
+| ->700		| Illusionist	|
+| ->925		| Cleric	|
+| ->1000	| Druid		|
+
+M-U Scroll 2-9 (Score=d8)
+| Score		| *Spell*			|
+| 1		| [M-U Spell Level 2/Spell]	|
+| 2		| [M-U Spell Level 3/Spell]	|
+| 3		| [M-U Spell Level 4/Spell]	|
+| 4		| [M-U Spell Level 5/Spell]	|
+| 5		| [M-U Spell Level 6/Spell]	|
+| 6		| [M-U Spell Level 7/Spell]	|
+| 7		| [M-U Spell Level 8/Spell]	|
+| 8		| [M-U Spell Level 9/Spell]	|
+
+Illusionist Scroll 2-9 (Score=d6)
+| Score		| *Spell*			|
+| 1		| [Illusionist Spell Level 2/Spell]	|
+| 2		| [Illusionist Spell Level 3/Spell]	|
+| 3		| [Illusionist Spell Level 4/Spell]	|
+| 4		| [Illusionist Spell Level 5/Spell]	|
+| 5		| [Illusionist Spell Level 6/Spell]	|
+| 6		| [Illusionist Spell Level 7/Spell]	|
+
+Cleric Scroll 2-9 (Score=d6)
+| Score		| *Spell*			|
+| 1		| [Cleric Spell Level 2/Spell]	|
+| 2		| [Cleric Spell Level 3/Spell]	|
+| 3		| [Cleric Spell Level 4/Spell]	|
+| 4		| [Cleric Spell Level 5/Spell]	|
+| 5		| [Cleric Spell Level 6/Spell]	|
+| 6		| [Cleric Spell Level 7/Spell]	|
+
+Druid Scroll 2-9 (Score=1)
+| Score		| *Spell*			|
+| 1		| [Druid Spell Level 2/Spell]	|
+| 2		| [Druid Spell Level 3/Spell]	|
+| 3		| [Druid Spell Level 4/Spell]	|
+| 4		| [Druid Spell Level 5/Spell]	|
+| 5		| [Druid Spell Level 6/Spell]	|
+| 6		| [Druid Spell Level 7/Spell]	|
+
+M-U Scroll 1-8 (Score=d8)
+| Score		| *Spell*			|
+| 1		| [M-U Spell Level 1/Spell]	|
+| 2		| [M-U Spell Level 2/Spell]	|
+| 3		| [M-U Spell Level 3/Spell]	|
+| 4		| [M-U Spell Level 4/Spell]	|
+| 5		| [M-U Spell Level 5/Spell]	|
+| 6		| [M-U Spell Level 6/Spell]	|
+| 7		| [M-U Spell Level 7/Spell]	|
+| 8		| [M-U Spell Level 8/Spell]	|
+
+Illusionist Scroll 1-8 (Score=d6)
+| Score		| *Spell*			|
+| 1		| [Illusionist Spell Level 1/Spell]	|
+| 2		| [Illusionist Spell Level 2/Spell]	|
+| 3		| [Illusionist Spell Level 3/Spell]	|
+| 4		| [Illusionist Spell Level 4/Spell]	|
+| 5		| [Illusionist Spell Level 5/Spell]	|
+| 6		| [Illusionist Spell Level 6/Spell]	|
+
+Cleric Scroll 1-8 (Score=d6)
+| Score		| *Spell*			|
+| 1		| [Cleric Spell Level 1/Spell]	|
+| 2		| [Cleric Spell Level 2/Spell]	|
+| 3		| [Cleric Spell Level 3/Spell]	|
+| 4		| [Cleric Spell Level 4/Spell]	|
+| 5		| [Cleric Spell Level 5/Spell]	|
+| 6		| [Cleric Spell Level 6/Spell]	|
+
+Druid Scroll 1-8 (Score=d6)
+| Score		| *Spell*			|
+| 1		| [Druid Spell Level 1/Spell]	|
+| 2		| [Druid Spell Level 2/Spell]	|
+| 3		| [Druid Spell Level 3/Spell]	|
+| 4		| [Druid Spell Level 4/Spell]	|
+| 5		| [Druid Spell Level 5/Spell]	|
+| 6		| [Druid Spell Level 6/Spell]	|
+
+M-U Scroll 1-4 (Score=d4)
+| Score 	| *Spell*			|
+| 1		| [M-U Spell Level 1/Spell]	|
+| 2		| [M-U Spell Level 2/Spell]	|
+| 3		| [M-U Spell Level 3/Spell]	|
+| 4		| [M-U Spell Level 4/Spell]	|
+
+Illusionist Scroll 1-4 (Score=d4)
+| Score 	| *Spell*			|
+| 1		| [Illusionist Spell Level 1/Spell]	|
+| 2		| [Illusionist Spell Level 2/Spell]	|
+| 3		| [Illusionist Spell Level 3/Spell]	|
+| 4		| [Illusionist Spell Level 4/Spell]	|
+
+Cleric Scroll 1-4 (Score=d4)
+| Score 	| *Spell*			|
+| 1		| [Cleric Spell Level 1/Spell]	|
+| 2		| [Cleric Spell Level 2/Spell]	|
+| 3		| [Cleric Spell Level 3/Spell]	|
+| 4		| [Cleric Spell Level 4/Spell]	|
+
+Druid Scroll 1-4 (Score=d4)
+| Score 	| *Spell*			|
+| 1		| [Druid Spell Level 1/Spell]	|
+| 2		| [Druid Spell Level 2/Spell]	|
+| 3		| [Druid Spell Level 3/Spell]	|
+| 4		| [Druid Spell Level 4/Spell]	|
+
+###
+# Test tables, not correct!
+###
+Treasure
+|*Type*	| *cp*			| *sp*			| *ep*			| *gp*			| *pp*			| *gems*		| *jewelry*	| *magic*			|
+| "A"	| 50% 4d10 * 1000	| -			| 25% 3d4 * 1000	| 10% d4 * 1000		| -			| 90% [Gems] * d10	| 5% [Jewelry] * d4		| -				|
+
+#correct, just incomplete
+III B (Score=d32)
+| Score		| *Scroll*							|
+| 01->10	| [{[Scroll Class/Class]} Spell Level {d4}/Spell]		|
+| ->16		| [{[Scroll Class/Class]} Spell Level {d6}/Spell]		|
+| ->19		| [{[Scroll Class/Class]} Scroll 2-9/Spell]			|
+| ->24		| [{[Scroll Class/Class]} Scroll 1-4/Spell] * 2		|
+| ->27		| [{[Scroll Class/Class]} Scroll 1-8/Spell] * 2		|
+| ->32		| [{[Scroll Class/Class]} Scroll 2-9/Spell] * 3		|
+
+#TODO repeat for each other casting class
+
+
+M-U Spell Level 1 (Score=d10)
+| Score		| *Level* | *Spell*	|
+| 01->10		| 1       | M-U 1	|
+
+Illusionist Spell Level 1 (Score=d10)
+| Score		| *Level* | *Spell*	|
+| 01->10	| 1       | Illusionist 1	|
+
+Cleric Spell Level 1 (Score=d10)
+| Score		| *Level* | *Spell*	|
+| 01->10	| 1       | Cleric 1	|
+
+Druid Spell Level 1 (Score=d10)
+| Score		| *Level* | *Spell*	|
+| 01->10	| 1       | Druid 1	|
+
+M-U Spell Level 2 (Score=d10)
+| Score		| *Level* | *Spell*	|
+| 01->10		| 2       | M-U 2	|
+
+Illusionist Spell Level 2 (Score=d10)
+| Score		| *Level* | *Spell*	|
+| 01->10	| 2       | Illusionist 2	|
+
+Cleric Spell Level 2 (Score=d10)
+| Score		| *Level* | *Spell*	|
+| 01->10	| 2       | Cleric 2	|
+
+Druid Spell Level 2 (Score=d10)
+| Score		| *Level* | *Spell*	|
+| 01->10	| 2       | Druid 2	|
+
+M-U Spell Level 3 (Score=d10)
+| Score		| *Level* | *Spell*	|
+| 01->10		| 3       | M-U 3	|
+
+Illusionist Spell Level 3 (Score=d10)
+| Score		| *Level* | *Spell*	|
+| 01->10	| 3       | Illusionist 3	|
+
+Cleric Spell Level 3 (Score=d10)
+| Score		| *Level* | *Spell*	|
+| 01->10	| 3       | Cleric 3	|
+
+Druid Spell Level 3 (Score=d10)
+| Score		| *Level* | *Spell*	|
+| 01->10	| 3       | Druid 3	|
+
+M-U Spell Level 4 (Score=d10)
+| Score		| *Level* | *Spell*	|
+| 01->10		| 4       | M-U 4	|
+
+Illusionist Spell Level 4 (Score=d10)
+| Score		| *Level* | *Spell*	|
+| 01->10	| 4       | Illusionist 4	|
+
+Cleric Spell Level 4 (Score=d10)
+| Score		| *Level* | *Spell*	|
+| 01->10	| 4       | Cleric 4	|
+
+Druid Spell Level 4 (Score=d10)
+| Score		| *Level* | *Spell*	|
+| 01->10	| 4       | Druid 4	|
+
+
+M-U Spell Level 5 (Score=d10)
+| Score		| *Level* | *Spell*	|
+| 01->10		| 5       | M-U 5	|
+
+Illusionist Spell Level 5 (Score=d10)
+| Score		| *Level* | *Spell*	|
+| 01->10	| 5       | Illusionist 5	|
+
+Cleric Spell Level 5 (Score=d10)
+| Score		| *Level* | *Spell*	|
+| 01->10	| 5       | Cleric 5	|
+
+Druid Spell Level 5 (Score=d10)
+| Score		| *Level* | *Spell*	|
+| 01->10	| 5       | Druid 5	|
+
+
+M-U Spell Level 6 (Score=d10)
+| Score		| *Level* | *Spell*	|
+| 01->10		| 6       | M-U 6	|
+
+Illusionist Spell Level 6 (Score=d10)
+| Score		| *Level* | *Spell*	|
+| 01->10	| 6       | Illusionist 6	|
+
+Cleric Spell Level 6 (Score=d10)
+| Score		| *Level* | *Spell*	|
+| 01->10	| 6       | Cleric 6	|
+
+Druid Spell Level 6 (Score=d10)
+| Score		| *Level* | *Spell*	|
+| 01->10	| 6       | Druid 6	|
+
+
+M-U Spell Level 7 (Score=d10)
+| Score		| *Level* | *Spell*	|
+| 01->10		| 7       | M-U 7	|
+
+Illusionist Spell Level 7 (Score=d10)
+| Score		| *Level* | *Spell*	|
+| 01->10	| 7       | Illusionist 7	|
+
+Cleric Spell Level 7 (Score=d10)
+| Score		| *Level* | *Spell*	|
+| 01->10	| 7       | Cleric 7	|
+
+Druid Spell Level 7 (Score=d10)
+| Score		| *Level* | *Spell*	|
+| 01->10	| 7       | Druid 7	|
+
+
+M-U Spell Level 8 (Score=d10)
+| Score		| *Level* | *Spell*	|
+| 01->10		| 8       | M-U 8	|
+
+M-U Spell Level 9 (Score=d10)
+| Score		| *Level* | *Spell*	|
+| 01->10		| 9       | M-U 9	|
