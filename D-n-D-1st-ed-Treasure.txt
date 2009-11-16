@@ -1,6 +1,6 @@
 Treasure
 |*Type*	| *cp*			| *sp*			| *ep*			| *gp*			| *pp*			| *gems*		| *jewelry*	| *magic*			|
-| "A"	| 50% 4d10 * 1000	| -			| 25% 3d4 * 1000	| 10% d4 * 1000		| -			| 90% [Gems] * d10	| 5% d4		| -				|
+| "A"	| 50% 4d10 * 1000	| -			| 25% 3d4 * 1000	| 10% d4 * 1000		| -			| 90% [Gems] * d10	| 5% [Jewelry] * d4		| -				|
 
 Gems (Score=d100)
 |Score	| *Base Value*	| *Description*		| *(or Size)*		| *Value mod*		|
@@ -19,3 +19,28 @@ Gem Value Mod (Score=d10)
 | 4->8		| "no change"	|
 | 9		| "decrease by %:" + d4 * 10 |
 | 10		| "5000->1000->500->100->50->10->5->1->.5->.25->.05, run [Gem Value Mod:Score=d9+1]" |
+
+Jewelry (Score=d100)
+|Score		| *Base Value*	| *Description*				| *Value mod*			|
+| 01->10	| d10*100	| "Ivory or wrought silver"		| [Standard Jewelry Mod]	|
+| 11->20	| 2d6*100	| "wrought silver and gold"		| [Standard Jewelry Mod]	|
+| 21->40	| 3d6*100	| "wrought gold"			| [Standard Jewelry Mod]	|
+| 41->50	| 5d6*100	| "jade, coral or wrought platinum"	| [Standard Jewelry Mod]	|
+| 51->70	| d6*1000	| "Silver with gems"			| [Standard Jewelry Mod] + [Jewelry Gem Mod]	|
+| 71->90	| 2d4*1000	| "Gold with gems"			| [Standard Jewelry Mod] + [Jewelry Gem Mod]	|
+| 91->100	| 2d6*1000	| "Platinum with gems"			| [Standard Jewelry Mod] + [Jewelry Gem Mod]	|
+
+Standard Jewelry Mod (Score=d10)
+| Score	| *Desc* |
+| 1	| "Next higher value or max value" |
+| 2->10	| "No change" |
+
+Jewelry Gem Mod (Score=d8)
+| Score	| *Desc* |
+| 1	| "5000 bonus to gem value, run [Jewelry Gem Mod II]" |
+| 2->8	| "No change" |
+
+Jewelry Gem Mod II (Score=d6)
+| Score	| *Desc* |
+| 1	| "double gem bonus, to max of 640000, run [Jewelry Gem Mod II]" |
+| 2->6	| "No change" |

@@ -161,6 +161,7 @@ class PlusExpr(Expr):
     lhsval = self.lhs.resolve()
 
     if( isinstance(lhsval, basestring) ): return lhsval + str(self.rhs.resolve())
+    if( isinstance(lhsval, Row) ): return str(lhsval) + str(self.rhs.resolve())
     return int(lhsval) + int(self.rhs.resolve())
 
 class Row:
