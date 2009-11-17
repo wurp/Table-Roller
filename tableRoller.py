@@ -3,6 +3,7 @@
 import re
 import os
 import sys
+import glob
 import random
 
 DEBUG=False
@@ -331,10 +332,17 @@ class Table:
 
 #print out values for all columns
 def main(args):
-  printColumns(args[0], args[1])
+  printColumns(args[1:], args[0])
 
-def printColumns(tableFileName, columnCriterion):
-  Table.parseFile(tableFileName)
+def printColumns(tableFileNames, columnCriterion):
+  for fileName in tableFileNames:
+    if( os.path.isdir(fileName) ):
+      dirFileNames = glob.glob(fileName+"/*.txt")
+      for dirFileName in dirFileNames:
+        if( os.path.isfile(dirFileName) ):
+          Table.parseFile(dirFileName)
+    else:
+      Table.parseFile(fileName)
   table, row = Table.getRow(columnCriterion)
   for hdr in table.headers:
     val = table.getRowExpr(row, hdr).resolve()
