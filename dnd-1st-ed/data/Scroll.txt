@@ -1,0 +1,54 @@
+#From DMG pg 121
+#.30*.75
+#.30*.25
+#.70*.90
+#.70*.10
+Scroll Class (Score=d1000)
+| Score		| *Class*	|
+| 1->630	| M-U		|
+| ->700		| Illusionist	|
+| ->925		| Cleric	|
+| ->1000	| Druid		|
+
+###
+# Test tables, not correct!
+###
+#correct, just incomplete
+III B (Score=d100)
+| Score		| *Scroll*						| *XP*			| *GP*			|
+| 01->10	| [{[Scroll Class/Class]} Spell Level {d4}/Spell]	| "100 * spell level"	| "300 * spell level" |
+| ->16		| [{[Scroll Class/Class]} Spell Level {d6}/Spell]	| "100 * spell level"	| "300 * spell level" |
+| ->19		| [{[Scroll Class/Class]} Scroll 2-9/Spell]		| "100 * spell level"	| "300 * spell level" |
+| ->24		| [{[Scroll Class/Class]} Scroll 1-4/Spell] * 2		| "100 * spell level"	| "300 * spell level" |
+| ->27		| [{[Scroll Class/Class]} Scroll 1-8/Spell] * 2		| "100 * spell level"	| "300 * spell level" |
+| ->32		| [{[Scroll Class/Class]} Scroll 2-9/Spell] * 3		| "100 * spell level"	| "300 * spell level" |
+| 33->35	| [{[Scroll Class/Class]} Scroll 2-9/Spell] * 3		| "100 * spell level"	| "300 * spell level" |
+| 36->39	| [{[Scroll Class/Class]} Scroll 1-6/Spell] * 4		| "100 * spell level"	| "300 * spell level" |
+| 40->42	| [{[Scroll Class/Class]} Scroll 1-8/Spell] * 4		| "100 * spell level"	| "300 * spell level" |
+| 43->46	| [{[Scroll Class/Class]} Scroll 1-6/Spell] * 5		| "100 * spell level"	| "300 * spell level" |
+| 47->49	| [{[Scroll Class/Class]} Scroll 1-8/Spell] * 5		| "100 * spell level"	| "300 * spell level" |
+| 50->52	| [{[Scroll Class/Class]} Scroll 1-6/Spell] * 6		| "100 * spell level"	| "300 * spell level" |
+| 53->54	| [{[Scroll Class/Class]} Scroll 3-8/Spell] * 6		| "100 * spell level"	| "300 * spell level" |
+| 55->57	| [{[Scroll Class/Class]} Scroll 1-8/Spell] * 7		| "100 * spell level"	| "300 * spell level" |
+| 58->59	| [{[Scroll Class/Class]} Scroll 2-9/Spell] * 7		| "100 * spell level"	| "300 * spell level" |
+| 60		| [{[Scroll Class/Class]} Scroll 4-9/Spell] * 7		| "100 * spell level"	| "300 * spell level" |
+| 61->62	| Protection - Demons	 				| 2500 			| "3 * xp total" |
+| 63->64	| Protection - Devils	 				| 2500			| "3 * xp total" |
+| 65->70	| Protection - Elementals	 			| 1500			| "3 * xp total" |
+| 71->76	| Protection - Lycanthropes	 			| 1000			| "3 * xp total" |
+| 77->82	| Protection - Magic	 				| 1500			| "3 * xp total" |
+| 83->87	| Protection - Petrification	 			| 2000			| "3 * xp total" |
+| 88->92	| Protection - Possession	 			| 2000			| "3 * xp total" |
+| 93->97	| Protection - Undead	 				| 1500			| "3 * xp total" |
+| 98->100	| "Curse: " + [Curse/Effect]				| 0			| 0 |
+
+Curse (Score=d100)
+| Score | *Effect* |
+| 1->25 |	Reader polymorphed to monster of equal level which attacks any creatures nearby		|
+| 26->30 |	Reader turned to liquid and drains away		|
+| 31->40 |	"Reader and all within 20' radius transported 200 to 1,200 miles in a random direction"		|
+| 41->50 |	"Reader and all in 20' radius transported to another planet, plane or continuum"		|
+| 51->75 |	Disease fatal to reader in 2-8 turns unless cured		|
+| 76->90 |	Explosive runes		|
+| 91->99 |	Magic item nearby is "de-magicked"	|
+| 100 |	Randomly rolled spell affects reader at 12th level of magic-use		|

@@ -1,0 +1,40 @@
+#MISCELLANEOUS WEAPONS
+III H (Score=d100)
+| Score	| *Name*						| *XP*	| *GP*	|
+| 01->08	|  Arrow +1, 2-24 in number 			| 20		| 120	|
+| 09->12	|  Arrow +2, 2-16 in number 			| 50		| 300	|
+| 13->14	|  Arrow +3, 2-12 in number 			| 75		| 450	|
+| 15	| Arrow of Slaying					| 250		| 2500	|
+| 16->20	| Axe +1						| 300		| 1750	|
+| 21->22	| Axe +2						| 600		| 3750	|
+| 23	|  Axe +2, Throwing 				| 750		| 4500	|
+| 24	| Axe +3						| 1000		| 7000	|
+| 25->27	| Battle Axe +1					| 400		| 2500	|
+| 28->32	|  Bolt +2, 2-20 in number 				| 50		| 300	|
+| 33->35	| Bow + 1						| 500		| 3500	|
+| 36	|  Crossbow of Accuracy, +3 			| 2000		| 12000	|
+| 37	| Crossbow of Distance				| 1500		| 7500	|
+| 38	| Crossbow of Speed				| 1500		| 7500	|
+| 39->46	|  Dagger +1, +2 vs. creatures smaller than man-sized 	| 100		| 750	|
+| 47->50	|  Dagger +2, +3 vs. creatures larger than man-sized 	| 250		| 2000	|
+| 51	| Dagger of Venom					| 350		| 3000	|
+| 52->56	| Flail +1						| 450		| 4000	|
+| 57->60	| Hammer +1					| 300		| 2500	|
+| 61->62	| Hammer +2					| 650		| 6000	|
+| 63	|  Hammer +3, Dwarven Thrower 			| 1500		| 15000	|
+| 64	| Hammer of Thunderbolts				| 2500		| 25000	|
+| 65->67	| Javelin +2					| 750		| 5000	|
+| 68->72	| Mace +1						| 350		| 3000	|
+| 73->75	| Mace +2						| 700		| 4500	|
+| 76	| Mace of Disruption				| 1750		| 17500	|
+| 77	| Mace +4						| 1500		| 15000	|
+| 78->80	| Military Pick +1					| 350		| 2500	|
+| 81->83	| Morning Star +1					| 400		| 3000	|
+| 84->88	| Scimitar +2					| 750		| 6000	|
+| 89	| Sling of Seeking					| 700		| 7000	|
+| 90->94	| Spear +1					| 500		| 3000	|
+| 95->96	| Spear +2					| 1000		| 6500	|
+| 97	| Spear +3					| 1750		| 15000	|
+| 98->99	|  Spear, Cursed Backbiter 				| -		| 1000	|
+| 00	| Trident (Military Fork) +3				| 1500		| 12500	|
+

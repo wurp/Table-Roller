@@ -1,0 +1,38 @@
+III A (Score=d100)
+| Score		| *Potion*		| *XP*		| *GP*		| *Other*		|
+| 01->03	| Animal Control	| 250		| 400		|			|
+| 04->06	| Clairaudience		| 		| 		|			|
+| 07->10	| Clairvoyance 		| 		| 		|			|
+| ->12		| Climbing 		| 		| 		|			|
+| ->15		| Delusion 		| 		| 		| [III A]		|
+| ->18		| Diminution 		| 		| 		|			|
+| ->20		| Dragon Control* 	| 		| 		|			|
+| ->23		| ESP 			| 		| 		|			|
+| ->26		| Extra-Healing		| 		| 		|			|
+| ->29		| Fire Resistance	| 		| 		|			|
+| ->32		| Flying 		| 		| 		|			|
+| ->34		| Gaseous Form 		| 		| 		|			|
+| ->36		| Giant Control* 	| 		| 		|			|
+| ->39		| Giant Strength* 	| 		| 		|			|
+| ->41		| Growth 		| 		| 		|			|
+| ->47		| Healing 		| 		| 		|			|
+| ->49		| Heroism (F) 		| 		| 		|			|
+| ->51		| Human Control* 	| 		| 		|			|
+| ->54		| Invisibility 		| 		| 		|			|
+| ->57		| Invulnerability (F) 	| 		| 		|			|
+| ->60		| Levitation 		| 		| 		|			|
+| ->63		| Longevity		| 		| 		|			|
+| ->66		| Oil of Etherealness 	| 		| 		|			|
+| ->69		| Oil of Slipperiness 	| 		| 		|			|
+| ->72		| Philter of Love 	| 		| 		|			|
+| ->75		| Philter of Persuasiveness	| 		| 		|			|
+| ->78		| Plant Control 	| 		| 		|			|
+| ->81		| Polymorph (self) 	| 		| 		|			|
+| ->84		| Poison 		| 		| 		|			|
+| ->87		| Speed 		| 		| 		|			|
+| ->90		| Super-Heroism (F) 	| 		| 		|			|
+| ->93		| Sweet Water 		| 		| 		|			|
+| ->96		| Treasure Finding 	| 		| 		|			|
+| ->97		| Undead Control* 	| 		| 		|			|
+| ->100		| Water Breathing 	| 		| 		|			|
+

@@ -1,0 +1,539 @@
+Here are the price tables for magical items from the 1st edition
+Dungeon Master's Guide.  We're posting these prices as some people
+have wondered what a "standard" value for magical items might be.
+This list is not to be used as a "shopping list" price guide for
+visiting a wizard's magic shop; it is intended to help DMs establish
+how much PCs might be able to sell an item for in their game world -
+these might be considered "typical" selling prices for PCs wishing
+to get rid of magical items in a "standard" AD&D campaign.
+One piece of errata:  The girdle of giant strength should have a
+base cost of 25,000 gp. (This is listed in the DMG as 2,500 gp,
+which is off by a factor of 10)
+This is a tab-delimited text file.
+Dungeon Master's Guide, 1st Edition
+Magic Items Tables	
+III.  MAGIC ITEMS	
+	
+Dice	Results
+01-20	Potions (A.)
+21-35	Scrolls (B.)
+36-40	Rings(C.)
+41-45	Rods, Staves & Wands (D.)
+46-48	Miscellaneous Magic (E.1.)
+49-51	Miscellaneous Magic (E.2.)
+52-54	Miscellaneous Magic (E.3.)
+55-57	Miscellaneous Magic (E.4.)
+56-60	Miscellaneous Magic (E.5.)
+61-75	Armor & Shields (F.)		
+76-86	Swords (G.)		
+87-00	Miscellaneous Weapons (H.)		
+
+III.A. POTIONS			
+					Experience	G.P.
+Dice	Result				Point Value	Sale Value
+01-03	Animal Control*			250		400
+04-06	Clairaudience			250		400
+07-09	Clairvoyance			300		500
+10-12	Climbing			300		500
+13-15	Delusion**			---		150
+16-16	Diminution			300		500
+19-20	Dragon Control*			500-1000	5000-9000
+21-23	ESP				500		850
+24-26	Extra-Healing			400		800
+27-29	Fire Resistance			250		400
+30-32	Flying				500		750
+33-34	Gaseous Form			300		400
+35-36	Giant Control*			 400-900	1,000-6000
+37-39	Giant Strength* (F)	 	500-750		900-1400
+40-41	Growth				250		300
+42-47	Healing				200		400
+48-49	Heroism (F)			300		500
+50-51	Human Control*			500		900
+52-54	Invisibility			250		500
+55-57	Invulnerability (F)		350		500
+58-60	Levitation			250		400
+61-63	Longevity			500		1000
+54-66	Oil of Etherealness		600		1500
+67-69	Oil of Slipperiness		400		750
+70-72	Philter of Love			200		300	
+73-75	Philter of Persuasiveness		400		850	
+76-78	Plant Control			250		300	
+79-81	Polymorph (self)			200		350	
+82-84	Poison**			---		---	
+85-87	Speed				200		450	
+88-90	Super-Heroism (F)		450		750	
+91-93	Sweet Water			200		250	
+94-96	Treasure Finding			600		2000	
+97	Undead Control*			700		2500	
+98-00	Water Breathing			400		900	
+* Effectiveness on type of creature controlled must be determined by die roll; consult item explanation.				
+**  The Dungeon Master must mislead the possessor of the potion so as to convince him that it is not harmful.	 (See the appropriate item description for particulars.)			
+(F) = Fighters only may use			
+			
+III.B  SCROLLS			
+			
+Dice	Result			Spell Level Range	
+01-10	1 spell			1-4	
+11-16	1 spell			1-6	
+17-19	1 spell			2-9 (d8 + 1) or 2-7* (d6 + 1)	
+20-24	2 spells			1-4	
+25-27	2 spells			1-8 or 1-6*	
+28-32	3 spells			1-4	
+33-35	3 spells			2-9 or 2-7*	
+36-39	4 spells			1-6	
+40-42	4 spells			1-8 or 1-6*	
+43-46	5 spells			1-6	
+47-49	5 spells			1-8 or 1-6*	
+50-52	6 spells			1-6	
+53-54	6spells			3-8 (d6 + 2) or 3-6* (d4 + 2)	
+55-57	7 spells			1-8	
+58-59	7 spells			2-9	
+60	7 spells			4-9(d6 + 3) or 4-7*(d4 + 3)	
+61-62	Protection - Demons	 (2,500 x.p.) 	
+63-64	Protection - Devils	 (2,500 x.p.) 	
+65-70	Protection - Elementals	 (1,500 x.p.) 	
+71-76	 Protection - Lycanthropes	 (1,000 x.p.) 	
+77-82	Protection - Magic	 (1,500 x.p.) 	
+83-87	Protection - Petrification	 (2,000 x.p.) 	
+88-92	Protection - Possession	 (2,000 x.p.) 	
+93-97	Protection - Undead	 (1,500 x.p.) 	
+98-00	Curse**		
+			
+*  30% of all scrolls are of clerical nature (dice 71-00), and 25% of all			
+clerical scrolls are druidical.  10% of all magic-user scrolls are illusionist.			
+This applies only to scrolls 01-60 above.  Asterisked numbers indicate			
+clerical spell levels.			
+**  It is incumbent upon the Dungeon Matter to do hit utmost to convince			
+players that a cursed scroll should be read. This it to be			
+"accomplished through duplicity, coercion and threat, etc.   i.e., any"			
+"scroll not read has a chance of fading in normal air, but this can be"			
+noted by the archaic wording if read in the still dungeon			
+atmosphere. A curse takes effect immediately; suggested curses are:			
+1-25	Reader polymorphed to monster of equal level which attacks any creatures nearby		
+26-30	Reader turned to liquid and drains away		
+31-40	"Reader and all within 20' radius transported 200 to 1,200 miles in a random direction"		
+41-50	"Reader and all in 20' radius transported to another planet, plane or continuum"		
+51-75	Disease fatal to reader in 2-8 turns unless cured		
+76-90	Explosive runes		
+91-99	Magic item nearby is "de-magicked"	
+00	Randomly rolled spell affects reader at 12th level of magic-use		
+			
+Experience Points (x.p.) Value:			
+Awarded only to characters who can use the spell(s); the award should be			
+100 x.p. per spell level. Protection scrolls are noted as to x.p. value on the			
+table itself.			
+Gold Piece (g.p.) Sale Value:			
+Any scroll can be told in the "open market" for three times its x.p. value.			
+Protection scrolls sell for five times x.p. value.			
+III.C.  RINGS			
+					Experience	G.P.
+Dice	Result				Point Value	Sale Value
+01-06	Contrariness			---		1000
+07-12	Delusion			---		2000
+13-14	Djinni Summoning*		3000		20000
+15	Elemental Command		5000		25000
+16-21	Feather Falling			1000		5000
+22-27	Fire Resistance			1000		5000
+28-30	Free Action			1000		5000
+31-33	Human Influence*		2000		10000
+34-40	Invisibility			1500		7500
+41-43	Mammal Control*		1000		5000
+44	Multiple Wishes*			5000		25000
+45-60	Protection			2000-4000	10000-20000
+61	Regeneration			5000		40000
+62-63	Shooting Stars			3000		15000
+64-65	Spell Storing			2500		22500
+66-69	Spell Turning			2000		17500
+70-75	Swimming			1000		5000
+76-77	Telekinesis*			2000		10000
+78-79	Three Wishes*			3000		15000
+80-85	Warmth				1000		5000
+86-90	Water Walking			1000		5000
+91-98	Weakness			---		1000
+99	Wizardry* (M)			4000		50000
+00	X-Ray Vision			4000		35000
+(M) = Magic-user use only.			
+*  These rings contain the most powerful magical abilities and may possess			
+only a limited number of magical charges before being			
+depleted, at the DM's option.		
+III.D.  RODS, STAVES, & WANDS			
+						Experience	G.P.
+Dice	Result					Point Value*	Sale Value*
+01-03	Rod of Absorption (C,M) 			7500		40000
+04	Rod oft Beguiling (C,M,T) 		5000		30000
+05-14	Rod of Cancellation (any)			10000		15000
+15-16	Rod of Lordly Might (F)			6000		20000
+17	Rod of Resurrection (C)			10000		35000
+18	Rod of Rulership (any)			8000		35000
+19	Rod of Smiting (C,F) 			4000		15000
+20	Staff of Command (C,M) 			5000		25000
+21-22	Staff of Curing (C)			6000		25000
+23	Staff of the Magi (M)			15000		75000
+24	Staff of Power (M)			12000		60000
+25-27	Staff of the Serpent (C)			7000		35000
+28-31	Staff of Striking (C,M) 			6000		15000
+32-33	Staff of Withering (C)			8000		35000
+34	Wand of Conjuration (M)			7000		35000
+35-38	Wand of Enemy Detection (any)		2000		10000
+39-41	Wand of Fear (C,M) 			3000		15000
+42-44	Wand of Fire (M)				4500		25000
+45-47	Wand of Frost (M)			6000		50000
+48-52	Wand of Illumination (any)		2000		10000
+53-56	Wand of Illusion (M)			3000		20000
+57-59	Wand of Lightning (M)			4000		30000
+60-68	Wand of Magic Detection (any)		2500		25000
+69-73	Wand of Metal & Mineral Detection (any)	1500		7500
+74-78	Wand of Magic Missiles (any)		4000		35000
+79-86	Wand of Negation (any)			3500		15000
+87-89	Wand of Paralyzation (M)			3500		25000
+90-92	Wand of Polymorphing (M)		3500		25000
+93-94	Wand of Secret Door & Trap Location (any)	5000		40000
+95-00	Wand of Wonder (any)			6000		10000
+*  Assumes full charges are in item.			
+(C) = Usable by the cleric class only.			
+(F) = Usable by the fighter class only.			
+(M) = Usable by the magic-user class only.			
+(T) = Usable by the thief class only. 			
+(any) = Usable by any class unless otherwise prohibited.			
+III.E. MISCELLANEOUS MAGIC			
+TABLE (III.E.) 1.			
+							Experience	G.P.
+Dice	Result						Point Value	Sale Value
+01-02	Alchemy Jug					3000		12000
+03-04	Amulet of Inescapable Location			---		1000
+05	Amulet of Life Protection				5000		20000
+08-11	Amulet of the Planes				6000		30000
+12-13	Amulet of Proof Against Detection and Location	4000		15000
+14-16	Apparatus of Kwalish				8000		35000
+14-16	Arrow of Direction				2500		17500
+17	Artifact or Relic (see Special table hereafter)		---		---
+18-20	Bag of Beans					1000		5000
+21	Bag of Devouring				---		1500
+22-26	Bag of Holding					5000		25000
+27	Bag of Transmuting				---		500
+28-29	Bag of Tricks					2500		15000
+30-31	Beaker of Plentiful Potions			1500		12500
+32	"Boat, Folding"					10000		25000
+33	Book of Exalted Deeds (C)			8000		40000
+34	Book of Infinite Spells				9000		50000
+35	Book of Vile Darkness (C)				8000		40000
+36	Boots of Dancing					---		5000
+37-42	Boots of Elvenkind				1000		5000
+43-47	Boots of Levitation				2000		15000
+48-51	Boots of Speed					2500		20000
+52-55	Boots of Striding and Springing			2500		20000
+56-58	Bowl Commanding Water Elementals (M)		4000		25000
+59	Bowl of Watery Death (M)			---		1000
+60-79	Bracers of Defense	   			500*		3000*
+80-81	Bracers of Defenselessness			---		2000
+82-84	Brazier Commanding Fire Elementals (M)		4000		25000
+85	Brazier of Sleep Smoke (M)			---		1000
+86-92	Brooch of Shielding				1000		10000
+93	Broom of Animated Attack			---		3000
+94-98	Broom of Flying					2000		10000
+99-00	Bucknard's Everfull Purse				1500/2500/4000	15000/25000/40000
+			
+* Per armor class above 10, i.e., AC 6 is worth 2,000 in x.p., 12,000 gp if sold.		
+TABLE (III.E.) 2.			
+		Experience	G.P.
+Dice	Result	Point Value	Sale Value
+01-06	Candle of Invocation (C)	1000	5000
+07-08	Carpet of Flying	7500	25000
+09-10	Censer Controlling Air Elementals (M)	4000	25000
+11	Censer of Summoning Hostile Air Elementals (M)	---	1000
+12-13	Chime of Opening	3500	20000
+14	Chime of Hunger	---	---
+15-18	Cloak of Displacement	3000	17500
+19-27	Cloak of Elvenkind	1000	6000
+28-30	Cloak of Manta Roy	2000	12500
+31-32	Cloak of Poisonousness	---	2500
+33-55	Cloak of Protection	"  1,000*"	10000*
+56-60	Crystal Ball (M)	" 1 ,000**"	5 000**
+61	Crystal Hypnosis Ball (M)	---	3000
+62-63	Cube of Force	3000	20000
+64-65	Cube of Frost Resistance	2000	14000
+66-67	Cubic Gate	5000	17500
+68-69	Daern's Instant Fortress	7000	27500
+70-72	Decanter of Endless Water	1000	3000
+73-76	Deck of Many Things	---	10000
+77	Drums of Deafening	---	500
+78-79	Drums of Panic	6500	35000
+80-85	Dust of Appearance	1000	4000
+86-91	Dust of Disappearance	2000	8000
+92	Dust of Sneezing and Choking	---	1000
+93	Efreeti Bottle	9000	45000
+94	Eversmoking Bottle	500	2500
+95	Eyes of Charming (M)	4000	24000
+96-97	Eyes of the Eagle	3500	18000
+98-99	Eyes of Minute Seeing	2000	12500
+00	Eyes of Petrification	---***	---***
+* Per plus of protection.			
+** Add 100% for each additional feature.			
+"*** If reverse effect, 12,500 x.p. and 50,000 g.p. sale value."			
+TABLE (III.E.) 3.			
+							Experience	G.P.
+Dice	Result						Point Value	Sale Value
+01-15	Figurine of Wondrous Power			100*		1000*
+16	Flask of Curses					---		1000
+17-18	Gauntlets of Dexterity				1000		10000
+19-20	Gauntlets of Fumbling				---		1000
+21-22	 Gauntlets of Ogre Power (C, F, T) 			1000		15000
+23-25	 Gauntlets of Swimming and Climbing (C,F,T) 	1000		10000
+26	Gem of Brightness				2000		17500
+27	Gem of Seeing					2000		25000
+28	 Girdle of Femininity/Masculinity (C,F,T) 		---		1000
+29	 Girdle of Giant Strength (C,F,T) 			200		2500
+30	Helm of Brilliance				2500		60000
+31-35	Helm of Comprehending Languages&Reading Magic	1000		12500
+36-37	Helm of Opposite Alignment			---		1000
+38-39	Helm of Telepathy				3000		35000
+40	Helm of Teleportation				2500		30000
+41-45	Helm of Underwater Action			1000		10000
+46	Horn of Blasting					5000		55000
+47-48	Horn of Bubbles					---		---
+49	Horn of Collapsing				1500		25000
+50-53	 Horn of the Tritons (C, F) 			2000		17500
+54-60	Horn of Valhalla					1000**		15000**
+61-63	Horseshoes of Speed				2000		10000
+64-65	Horseshoes of a Zephyr				1500		7500
+66-70	Incense of Meditation (C)				500		7500
+71	Incense of Obsession (C)				---		500
+72	Ioun Stones					300***		5000***
+73-78	Instrument of the Bards				1000****	5000****
+79-80	Iron Flask					---		---
+81-85	Javelin of Lightning (F)				250		3000
+86-90	Javelin of Piercing (F)				250		3000
+91	Jewel of Attacks					---		1000
+92	Jewel of Flawlessness				---		1000/facet
+93-00	Keoghtom's Ointment				500		10000
+*  Per hit die of the figurine.			
+ **  Double for a bronze horn, triple for an iron horn. 			
+***  Per stone.			
+****  Per level of instrument for Bards.			
+			
+			
+			
+TABLE (III.E.) 4.			
+						Experience	G.P.
+Dice	Result					Point Value	Sole Value
+01	Libram of Gainful Conjuration (M)		8000		40000
+02	Libram of Ineffable Damnation (M)		8000		40000
+03	Libram of Silver Magic (M)		8000		40000
+04	Lyre of Building				5000		30000
+05	Manual of Bodily Health			5000		50000
+06	Manual of Gainful Exercise		5000		50000
+07	 Manual of Golems (C, M) 		3000		30000
+08	Manual of Puissant Skill at Arms (F)	8000		40000
+09	Manual of Quickness of Action		5000		50000
+10	Manual of Stealthy Pilfering (T)		8000		40000
+11	Mattock of the Titans (F)			3500		7000
+12	Maul of the Titans			4000		12000
+13-15	Medallion of ESP				1000/3000	10000/30000
+16-17	Medallion of Thought Projection		---		1000
+18	Mirror of Life Trapping (M)		2500		25000
+19	Mirror of Mental Prowess			5000		50000
+20	Mirror of Opposition			---		2000
+21-23	Necklace of Adaptation			1000		10000
+24-27	Necklace of Missiles			50*		200*
+28-33	Necklace of Prayer Beads (C)		500**		3000**
+34-35	Necklace of Strangulation			---		1000
+36-38	 Net of Entrapment (C, F, T) 		1000		7500
+39-42	 Net of Snaring (C, F, T) 			1000		6000
+43-44	Nolzurs' Marvelous Pigments		500***		3000***
+45-46	Pearl of Power (M)			200****		2000****
+47-48	Pearl of Wisdom (C)			500		5000
+49-50	Periapt of Foul Rotting			---		1000
+51-53	Periapt of Health				1000		10000
+54-60	Periapt of Proof Against Poison		1500		12500
+61-64	Periapt of Wound Closure			1000		10000
+65-70	Phylactery of Faithfulness (C)		1000		7500
+71-74	Phylactery of Long Years (C)		3000		25000
+75-76	Phylactery of Monstrous Attention (C)	---		2000
+77-84	Pipes of the Sewers			1750		8500
+85	Portable Hole				5000		50000
+86-00	Quaal's Feather Token			500/1000	2000/7000
+*  Per hit die of each missile.			
+**  Per special bead.			
+***  Per pot of pigments.			
+****  Per level of spell.			
+			
+TABLE (III.E.) 5.				
+						Experience	G.P.	
+Dice	Result					Point Value	Sale Value	
+01	Robe of the Archmagi (M)			6000		65000	
+02-08	Robe of Blending				3500		35000	
+09	Robe of Eyes (M)				4500		50000	
+10	Robe of Powerlessness (M)		---		1000	
+11	 Robe of Scintillating Colors (C,M) 	2750		25000	
+12-19	Robe of Useful Items (M)			1500		15000	
+20-25	Rope of Climbing				1000		10000	
+26-27	Rope of Constriction			---		1000	
+28-31	Rope of Entanglement			1250		12000	
+32	Rug of Smothering			---		1500	
+33	Rug of Welcome (M)			6500		45000	
+34	Saw of Mighty Cutting (F)			1750		12500	
+35	Scarab of Death				---		2500	
+36-38	Scarab of Enraging Enemies		1000		8000
+39-40	Scarab of Insanity			1500		11000
+41-46	Scarab of Protection			2500		25000
+47	Spade of Colossal Excavation (F)		1000		6500
+48	Sphere of Annihilation (M)		3750		30000
+49-50	Stone of Controlling Earth Elementals	1500		12500
+51-52	Stone of Good Luck (Luckstone)		3000		25000
+53-54	Stone of Weight (Loadstone)		---		1000
+55-57	Talisman of Pure Good (C)		3500		27500
+58	Talisman of the Sphere (M)		100		10000
+59-60	Talisman of Ultimate Evil (C)		3500		32500
+61-66	Talisman of Zagy				1000		10000
+67	Tome of Clear Thought			8000		48000
+68	Tome of Leadership and Influence		7500		40000
+69	Tome of Understanding			8000		43500
+70-76	 Trident of Fish Command (C, F, T) 	500		4000
+77-78	Trident of Submission (F)			1250		12500
+79-83	 Trident of Warning (C, F, I) 		1000		10000
+84-85	Trident of Yearning			---		1000
+86-87	Vacuous Grimoire			---		1000
+88-90	Well of Many Worlds			6000		12000
+91-00	Wings of Flying				750		7500
+			
+			
+			
+TABLE (III.E.)  					Special			
+						G.P.	
+Dice	Result					Sale Value*	
+01	Axe of the Dwarvish Lords		55000	
+02	Baba Yaga's Hut				90000	
+03-04	Codex of the Infinite Planes		62500	
+05-20	Crown of Might				50000	
+21	Crystal of the Ebon Flame			75000	
+22	Cup and Talisman of Al'Akbar		85000	
+23-24	Eye of Vecna				35000	
+25	Hand of Vecna				60000	
+26	Heward's Mystical Organ			25000	
+27	Horn of Change				20000	
+28-29	Invulnerable Coat of Arnd			47500	
+30-31	Iron Flask of Tuerny the Merciless		50000	
+32	Jacinth of Inestimable Beauty		100000	
+33	Johydee's Mask				40000	
+34-35	Kuroth's Quill				27500	
+36-37	Mace of Cuthbert				35000	
+38	Machine of Lum the Mad			72500	
+39-40	Mighty Servant of Leuk-O			185000	
+41-47	Orb of the Dragonkind			10-80000	
+48-63	Orb of Might				100000	
+64	Queen Ehlissa's Marvelous Nightingale	112500	
+65-66	Recorder of Ye'Cind			80000	
+67-68	Ring of Gaxx				17500	
+69-74	Rod of Seven Parts			25000	
+75-91	Sceptre of Might				150000	
+92	Sword of Kas				97000	
+93-98	Teeth of Dahlver-Nar			5000/tooth	
+99	Throne of the Gods			---	
+00	Wand of Orcus				10000	
+			
+*  These items bring no experience points.			
+III.F. ARMOR AND SHIELD			
+					Experience	  G.P.
+Dice	Result				Point Value	Sale Value
+01-05	Chain Mail +1			600		3500
+06-09	Chain Mail +2			1200		7500
+10-11	Chain Mail +3			2000		12500
+12-19	Leather Armor +1		300		2000
+20-26	Plate Mail +1			800		5000
+27-32	Plate Mail +2			1750		10500
+33-35	Plate Mail +3			2750		15500
+36-37	Plate Mail +4			3500		20500
+38	Plate Mail +5			4500		27500
+39	Plate Mail of Etherealness		5000		30000
+40-44	Plate Mail of Vulnerability		---		1500
+45-50	Ring Mail +1			400		2500
+51-55	Scale Mail +1			500		3000
+56-59	Scale Mail +2			1100		6750
+60-63	Splint Mail +1			700		4000
+64-66	Splint Mail +2			1500		8500			
+67-68	Splint Mail +3			2250		14500			
+69	Splint Mail +4			3000		19000			
+70-75	Studded Leather +1		400		2500			
+76-84	Shield +1			250		2500			
+85-89	Shield +2			500		5000			
+90-93	Shield +3			800		8000			
+94-95	Shield +4			1200		12000			
+96	Shield +5			1750		17500			
+97	 Shield, large, +1, +4 vs. missiles 	400		4000			
+98-00	  Shield -1, missile attractor 	---		750			
+						
+65% of all armor is man-sized, 20% is elf-sized, 10% is dwarf sized, and but			
+5% gnome or halfing sized.						
+III.G. SWORDS			
+								Experience	  G.P.
+Dice	Result							Point Value	Sale Value
+01-25	Sword +1						400		2000
+26-30	 Sword +1, +2 vs. magic-using & enchanted creatures 	600		3000
+31-35	 Sword +1, +3 vs. lycanthropes & shape changers 		700		3500
+36-40	 Sword +1, +3 vs. regenerating creatures 			800		4000
+41-45	 Sword +1, +4 vs. reptiles 					800		4000
+46-49	 Sword + 1, Flame Tongue:  +2 vs. regenerating creatures, 	900		45000
+	  +3 vs. cold-using, inflammable, or avian creatures,  		
+	+4 vs. undead	
+50	 Sword +1, Luck Blade 					1000		5000
+51-58	Sword +2						800		4000
+59-62.	 Sword +2, Giant Slayer 					900		4500
+63-66	 Sword +2, Dragon Slayer 					900		4500
+67	 Sword +2, Nine Lives Stealer 				1600		8000
+68-71	Sword +3						1400		7000
+72-74	 Sword + 3, Frost Brand:  +6 vs. fire using/dwelling creatures 	1600		8000
+75-76	Sword +4						2000		10000
+77	 Sword +4, Defender 					3000		15000
+78	Sword +5						3000		15000
+79	 Sword +5, Defender 					3600		18000
+80	 Sword +5, Holy Avenger 					4000		20000
+81	Sword of Dancing					4400		22000
+82	Sword of Wounding					4400		22000
+83	Sword of Life Stealing					5000		25000
+84	Sword of Sharpness					7000		35000
+85	 Sword, Vorpal Weapon 					10000		50000
+86-90	 Sword +1, Cursed 					400		---
+91-95	 Sword -2, Cursed 					600		---
+96-00	 Sword, Cursed Berserking 				900		---
+				
+ Note:  70% of swords are long swords, 20% are broadswords, 5% are short 				
+ (small) swords, 4% are bastard swords, 1% are two-handed swords. 				
+III.H. MISCELLANEOUS WEAPONS				
+							Experience	G.P.	
+Dice	Result						Point Value	Sale Value	
+01-08	 Arrow +1, 2-24 in number 			20		120	
+09-12	 Arrow +2, 2-16 in number 			50		300	
+13-14	 Arrow +3, 2-12 in number 			75		450	
+15	Arrow of Slaying					250		2500	
+16-20	Axe +1						300		1750	
+21-22	Axe +2						600		3750	
+23	 Axe +2, Throwing 				750		4500	
+24	Axe +3						1000		7000	
+25-27	Battle Axe +1					400		2500	
+28-32	 Bolt +2, 2-20 in number 				50		300	
+33-35	Bow + 1						500		3500	
+36	 Crossbow of Accuracy, +3 			2000		12000	
+37	Crossbow of Distance				1500		7500	
+38	Crossbow of Speed				1500		7500	
+39-46	 Dagger +1, +2 vs. creatures smaller than man-sized 	100		750	
+47-50	 Dagger +2, +3 vs. creatures larger than man-sized 	250		2000	
+51	Dagger of Venom					350		3000	
+52-56	Flail +1						450		4000	
+57-60	Hammer +1					300		2500	
+61-62	Hammer +2					650		6000	
+63	 Hammer +3, Dwarven Thrower 			1500		15000	
+64	Hammer of Thunderbolts				2500		25000	
+65-67	Javelin +2					750		5000	
+68-72	Mace +1						350		3000
+73-75	Mace +2						700		4500
+76	Mace of Disruption				1750		17500
+77	Mace +4						1500		15000
+78-80	Military Pick +1					350		2500
+81-83	Morning Star +1					400		3000
+84-88	Scimitar +2					750		6000
+89	Sling of Seeking					700		7000
+90-94	Spear +1					500		3000
+95-96	Spear +2					1000		6500
+97	Spear +3					1750		15000
+98-99	 Spear, Cursed Backbiter 				---		1000
+00	Trident (Military Fork) +3				1500		12500

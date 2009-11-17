@@ -1,0 +1,210 @@
+M-U Scroll 2-9 (Score=d8)
+| Score		| *Spell*			|
+| 1		| [M-U Spell Level 2/Spell]	|
+| 2		| [M-U Spell Level 3/Spell]	|
+| 3		| [M-U Spell Level 4/Spell]	|
+| 4		| [M-U Spell Level 5/Spell]	|
+| 5		| [M-U Spell Level 6/Spell]	|
+| 6		| [M-U Spell Level 7/Spell]	|
+| 7		| [M-U Spell Level 8/Spell]	|
+| 8		| [M-U Spell Level 9/Spell]	|
+
+Illusionist Scroll 2-9 (Score=d6)
+| Score		| *Spell*			|
+| 1		| [Illusionist Spell Level 2/Spell]	|
+| 2		| [Illusionist Spell Level 3/Spell]	|
+| 3		| [Illusionist Spell Level 4/Spell]	|
+| 4		| [Illusionist Spell Level 5/Spell]	|
+| 5		| [Illusionist Spell Level 6/Spell]	|
+| 6		| [Illusionist Spell Level 7/Spell]	|
+
+Cleric Scroll 2-9 (Score=d6)
+| Score		| *Spell*			|
+| 1		| [Cleric Spell Level 2/Spell]	|
+| 2		| [Cleric Spell Level 3/Spell]	|
+| 3		| [Cleric Spell Level 4/Spell]	|
+| 4		| [Cleric Spell Level 5/Spell]	|
+| 5		| [Cleric Spell Level 6/Spell]	|
+| 6		| [Cleric Spell Level 7/Spell]	|
+
+Druid Scroll 2-9 (Score=1)
+| Score		| *Spell*			|
+| 1		| [Druid Spell Level 2/Spell]	|
+| 2		| [Druid Spell Level 3/Spell]	|
+| 3		| [Druid Spell Level 4/Spell]	|
+| 4		| [Druid Spell Level 5/Spell]	|
+| 5		| [Druid Spell Level 6/Spell]	|
+| 6		| [Druid Spell Level 7/Spell]	|
+
+M-U Scroll 1-8 (Score=d8)
+| Score		| *Spell*			|
+| 1		| [M-U Spell Level 1/Spell]	|
+| 2		| [M-U Spell Level 2/Spell]	|
+| 3		| [M-U Spell Level 3/Spell]	|
+| 4		| [M-U Spell Level 4/Spell]	|
+| 5		| [M-U Spell Level 5/Spell]	|
+| 6		| [M-U Spell Level 6/Spell]	|
+| 7		| [M-U Spell Level 7/Spell]	|
+| 8		| [M-U Spell Level 8/Spell]	|
+
+Illusionist Scroll 1-8 (Score=d6)
+| Score		| *Spell*			|
+| 1		| [Illusionist Spell Level 1/Spell]	|
+| 2		| [Illusionist Spell Level 2/Spell]	|
+| 3		| [Illusionist Spell Level 3/Spell]	|
+| 4		| [Illusionist Spell Level 4/Spell]	|
+| 5		| [Illusionist Spell Level 5/Spell]	|
+| 6		| [Illusionist Spell Level 6/Spell]	|
+
+Cleric Scroll 1-8 (Score=d6)
+| Score		| *Spell*			|
+| 1		| [Cleric Spell Level 1/Spell]	|
+| 2		| [Cleric Spell Level 2/Spell]	|
+| 3		| [Cleric Spell Level 3/Spell]	|
+| 4		| [Cleric Spell Level 4/Spell]	|
+| 5		| [Cleric Spell Level 5/Spell]	|
+| 6		| [Cleric Spell Level 6/Spell]	|
+
+Druid Scroll 1-8 (Score=d6)
+| Score		| *Spell*			|
+| 1		| [Druid Spell Level 1/Spell]	|
+| 2		| [Druid Spell Level 2/Spell]	|
+| 3		| [Druid Spell Level 3/Spell]	|
+| 4		| [Druid Spell Level 4/Spell]	|
+| 5		| [Druid Spell Level 5/Spell]	|
+| 6		| [Druid Spell Level 6/Spell]	|
+
+M-U Scroll 1-4 (Score=d4)
+| Score 	| *Spell*			|
+| 1		| [M-U Spell Level 1/Spell]	|
+| 2		| [M-U Spell Level 2/Spell]	|
+| 3		| [M-U Spell Level 3/Spell]	|
+| 4		| [M-U Spell Level 4/Spell]	|
+
+Illusionist Scroll 1-4 (Score=d4)
+| Score 	| *Spell*			|
+| 1		| [Illusionist Spell Level 1/Spell]	|
+| 2		| [Illusionist Spell Level 2/Spell]	|
+| 3		| [Illusionist Spell Level 3/Spell]	|
+| 4		| [Illusionist Spell Level 4/Spell]	|
+
+Cleric Scroll 1-4 (Score=d4)
+| Score 	| *Spell*			|
+| 1		| [Cleric Spell Level 1/Spell]	|
+| 2		| [Cleric Spell Level 2/Spell]	|
+| 3		| [Cleric Spell Level 3/Spell]	|
+| 4		| [Cleric Spell Level 4/Spell]	|
+
+Druid Scroll 1-4 (Score=d4)
+| Score 	| *Spell*			|
+| 1		| [Druid Spell Level 1/Spell]	|
+| 2		| [Druid Spell Level 2/Spell]	|
+| 3		| [Druid Spell Level 3/Spell]	|
+| 4		| [Druid Spell Level 4/Spell]	|
+
+M-U Scroll 1-6 (Score=d6)
+| Score | *Spell* |
+| 1 | [M-U Spell Level 1/Spell] |
+| 2 | [M-U Spell Level 2/Spell] |
+| 3 | [M-U Spell Level 3/Spell] |
+| 4 | [M-U Spell Level 4/Spell] |
+| 5 | [M-U Spell Level 5/Spell] |
+| 6 | [M-U Spell Level 6/Spell] |
+
+
+Illusionist Scroll 1-6 (Score=d6)
+| Score | *Spell* |
+| 1 | [Illusionist Spell Level 1/Spell] |
+| 2 | [Illusionist Spell Level 2/Spell] |
+| 3 | [Illusionist Spell Level 3/Spell] |
+| 4 | [Illusionist Spell Level 4/Spell] |
+| 5 | [Illusionist Spell Level 5/Spell] |
+| 6 | [Illusionist Spell Level 6/Spell] |
+
+
+Cleric Scroll 1-6 (Score=d6)
+| Score | *Spell* |
+| 1 | [Cleric Spell Level 1/Spell] |
+| 2 | [Cleric Spell Level 2/Spell] |
+| 3 | [Cleric Spell Level 3/Spell] |
+| 4 | [Cleric Spell Level 4/Spell] |
+| 5 | [Cleric Spell Level 5/Spell] |
+| 6 | [Cleric Spell Level 6/Spell] |
+
+
+Druid Scroll 1-6 (Score=d6)
+| Score | *Spell* |
+| 1 | [Druid Spell Level 1/Spell] |
+| 2 | [Druid Spell Level 2/Spell] |
+| 3 | [Druid Spell Level 3/Spell] |
+| 4 | [Druid Spell Level 4/Spell] |
+| 5 | [Druid Spell Level 5/Spell] |
+| 6 | [Druid Spell Level 6/Spell] |
+
+
+M-U Scroll 3-8 (Score=d6+2)
+| Score | *Spell* |
+| 3 | [M-U Spell Level 3/Spell] |
+| 4 | [M-U Spell Level 4/Spell] |
+| 5 | [M-U Spell Level 5/Spell] |
+| 6 | [M-U Spell Level 6/Spell] |
+| 7 | [M-U Spell Level 7/Spell] |
+| 8 | [M-U Spell Level 8/Spell] |
+
+
+Illusionist Scroll 3-8 (Score=d4+2)
+| Score | *Spell* |
+| 3 | [Illusionist Spell Level 3/Spell] |
+| 4 | [Illusionist Spell Level 4/Spell] |
+| 5 | [Illusionist Spell Level 5/Spell] |
+| 6 | [Illusionist Spell Level 6/Spell] |
+
+
+Druid Scroll 3-8 (Score=d4+2)
+| Score | *Spell* |
+| 3 | [Druid Spell Level 3/Spell] |
+| 4 | [Druid Spell Level 4/Spell] |
+| 5 | [Druid Spell Level 5/Spell] |
+| 6 | [Druid Spell Level 6/Spell] |
+
+
+Cleric Scroll 3-8 (Score=d4+2)
+| Score | *Spell* |
+| 3 | [Cleric Spell Level 3/Spell] |
+| 4 | [Cleric Spell Level 4/Spell] |
+| 5 | [Cleric Spell Level 5/Spell] |
+| 6 | [Cleric Spell Level 6/Spell] |
+M-U Scroll 4-9 (Score=d6+3)
+| Score | *Spell* |
+| 4 | [M-U Spell Level 4/Spell] |
+| 5 | [M-U Spell Level 5/Spell] |
+| 6 | [M-U Spell Level 6/Spell] |
+| 7 | [M-U Spell Level 7/Spell] |
+| 8 | [M-U Spell Level 8/Spell] |
+| 9 | [M-U Spell Level 9/Spell] |
+
+
+Illusionist Scroll 4-9 (Score=d4+3)
+| Score | *Spell* |
+| 4 | [Illusionist Spell Level 4/Spell] |
+| 5 | [Illusionist Spell Level 5/Spell] |
+| 6 | [Illusionist Spell Level 6/Spell] |
+| 7 | [Illusionist Spell Level 7/Spell] |
+
+
+Druid Scroll 4-9 (Score=d4+3)
+| Score | *Spell* |
+| 4 | [Druid Spell Level 4/Spell] |
+| 5 | [Druid Spell Level 5/Spell] |
+| 6 | [Druid Spell Level 6/Spell] |
+| 7 | [Druid Spell Level 7/Spell] |
+
+
+Cleric Scroll 4-9 (Score=d4+3)
+| Score | *Spell* |
+| 4 | [Cleric Spell Level 4/Spell] |
+| 5 | [Cleric Spell Level 5/Spell] |
+| 6 | [Cleric Spell Level 6/Spell] |
+| 7 | [Cleric Spell Level 7/Spell] |
+
+

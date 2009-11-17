@@ -1,0 +1,33 @@
+#Special (Score=d100)
+III E Special (Score=d100)
+| Score	| *Name*					| *GP*	|
+| 01	| Axe of the Dwarvish Lords		| 55000	|
+| 02	| Baba Yaga's Hut				| 90000	|
+| 03->04	| Codex of the Infinite Planes		| 62500	|
+| 05->20	| Crown of Might				| 50000	|
+| 21	| Crystal of the Ebon Flame			| 75000	|
+| 22	| Cup and Talisman of Al'Akbar		| 85000	|
+| 23->24	| Eye of Vecna				| 35000	|
+| 25	| Hand of Vecna				| 60000	|
+| 26	| Heward's Mystical Organ			| 25000	|
+| 27	| Horn of Change				| 20000	|
+| 28->29	| Invulnerable Coat of Arnd			| 47500	|
+| 30->31	| Iron Flask of Tuerny the Merciless		| 50000	|
+| 32	| Jacinth of Inestimable Beauty		| 100000	|
+| 33	| Johydee's Mask				| 40000	|
+| 34->35	| Kuroth's Quill				| 27500	|
+| 36->37	| Mace of Cuthbert				| 35000	|
+| 38	| Machine of Lum the Mad			| 72500	|
+| 39->40	| Mighty Servant of Leuk-O			| 185000	|
+| 41->47	| Orb of the Dragonkind			| 180000	|
+| 48->63	| Orb of Might				| 100000	|
+| 64	| Queen Ehlissa's Marvelous Nightingale	| 112500	|
+| 65->66	| Recorder of Ye'Cind			| 80000	|
+| 67->68	| Ring of Gaxx				| 17500	|
+| 69->74	| Rod of Seven Parts			| 25000	|
+| 75->91	| Sceptre of Might				| 150000	|
+| 92	| Sword of Kas				| 97000	|
+| 93->98	| Teeth of Dahlver-Nar			| "5000/tooth"	|
+| 99	| Throne of the Gods			| -	|
+| 00	| Wand of Orcus				| 10000	|
+

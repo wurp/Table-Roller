@@ -1,0 +1,27 @@
+III C (Score=d100)
+| Score	| *Ring*				| *XP*	| *GP*	|
+| 01->06	| Contrariness			| -		| 1000	|
+| 07->12	| Delusion			| -		| 2000	|
+| 13->14	| Djinni Summoning*		| 3000		| 20000	|
+| 15	| Elemental Command		| 5000		| 25000	|
+| 16->21	| Feather Falling			| 1000		| 5000	|
+| 22->27	| Fire Resistance			| 1000		| 5000	|
+| 28->30	| Free Action			| 1000		| 5000	|
+| 31->33	| Human Influence*		| 2000		| 10000	|
+| 34->40	| Invisibility			| 1500		| 7500	|
+| 41->43	| Mammal Control*		| 1000		| 5000	|
+| 44	| Multiple Wishes*			| 5000		| 25000	|
+| 45->60	| Protection			| "2000-4000"	| "10000-20000"	|
+| 61	| Regeneration			| 5000		| 40000	|
+| 62->63	| Shooting Stars			| 3000		| 15000	|
+| 64->65	| Spell Storing			| 2500		| 22500	|
+| 66->69	| Spell Turning			| 2000		| 17500	|
+| 70->75	| Swimming			| 1000		| 5000	|
+| 76->77	| Telekinesis*			| 2000		| 10000	|
+| 78->79	| Three Wishes*			| 3000		| 15000	|
+| 80->85	| Warmth				| 1000		| 5000	|
+| 86->90	| Water Walking			| 1000		| 5000	|
+| 91->98	| Weakness			| -		| 1000	|
+| 99	| Wizardry* (M)			| 4000		| 50000	|
+| 100	| X-Ray Vision			| 4000		| 35000	|
+

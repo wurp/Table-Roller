@@ -1,0 +1,34 @@
+#RODS, STAVES, & WANDS
+III D (Score=d100)
+| Score	| *Name*					| *XP*	| *GP*	|
+| 01->03	| Rod of Absorption (C,M) 			| 7500		| 40000	|
+| 04	| Rod oft Beguiling (C,M,T) 		| 5000		| 30000	|
+| 05->14	| Rod of Cancellation (any)			| 10000		| 15000	|
+| 15->16	| Rod of Lordly Might (F)			| 6000		| 20000	|
+| 17	| Rod of Resurrection (C)			| 10000		| 35000	|
+| 18	| Rod of Rulership (any)			| 8000		| 35000	|
+| 19	| Rod of Smiting (C,F) 			| 4000		| 15000	|
+| 20	| Staff of Command (C,M) 			| 5000		| 25000	|
+| 21->22	| Staff of Curing (C)			| 6000		| 25000	|
+| 23	| Staff of the Magi (M)			| 15000		| 75000	|
+| 24	| Staff of Power (M)			| 12000		| 60000	|
+| 25->27	| Staff of the Serpent (C)			| 7000		| 35000	|
+| 28->31	| Staff of Striking (C,M) 			| 6000		| 15000	|
+| 32->33	| Staff of Withering (C)			| 8000		| 35000	|
+| 34	| Wand of Conjuration (M)			| 7000		| 35000	|
+| 35->38	| Wand of Enemy Detection (any)		| 2000		| 10000	|
+| 39->41	| Wand of Fear (C,M) 			| 3000		| 15000	|
+| 42->44	| Wand of Fire (M)				| 4500		| 25000	|
+| 45->47	| Wand of Frost (M)			| 6000		| 50000	|
+| 48->52	| Wand of Illumination (any)		| 2000		| 10000	|
+| 53->56	| Wand of Illusion (M)			| 3000		| 20000	|
+| 57->59	| Wand of Lightning (M)			| 4000		| 30000	|
+| 60->68	| Wand of Magic Detection (any)		| 2500		| 25000	|
+| 69->73	| Wand of Metal & Mineral Detection (any)	| 1500		| 7500	|
+| 74->78	| Wand of Magic Missiles (any)		| 4000		| 35000	|
+| 79->86	| Wand of Negation (any)			| 3500		| 15000	|
+| 87->89	| Wand of Paralyzation (M)			| 3500		| 25000	|
+| 90->92	| Wand of Polymorphing (M)		| 3500		| 25000	|
+| 93->94	| Wand of Secret Door & Trap Location (any)	| 5000		| 40000	|
+| 95->100	| Wand of Wonder (any)			| 6000		| 10000	|
+

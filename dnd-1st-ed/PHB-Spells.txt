@@ -1,0 +1,473 @@
+First Edition: Spells, items, and tables in alphabetical order
+
+Aerial Servant, Cleric                     Illusionist Illusion/Phantasm,
+   Conjuration/Summoning, PH-1 50.         PH-1 94.
+Affect Normal Fires, Magic-User         Augury, Cleric Divination, PH-1 45.
+   Alteration, PH-1 64.                 Barkskin, Druid Alteration, PH-1 55.
+Air Breathing, Rev. Water Breathing,    Bestow Curse, Rev. Remove Curse,
+   Druid Alteration, PH-1 58.              Magic-User Abjuration, PH-1 78. 
+Air Breating, Rev. Water Breating,         Rev. Remove Curse, Cleric
+   Magic-User Alteration, PH-1 75.         Abjuration, PH-1 47.
+Airy Water, Magic-User Alteration,      Bigby's Clenched Fist, Magic-User
+   PH-1 79.                                Evocation, PH-1 89.
+Alter Reality, Illusionist              Bigby's Crushing Hand, Magic-User
+   Illusion/Phantasm,                      Evocation, PH-1 92.
+   Conjuration/Summoning; PH-1 100.     Bigby's Forceful Hand, Magic-User
+Animal Friendship, Druid                   Evocation, PH-1 83.
+   Enchantment/Charm, PH-1 54.          Bigby's Grasping Hand, Magic-User
+Animal Growth, Druid Alteration, PH-1      Evocation, PH-1 86.
+   60.  Magic-User Alteration, PH-1     Bigby's Interposing Hand, Magic-User
+   79.                                     Evocation, PH-1 79.
+Animal Summoning I, Druid               Blade Barrier, Cleric Evocation, PH-1
+   Conjuration/Summoning, PH-1 59.         51.
+Animal Summoning II, Druid              Bless, Cleric Conjuration/Summoning,
+   Conjuration/Summoning, PH-1 60.         PH-1 43.
+Animal Summoning III, Druid             Blindness, Illusionist
+   Conjuration/Summoning, PH-1 61.         Illusion/Phantasm, PH-1 95.
+Animate Dead, Magic-User Necromantic,   Blink, Magic-User Alteration, PH-1
+   PH-1 79.  Cleric Necromantic, PH-1      72.
+   46.                                  Blur, Illusionist Illusion/Phantasm,
+Animate Object, Cleric Alteration,         PH-1 95.
+   PH-1 50.                             Burning Hands, Magic-User Alteration,
+Animate Rock, Druid Alteration, PH-1       PH-1 64.
+   63.                                  Cacodemon, Magic-User
+Anti-Animal Shell, Druid Abjuration,       Conjuration/Summoning, PH-1 86.
+   PH-1 61.                             Call Lightning, Druid Alteration,
+Anti-Magic Shell, Magic-User               PH-1 57.
+   Abjuration, PH-1 82.                 Call Woodland Beings, Druid
+Anti-Plant Shell, Druid Abjuration,        Conjuration/Summoning, PH-1 59.
+   PH-1 60.                             Cause Critical Wounds, Rev. Cure
+Antipathy/Sympathy, Magic-User             Critical Wounds, Druid
+   Enchantment/Charm, PH-1 89.             Necromantic, PH-1 62.  Rev. Cure
+Astral Spell, Cleric Alteration, PH-1      Critical Wounds, Cleric
+   52.  Illusionist Alteration, PH-1       Necromantic, PH-1 49.
+   100.  Magic-User Evocation, PH-1     Cause Disease, Rev. Cure Disease,
+   92.                                     Cleric Abjuration, PH-1 46.  Rev.
+Atonement, Cleric Abjuration, PH-1         Cure Disease, Druid Necromantic,
+   49.                                     PH-1 57.
+Audible Glamer, Magic-User              Cause Fear, Rev. Remove Fear, Cleric
+   Illusion/Phantasm, PH-1 69.             Abjuration, PH-1 44.
+
+Compilation is Copyright 2002 Perette Barella.  All Rights Reserved.
+Permission is granted to copy and distribute this document, as long
+as no fee is charged.  Advanced Dungeons & Dragons is a registered
+trademark of TSR, Inc., a subsidiary of Wizards of the Coast, Inc.
+
+Created: Fri Jan 12 17:08:17 EST 2007
+$Id: process_xref,v 1.5 2003/10/03 14:20:17 perette Exp perette $
+Advanced Dungeons & Dragons Cross Reference                           Page 2
+
+Cause Light Wounds, Rev. Cure Light        51.
+   Wounds, Druid Necromantic, .  Rev.   Conjure Earth Elemental, Druid
+   Cure Light Wounds, Cleric               Conjuration/Summoning, PH-1 63.
+   Necromantic, PH-1 43.                Conjure Elemental, Magic-User
+Cause Serious Wounds, Rev. Fourth          Conjuration/Summoning, PH-1 79.
+   Level Spells, Cleric Necromantic,    Conjure Fire Elemental, Druid
+   PH-1 48.  Rev. Cure Serious             Conjuration/Summoning, PH-1 61.
+   Wounds, Druid Necromantic, PH-1      Contact Other Plane, Magic-User
+   59.                                     Divination, PH-1 80.
+Change Self, Illusionist                Contaminate Water, Rev. Purify Water,
+   Illusion/Phantasm, PH-1 94.             Druid Alteration, PH-1 55.
+Chant, Cleric Conjuration/Summoning,    Continual Darkness, Rev. Continual
+   PH-1 45.                                Light, Cleric Alteration, PH-1 46.
+Chaos, Illusionist Enchantment/Charm,       Illusionist Alteration, PH-1 96.
+   PH-1 98.                             Continual Light, Illusionist
+Chariot Of Sustarre, Druid Evocation,      Alteration, PH-1 96.  Magic-User
+   PH-1 63.                                Alteration, PH-1 69.  Cleric
+Charm Monster, Magic-User                  Alteration, PH-1 46.
+   Enchantment/Charm, PH-1 75.          Control Temperature, 10' Radius,
+Charm Person, Magic-User                   Druid Alteration, PH-1 59.
+   Enchantment/Charm, PH-1 65.          Control Weather, Magic-User
+Charm Person or Animal, Druid              Alteration, PH-1 83.  Druid
+   Enchantment/Charm, PH-1 55.             Alteration, PH-1 63.  Cleric
+Charm Plants, Magic-User                   Alteration, PH-1 52.
+   Enchantment/Charm, PH-1 87.          Control Winds, Druid Alteration, PH-1
+Chill Metal, Rev. Heat Metal, Druid        60.
+   Alteration, PH-1 56.                 Create Food & Water, Cleric
+Clairaudience, Magic-User Divination,      Alteration, PH-1 46.
+   PH-1 72.                             Create Water, Druid Alteration, PH-1
+Clairvoyance, Magic-User Divination,       56.  Cleric Alteration, PH-1 43.
+   PH-1 73.                             Creeping Doom, Druid
+Clone, Magic-User Necromantic, PH-1        Conjuration/Summoning, PH-1 63.
+   89.                                  Cure Blindness, Cleric Abjuration,
+Cloudkill, Magic-User Evocation, PH-1      PH-1 46.
+   79.                                  Cure Critical Wounds, Cleric
+Color Spray, Illusionist Alteration,       Necromantic, PH-1 49.  Druid
+   PH-1 94.                                Necromantic, PH-1 62.
+Command, Cleric Enchantment/Charm,      Cure Disease, Druid Necromantic, PH-1
+   PH-1 43.                                57.  Cleric Abjuration, PH-1 46.
+Commune, Cleric Divination, PH-1 49.    Cure Light Wounds, Cleric
+Commune With Nature, Druid                 Necromantic, PH-1 43.  Druid
+   Divination, PH-1 60.                    Necromantic, .
+Comprehend Languages, Magic-User        Cure Serious Wounds, Druid
+   Alteration, PH-1 65.                    Necromantic, PH-1 59.
+Cond of Cold, Magic-User Evocation,     Curse, Rev. Bless, Cleric
+   PH-1 79.                                Conjuration/Summoning, PH-1 43.
+Confuse Languages, Rev. Comprehend      Dancing Lights, Illusionist
+   Languages, Magic-User Alteration,       Alteration, PH-1 94.  Magic-User
+   PH-1 65.                                Alteration, PH-1 65.
+Confusion, Illusionist                  Darkness, Illusionist Alteration,
+   Enchantment/Charm, PH-1 97.             PH-1 94.  Rev. Light, Cleric
+   Magic-User Enchantment/Charm, PH-1      Alteration, PH-1 44.
+   76.  Druid Enchantment/Charm, PH-1   Darkness, 15' Radius, Magic-User
+   63.                                     Alteration, PH-1 69.
+Conjure Animals, Illusionist            Deafness, Illusionist
+   Conjuration/Summoning, PH-1 99.         Illusion/Phantasm, PH-1 95.
+   Cleric Conjuration/Summoning, PH-1   Death Spell, Magic-User
+Advanced Dungeons & Dragons Cross Reference                           Page 3
+
+   Conjuration/Summoning, PH-1 83.         48.
+Delayed Blast Fire Ball, Magic-User     Drawmij's Instant Summons, Magic-User
+   Evocation, PH-1 87.                     Conjuration/Summoning, PH-1 87.
+Demi-Shadow Magic, Illusionist          Duo-Dimension, Magic-User Alteration,
+   Illusion/Phantasm, PH-1 99.             PH-1 87.
+Demi-Shadow Monsters, Illusionist       Earthquake, Cleric Alteration, PH-1
+   Illusion/Phantasm, PH-1 98.             52.
+Destroy Water, Rev. Create Water,       Emotion, Illusionist
+   Cleric Alteration, PH-1 43.             Enchantment/Charm, PH-1 97.
+Destruction, Rev. Resurrection,         Enchant An Item, Magic-User
+   Cleric Necromantic, PH-1 53.            Conjuration/Summoning, PH-1 83.
+Detect Charm, Cleric Divination, PH-1   Enchanted Weapon, Magic-User
+   45.                                     Alteration, PH-1 76.
+Detect Evil, Magic-User Divination,     Energy Drain, Rev. Restoration,
+   PH-1 69.  Cleric Divination, PH-1       Cleric Necromantic, PH-1 53.
+   44.                                  Enlarge, Magic-User Alteration, PH-1
+Detect Good, Rev. Detect Evil,             65.
+   Magic-User Divination, PH-1 69.      Entangle, Druid Alteration, PH-1 54.
+   Rev. Detect Evil, Cleric             Erase, Magic-User Alteration, PH-1
+   Divination, PH-1 44.                    65.
+Detect Illusion, Illusionist            ESP, Magic-User Divination, PH-1 70.
+   Divination, PH-1 94.                 Exorcise, Cleric Abjuration, PH-1
+Detect Invisibility, Magic-User            48.
+   Divination, PH-1 69.  Illusionist    Explosive Runes, Magic-User
+   Divination, PH-1 94.                    Alteration, PH-1 73.
+Detect Lie, Cleric Divination, PH-1     Extension I, Magic-User Alteration,
+   48.                                     PH-1 76.
+Detect Magic, Druid Divination, PH-1    Extension II, Magic-User Alteration,
+   54.  Magic-User Divination, PH-1        PH-1 80.
+   65.  Cleric Divination, PH-1 44.     Extension III, Magic-User Alteration,
+   Illusionist Divination, PH-1 95.        PH-1 84.
+Detect Snares & Pits, Druid             Extra Sensory Perception, See ESP,
+   Divination, PH-1 54.                    Magic-User Divination, PH-1 70.
+Dig, Magic-User Evocation, PH-1 76.     Faerie Fire, Druid Alteration, PH-1
+Dimension Door, Magic-User                 54.
+   Alteration, PH-1 76.                 False Seeing, Rev. True Seeing,
+Disintegration, Magic-User                 Cleric Divination, PH-1 50.
+   Alteration, PH-1 83.                 Fear, Illusionist Illusion/Phantasm,
+Dismiss Fire Elemental, Rev. Conjure       PH-1 96.  Magic-User
+   Earth Elemental, Druid                  Illusion/Phantasm, PH-1 76.
+   Conjuration/Summoning, PH-1 63.      Feather Fall, Magic-User Alteration,
+   Rev. Conjure Fire Elemental, Druid      PH-1 66.
+   Conjuration/Summoning, PH-1 61.      Feeblemind, Magic-User
+Dispel Evil, Cleric Abjuration, PH-1       Enchantment/Charm, PH-1 80.  Druid
+   49.                                     Enchantment/Charm, PH-1 62.
+Dispel Exhaustion, Illusionist          Feign Death, Cleric Necromantic, PH-1
+   Illusion/Phantasm, PH-1 97.             47.  Magic-User Necromantic, PH-1
+Dispel Good, Rev. Dispel Evil, Cleric      73.  Druid Necromantic, PH-1 56.
+   Abjuration, PH-1 49.                 Find Familiar, Magic-User
+Dispel Illusion, Illusionist               Conjuration/Summoning, PH-1 66.
+   Abjuration, PH-1 96.                 Find The Path, Cleric Divination,
+Dispel Magic, Druid Abjuration, PH-1       PH-1 51.
+   59.  Magic-User Abjuration, PH-1     Find Traps, Cleric Divination, PH-1
+   73.  Cleric Abjuration, PH-1 47.        45.
+Distance Distortion, Magic-User         Finger of Death, Druid
+   Alteration, PH-1 80.                    Enchantment/Charm, PH-1 64.
+Divination, Cleric Divination, PH-1     Fire Charm, Magic-User
+Advanced Dungeons & Dragons Cross Reference                           Page 4
+
+   Enchantment/Charm, PH-1 76.          Hallucinatory Terrain, Illusionist
+Fire Quench, Rev. Fire Storm, Druid        Illusion/Phantasm, PH-1 96. 
+   Evocation, PH-1 64.                     Magic-User Illusion/Phantasm, PH-1
+Fire Seeds, Druid Conjuration, PH-1        77.
+   62.                                  Harm, Rev. Heal, Cleric Necromantic,
+Fire Shield, Magic-User Evocation,         PH-1 51.
+   Alteration; PH-1 77.                 Haste, Magic-User Alteration, PH-1
+Fire Storm, Druid Evocation, PH-1          74.
+   64.                                  Heal, Cleric Necromantic, PH-1 51.
+Fire Trap, Druid Evocation, PH-1 56.    Heat Metal, Druid Alteration, PH-1
+   Magic-User Evocation, PH-1 77.          56.
+Fireball, Magic-User Evocation, PH-1    Hold Animal, Druid Enchantment/Charm,
+   73.                                     PH-1 57.
+Flame Arrow, Magic-User                 Hold Monster, Magic-User
+   Conjuration/Summoning, PH-1 73.         Enchantment/Charm, PH-1 80.
+Flame Strike, Cleric Evocation, PH-1    Hold Person, Cleric
+   49.                                     Enchantment/Charm, PH-1 45. 
+Flesh To Stone, Rev. Stone To Flesh,       Magic-User Enchantment/Charm, PH-1
+   Magic-User Alteration, PH-1 86.         74.
+Fly, Magic-User Alteration, PH-1 73.    Hold Plant, Druid Enchantment/Charm,
+Fog Cloud, Illusionist Alteration,         PH-1 59.
+   PH-1 95.                             Hold Portal, Magic-User Alteration,
+Fool's Gold, Magic-User Alteration,        PH-1 66.
+   PH-1 70.                             Holy Word, Cleric
+Forget, Magic-User Enchantment/Charm,      Conjuration/Summoning, PH-1 53.
+   PH-1 70.                             Hypnotic Pattern, Illusionist
+Fourth Level Spells, Cleric                Illusion/Phantasm, PH-1 95.
+   Necromantic, PH-1 48.                Hypnotism, Illusionist
+Freedom, Rev. Imprisonment,                Enchantment/Charm, PH-1 95.
+   Magic-User Abjuration, PH-1 92.      Ice Storm, Magic-User Evocation, PH-1
+Friends, Magic-User                        77.
+   Enchantment/Charm, PH-1 66.          Identify, Magic-User Divination, PH-1
+Fumble, Magic-User Enchantment/Charm,      66.
+   PH-1 77.                             Illusionary Script, Illusionist
+Gate, Cleric Conjuration/Summoning,        Illusion/Phantasm, PH-1 96.
+   PH-1 53.  Magic-User                 Imprisonment, Magic-User Abjuration,
+   Conjuration/Summoning, PH-1 92.         PH-1 92.
+Gaze Reflection, Illusionist            Improved Invisibility, Illusionist
+   Alteration, PH-1 94.                    Illusion/Phantasm, PH-1 97.
+Geas, Magic-User Enchantment/Charm,     Improved Phantasmal Force,
+   PH-1 84.                                Illusionist Illusion/Phantasm,
+Glassee, Magic-User Alteration, PH-1       PH-1 95.
+   84.                                  Incendiary Could, Magic-User
+Glassteel, Magic-User Alteration,          Alteration, Evocation; PH-1 90.
+   PH-1 90.                             Infravision, Magic-User Alteration,
+Globe Of Invulnerability,                  PH-1 74.
+   Magic-UserPH-1 84.                   Insect Plague, Cleric
+Glyph of Warding, Cleric Abjuration,       Conjuration/Summoning, PH-1 50. 
+   Evocation; PH-1 47.                     Druid Conjuration/Summoning, PH-1
+Good, 10' Radius, ClericPH-1 49.           61.
+Guards And Wards, Magic-User            Invisibility, Magic-User
+   Evocation, Alteration,                  Illusion/Phantasm, PH-1 70. 
+   Enchantment/Charm; PH-1 84.             Illusionist Illusion/Phantasm,
+Gust of Wind, Magic-User Alteration,       PH-1 96.
+   PH-1 73.                             Invisibility To Animals, Druid
+Hallucinatory Forest, Druid                Alteration, PH-1 54.
+   Illusion/Phantasm, PH-1 59.          Invisibility, 10' Radius, Illusionist
+Advanced Dungeons & Dragons Cross Reference                           Page 5
+
+   Illusion/Phantasm, PH-1 96.             Enchantment/Charm, PH-1 99.
+   Magic-User Illusion/Phantasm, PH-1   Massmorph, Illusionist
+   74.                                     Illusion/Phantasm, PH-1 97.
+Invisible Stalker, Magic-User           Maze, Magic-User
+   Conjuration/Summoning, PH-1 84.         Conjuration/Summoning, PH-1 90. 
+Jump, Magic-User Alteration, PH-1          Illusionist Conjuration/Summoning,
+   67.                                     PH-1 98.
+Knock, Magic-User Alteration, PH-1      Mending, Magic-User Alteration, PH-1
+   70.                                     67.
+Know Alignment, Cleric Divination,      Message, Magic-User Alteration, PH-1
+   PH-1 45.                                67.
+Legend Lore, Magic-User Divination,     Meteor Swarm, Magic-User Evocation,
+   PH-1 84.                                PH-1 92.
+Leomund's Secret Chest, Magic-User      Mind Blank, Magic-User Abjuration,
+   Alteration, Conjuration/Summoning,      PH-1 90.
+   80; .                                Minor Creation, IllusionistPH-1 98.
+Leomund's Tiny Hut, Magic-User          Mirror Image, Illusionist
+   Alteration, PH-1 74.                    Illusion/Phantasm, PH-1 96. 
+Leomund's Trap, Magic-User                 Magic-User Illusion/Phantasm, PH-1
+   Illusion/Phantasm, PH-1 70.             71.
+Levitate, Magic-User Alteration, PH-1   Misdirection, Illusionist
+   70.                                     Illusion/Phantasm, PH-1 96.
+Light, Cleric Alteration, PH-1 44.      Monor Globe Of Invulnerability,
+   Illusionist Alteration, PH-1 95.        Magic-User Abjuration, PH-1 77.
+   Magic-User Alteration, PH-1 67.      Monster Summoning I, Magic-User
+Lightning Bolt, Magic-User Evocation,      Conjuration/Summoning, PH-1 74.
+   PH-1 74.                             Monster Summoning II, Magic-User
+Limited Wish, Magic-User                   Conjuration/Summoning, PH-1 78.
+   Conjuration/Summoning, PH-1 88.      Monster Summoning III, Magic-User
+Locate Animals, Druid Divination,          Conjuration/Summoning, PH-1 81.
+   PH-1 55.                             Monster Summoning IV, Magic-User
+Locate Object, Cleric Divination,          Conjuration/Summoning, PH-1 85.
+   PH-1 47.  Magic-User Divination,     Monster Summoning V, Magic-User
+   PH-1 70.                                Conjuration/Summoning, PH-1 88.
+Locate Plants, Druid Divination, PH-1   Monster Summoning VI, Magic-User
+   56.                                     Conjuration/Summoning, PH-1 90.
+Lose The Path, Rev. Find The Path,      Monster Summoning VII, Magic-User
+   Cleric Divination, PH-1 51.             Conjuration/Summoning, PH-1 92.
+Lower Water, Magic-User Alteration,     Mordenkainen's Faithful Hound,
+   PH-1 85.  Cleric Alteration, PH-1       Magic-User Conjuration/Summoning,
+   48.                                     PH-1 81.
+Magic Missile, Magic-User Evocation,    Mordenkainen's Sword, Magic-User
+   PH-1 67.                                Evocation, PH-1 88.
+Magic Mouth, Magic-User Alteration,     Move Earth, Magic-User Alteration,
+   PH-1 71.  Illusionist Alteration,       PH-1 85.
+   PH-1 96.                             Neutralize Poison, Druid Alteration,
+Major Creation, Illusionist                PH-1 57.  Cleric Alteration, PH-1
+   Alteration, PH-1 98.                    48.
+Mass Charm, Magic-User                  Non-detection, Illusionist
+   Enchantment/Charm, PH-1 90.             Abjuration, PH-1 96.
+   Magic-User Enchantment/Charm, PH-1   Nystul's Magic Aura, Magic-User
+   90.                                     Illusion/Phantasm, PH-1 67.
+Mass Invisibility, Magic-User           Obscure Alignment, Rev. Know
+   Illusion/Phantasm, PH-1 88.             Alignment, Cleric Divination, PH-1
+Mass Morph, Magic-User                     45.
+   Illusion/Phantasm, PH-1 77.          Obscure Object, Rev. Locate Object,
+Mass Suggestion, Illusionist               Magic-User Divination, PH-1 70. 
+Advanced Dungeons & Dragons Cross Reference                           Page 6
+
+   Rev. Locate Object, Cleric              Abjuration, Conjuration/Summoning;
+   Divination, PH-1 47.                    PH-1 93.
+Obscurement, Druid Alteration, PH-1     Prismatic Spray, Illusionist
+   57.                                     Abjuration, Conjuration/Summoning;
+Otiluke's Freezing Sphere, Magic-User      PH-1 100.
+   Alteration, Evocation; PH-1 85.      Prismatic Wall, Illusionist
+Otto's Irresistible Dance, Magic-User      Abjuration, Conjuration/Summoning;
+   Enchantment/Charm, PH-1 90.             PH-1 100.
+Paralyzation, Illusionist               Produce Fire, Druid Alteration, PH-1
+   Illusion/Phantasm, PH-1 97.             60.
+Part Water, Magic-User Alteration,      Produce Flame, Druid Alteration, PH-1
+   PH-1 85.  Cleric Alteration, PH-1       57.
+   51.                                  Programmed Illusion, Illusionist
+Pass Plant, Druid Alteration, PH-1         Illusion/Phantasm, PH-1 99.
+   61.                                  Project Image, Magic-User Alteration,
+Pass Without Trace, Druid                  Illusion/Phantasm; PH-1 85.
+   Enchantment/Charm, PH-1 55.          Projected Image, Illusionist
+Passwall, Magic-User Alteration, PH-1      Alteration, Illusion/Phantasm;
+   81.                                     PH-1 99.
+Permanency, Magic-User Alteration,      Protect From Evil, Magic-User
+   PH-1 91.                                Abjuration, PH-1 67.
+Permanent Illusion, Illusionist         Protect From Good, Rev. Protect From
+   Illusion/Phantasm, PH-1 99.             Evil, Magic-User Abjuration, PH-1
+Phantasmal Force, Illusionist              67.
+   Illusion/Phantasm, PH-1 95.          Protection from , Rev. Protection
+   Magic-User Illusion/Phantasm, PH-1      From Evil, 10' Radius, Cleric
+   75.                                     Abjuration, .
+Phantasmal Killer, Illusionist          Protection From Evil, Cleric
+   Illusion/Phantasm, PH-1 98.             Abjuration, PH-1 44.
+Phase Door, Magic-User Alteration,      Protection From Evil, 10' Radius,
+   PH-1 88.                                Magic-User Abjuration, PH-1 75. 
+Plane Shift, Cleric Alteration, PH-1       Cleric Abjuration, .
+   50.                                  Protection From Fire, Druid
+Plant Door, Druid Alteration, PH-1         Abjuration, PH-1 58.
+   59.                                  Protection From Good, Rev. Protection
+Plant Growth, Magic-User Alteration,       From Evil, Cleric Abjuration, PH-1
+   PH-1 78.  Druid Alteration, PH-1        44.  Rev. Protection From Evil,
+   57.                                     10' Radius, Magic-User Abjuration,
+Poison, Rev. Neutralize Poison,            PH-1 75.
+   Cleric Alteration, PH-1 48.  Rev.    Protection From Lightning, Druid
+   Neutralize Poison, Druid                Abjuration, PH-1 60.
+   Alteration, PH-1 57.                 Protection From Normal Missiles,
+Polymorph Any Object, Magic-User           Magic-User Abjuration, PH-1 75.
+   Alteration, PH-1 91.                 Purify Food and Drink, Cleric
+Polymorph Other, Magic-User                Alteration, PH-1 44.
+   Alteration, PH-1 78.                 Purify Water, Druid Alteration, PH-1
+Polymorph Self, Magic-User                 55.
+   Alteration, PH-1 78.                 Push, Magic-User
+Power Word, Blind, Magic-User              Conjuration/Summoning, PH-1 67.
+   Conjuration/Summoning, PH-1 91.      Pyrotechnics, Magic-User Alteration,
+Power Word, Kill, Magic-User               PH-1 71.  Druid Alteration, PH-1
+   Conjuration/Summoning, PH-1 93.         58.
+Power Word, Stun, Magic-User            Quench Fire, Rev. Produce Fire, Druid
+   Conjuration/Summoning, PH-1 88.         Alteration, PH-1 60.
+Predict Weather, Druid Divination,      Quest, Cleric Enchantment/Charm, PH-1
+   PH-1 55.                                50.
+Prismatic Sphere, Magic-User            Raise Dead, Cleric Necromantic, PH-1
+Advanced Dungeons & Dragons Cross Reference                           Page 7
+
+   50.                                  Shatter, Magic-User Alteration, PH-1
+Raise Water, Rev. Lower Water, Cleric      71.
+   Alteration, PH-1 48.  Rev. Lower     Shield, Magic-User Evocation, PH-1
+   Water, Magic-User Alteration, PH-1      68.
+   85.                                  Shillelagh, Druid Alteration, PH-1
+Rary's Mnemonic Enhancer, Magic-User       55.
+   Alteration, PH-1 78.                 Shocking Grasp, Magic-User
+Ray of Enfeeblement, Magic-User            Alteration, PH-1 68.
+   Enchantment/Charm, PH-1 71.          Silence, 15' Radius, Cleric
+Read Magic, Magic-User Divination,         Alteration, PH-1 45.
+   PH-1 68.                             Simulacrum, Magic-User
+Reduce, Rev. Enlarge, Magic-User           Illusion/Phantasm, PH-1 88.
+   Alteration, PH-1 65.                 Slay Living, Rev. Raise Dead, Cleric
+Regenerate, Cleric Necromantic, PH-1       Necromantic, PH-1 50.
+   53.                                  Sleep, Magic-User Enchantment/Charm,
+Reincarnate, Druid Necromantic, PH-1       PH-1 68.
+   64.                                  Slow, Magic-User Alteration, PH-1
+Reincarnation, Magic-User                  75.
+   Necromantic, PH-1 85.                Slow Poison, Cleric Necromantic, PH-1
+Remove Curse, Cleric Abjuration, PH-1      45.
+   47.  Magic-User Abjuration, PH-1     Snake Charm, Cleric
+   78.                                     Enchantment/Charm, PH-1 46.
+Remove Fear, Cleric Abjuration, PH-1    Snakes to Sicks, Rev. Sticks To
+   44.                                     Snakes, Cleric Alteration, PH-1
+Repel Insects, Druid Abjuration,           49.
+   Alteration; PH-1 60.                 Snakes to Sticks, Rev. Sticks to
+Repulsion, Magic-User Abjuration,          Snakes, Druid Alteration, PH-1
+   PH-1 86.                                61.
+Resist Cold, Cleric Alteration, PH-1    Snare, Druid Enchantment/Charm, PH-1
+   44.                                     58.
+Resist Fire, Cleric Alteration, PH-1    Speak With Animals, Cleric
+   45.                                     Alteration, PH-1 46.  Druid
+Restoration, Cleric Necromantic, PH-1      Alteration, PH-1 55.
+   53.                                  Speak With Monsters, Cleric
+Resurrection, Cleric Necromantic,          Alteration, PH-1 51.
+   PH-1 53.                             Speak With Plants, Druid Alteration,
+Reverse Gravity, Magic-User                PH-1 60.  Cleric Alteration, PH-1
+   Alteration, PH-1 88.                    49.
+Rope Trick, Illusionist Alteration,     Speak With The Dead, Cleric
+   PH-1 97.  Magic-User Alteration,        Necromantic, PH-1 48.
+   PH-1 71.                             Spectral Force, Illusionist
+Sanctuary, Cleric Abjuration, PH-1         Illusion/Phantasm, PH-1 97.
+   44.                                  Spider Climb, Magic-User Alteration,
+Scare, Magic-User Enchantment/Charm,       PH-1 68.
+   PH-1 71.                             Spiritual Hammer, Cleric Invocation,
+Serten's Spell Immunity, Magic-User        PH-1 46.
+   Abjuration, PH-1 91.                 Spiritwrack, Magic-User
+Shades, Illusionist                        Evocation/Abjuration, PH-1 86.
+   Illusion/Phantasm, PH-1 99.          Statue, Magic-User Alteration, PH-1
+Shadow Door, Illusionist                   89.
+   Illusion/Phantasm, PH-1 99.          Sticks To Snakes, Cleric Alteration,
+Shadow Magic, Illusionist                  PH-1 49.  Druid Alteration, PH-1
+   Illusion/Phantasm, PH-1 99.             61.
+Shadow Monsters, Illusionist            Stinking Cloud, Magic-User Evocation,
+   Illusion/Phantasm, PH-1 98.             PH-1 72.
+Shape Change, Magic-User Alteration,    Stone Shape, Magic-User Alteration,
+   PH-1 93.                                PH-1 81.  Druid Alteration, PH-1
+Advanced Dungeons & Dragons Cross Reference                           Page 8
+
+   58.                                  Undetectable Lie, Rev. Detect Lie,
+Stone Tell, Cleric Divination, PH-1        Cleric Divination, PH-1 48.
+   52.                                  Unholy Word, Rev. Holy Word, Cleric
+Stone To Flesh, Magic-User                 Conjuration/Summoning, PH-1 53.
+   Alteration, PH-1 86.                 Unreadable Magic, Rev. Read Magic,
+Strength, Magic-User Alteration, PH-1      Magic-User Divination, PH-1 68.
+   72.                                  Unseen Servant, Magic-User
+Suggestion, Magic-User                     Conjuration/Summoning, PH-1 69.
+   Enchantment/Charm, PH-1 75.          Vanish, Magic-User Alteration, PH-1
+   Illusionist Enchantment/Charm,          89.
+   PH-1 97.                             Veil, Illusionist Illusion/Phantasm,
+Summon Insects, Druid                      PH-1 99.
+   Conjuration/Summoning, PH-1 58.      Ventriloquism, Illusionist
+Summon Shadow, Illusionist                 Illusion/Phantasm, PH-1 96. 
+   Conjuration/Summoning, PH-1 99.         Magic-User Illusion/Phantasm, PH-1
+Symbol, Cleric Conjuration/Summoning,      69.
+   PH-1 53.  Magic-User                 Wall of Fire, Druid Evocation, PH-1
+   Conjuration/Summoning, PH-1 91.         61.  Magic-User Evocation, PH-1
+Telekinesis, Magic-User Alteration,        78.
+   PH-1 82.                             Wall Of Fog, Illusionist Alteration,
+Teleport, Magic-User Alteration, PH-1      PH-1 95.
+   82.                                  Wall Of Force, Magic-User Evocation,
+Temporal Reinstatement, Rev. Temporal      PH-1 82.
+   Stasis, Magic-User Alteration,       Wall of Ice, Magic-User Evocation,
+   PH-1 93.                                PH-1 78.
+Temporal Stasis, Magic-User             Wall Of Iron, Magic-User Evocation,
+   Alteration, PH-1 93.                    PH-1 82.
+Tenser's Floating Disk, Magic-User      Wall Of Stone, Magic-User Evocation,
+   Evocation, PH-1 68.                     PH-1 82.
+Tenser's Transformation, Magic-User     Wall of Thorns, Druid
+   Alteration, Evocation; PH-1 86.         Conjuration/Summoning, PH-1 62.
+Time Stop, Magic-User Alteration,       Warp Wood, Druid Alteration, PH-1
+   PH-1 93.                                57.
+Tongues, Cleric Alteration, PH-1 49.    Water Breathing, Druid Alteration,
+   Magic-User Alteration, PH-1 75.         PH-1 58.
+Transmute Metal To Wood, Druid          Water Breating, Magic-User
+   Alteration, PH-1 64.                    Alteration, PH-1 75.
+Transmute Mud to Rock, Rev. Transmute   Weather Summoning, Druid
+   Rock to Mud, Druid Alteration,          Conjuration/Summoning, PH-1 63.
+   PH-1 61.  Rev. Transmute Rock To     Web, Magic-User Evocation, PH-1 72.
+   Mud, Magic-UserPH-1 82.              Wind Walk, Cleric Alteration, PH-1
+Transmute Rock To Mud, Magic-UserPH-1      54.
+   82.  Druid Alteration, PH-1 61.      Wish, Magic-User
+Transport Via Plants, Druid                Conjuration/Summoning, PH-1 94.
+   Alteration, PH-1 62.                 Wither, Rev. Regenerate, Cleric
+Trap The Soul, Magic-User                  Necromantic, PH-1 53.
+   Conjuration/Summoning, PH-1 91.      Wizard Eye, Magic-User Alteration,
+Tree, Druid Alteration, PH-1 58.           PH-1 79.
+Trip, Druid Enchantment/Charm, PH-1     Wizard Lock, Magic-User Alteration,
+   57.                                     PH-1 72.
+True Seeing, Cleric Divination, PH-1    Word of Recall, Cleric Alteration,
+   50.                                     PH-1 52.
+True Sight, Illusionist Divination,     Write, Magic-User Evocation, PH-1
+   PH-1 99.                                69.
+Turn Wood, Druid Alteration, PH-1       References:
+   62.                                  PH-1
+Advanced Dungeons & Dragons Cross Reference                           Page 9
+
+Advanced Dungeons & Dragons     ISBN #0-935696-01-6
+Player's Handbook

@@ -1,0 +1,197 @@
+III E 1 (Score=d100)
+| Score	| *Name*						| *XP*	| *GP*	|
+| 01->02	| Alchemy Jug					| 3000		| 12000	|
+| 03->04	| Amulet of Inescapable Location			| -		| 1000	|
+| 05	| Amulet of Life Protection				| 5000		| 20000	|
+| 08->11	| Amulet of the Planes				| 6000		| 30000	|
+| 12->13	| Amulet of Proof Against Detection and Location	| 4000		| 15000	|
+| 14->16	| Apparatus of Kwalish				| 8000		| 35000	|
+| 14->16	| Arrow of Direction				| 2500		| 17500	|
+| 17	| Artifact or Relic (see Special table hereafter)		| -		| -	|
+| 18->20	| Bag of Beans					| 1000		| 5000	|
+| 21	| Bag of Devouring				| -		| 1500	|
+| 22->26	| Bag of Holding					| 5000		| 25000	|
+| 27	| Bag of Transmuting				| -		| 500	|
+| 28->29	| Bag of Tricks					| 2500		| 15000	|
+| 30->31	| Beaker of Plentiful Potions			| 1500		| 12500	|
+| 32	| "Boat, Folding"					| 10000		| 25000	|
+| 33	| Book of Exalted Deeds (C)			| 8000		| 40000	|
+| 34	| Book of Infinite Spells				| 9000		| 50000	|
+| 35	| Book of Vile Darkness (C)				| 8000		| 40000	|
+| 36	| Boots of Dancing					| -		| 5000	|
+| 37->42	| Boots of Elvenkind				| 1000		| 5000	|
+| 43->47	| Boots of Levitation				| 2000		| 15000	|
+| 48->51	| Boots of Speed					| 2500		| 20000	|
+| 52->55	| Boots of Striding and Springing			| 2500		| 20000	|
+| 56->58	| Bowl Commanding Water Elementals (M)		| 4000		| 25000	|
+| 59	| Bowl of Watery Death (M)			| -		| 1000	|
+| 60->79	| Bracers of Defense	|    			| "500*"		| "3000*"	|
+| 80->81	| Bracers of Defenselessness			| -		| 2000	|
+| 82->84	| Brazier Commanding Fire Elementals (M)		| 4000		| 25000	|
+| 85	| Brazier of Sleep Smoke (M)			| -		| 1000	|
+| 86->92	| Brooch of Shielding				| 1000		| 10000	|
+| 93	| Broom of Animated Attack			| -		| 3000	|
+| 94->98	| Broom of Flying					| 2000		| 10000	|
+| 99->100	| Bucknard's Everfull Purse				| "1500/2500/4000"	| "15000/25000/40000"	|
+#* Per armor class above "10," i.e., AC 6 is worth "2,000" in x.p., "12,000" gp if sold.
+
+
+III E 2 (Score=d100)
+| Score	| *Name*	| *XP*	| *GP*	|
+| 01->06	| Candle of Invocation (C)	| 1000	| 5000	|
+| 07->08	| Carpet of Flying	| 7500	| 25000	|
+| 09->10	| Censer Controlling Air Elementals (M)	| 4000	| 25000	|
+| 11	| Censer of Summoning Hostile Air Elementals (M)	| -	| 1000	|
+| 12->13	| Chime of Opening	| 3500	| 20000	|
+| 14	| Chime of Hunger	| -	| -	|
+| 15->18	| Cloak of Displacement	| 3000	| 17500	|
+| 19->27	| Cloak of Elvenkind	| 1000	| 6000	|
+| 28->30	| Cloak of Manta Roy	| 2000	| 12500	|
+| 31->32	| Cloak of Poisonousness	| -	| 2500	|
+| 33->55	| Cloak of Protection	| "  1,000*"	| "10000*"	|
+| 56->60	| Crystal Ball (M)	| " 1,000**"	| "5,000**"	|
+| 61	| Crystal Hypnosis Ball (M)	| -	| 3000	|
+| 62->63	| Cube of Force	| 3000	| 20000	|
+| 64->65	| Cube of Frost Resistance	| 2000	| 14000	|
+| 66->67	| Cubic Gate	| 5000	| 17500	|
+| 68->69	| Daern's Instant Fortress	| 7000	| 27500	|
+| 70->72	| Decanter of Endless Water	| 1000	| 3000	|
+| 73->76	| Deck of Many Things	| -	| 10000	|
+| 77	| Drums of Deafening	| -	| 500	|
+| 78->79	| Drums of Panic	| 6500	| 35000	|
+| 80->85	| Dust of Appearance	| 1000	| 4000	|
+| 86->91	| Dust of Disappearance	| 2000	| 8000	|
+| 92	| Dust of Sneezing and Choking	| -	| 1000	|
+| 93	| Efreeti Bottle	| 9000	| 45000	|
+| 94	| Eversmoking Bottle	| 500	| 2500	|
+| 95	| Eyes of Charming (M)	| 4000	| 24000	|
+| 96->97	| Eyes of the Eagle	| 3500	| 18000	|
+| 98->99	| Eyes of Minute Seeing	| 2000	| 12500	|
+| 100	| Eyes of Petrification	| -***	| -***	|
+#* Per plus of protection.
+#** Add 100% for each additional feature.
+#"*** If reverse effect, "12,500" x.p. and "50,000" g.p. sale value."
+
+
+III E 3 (Score=d100)
+| Score	| *Name*						| *XP*	| *GP*	|
+| 01->15	| Figurine of Wondrous Power			| "100*"		| "1000*"	|
+| 16	| Flask of Curses					| -		| 1000	|
+| 17->18	| Gauntlets of Dexterity				| 1000		| 10000	|
+| 19->20	| Gauntlets of Fumbling				| -		| 1000	|
+| 21->22	|  Gauntlets of Ogre Power (C, F, T) 			| 1000		| 15000	|
+| 23->25	|  Gauntlets of Swimming and Climbing (C,F,T) 	| 1000		| 10000	|
+| 26	| Gem of Brightness				| 2000		| 17500	|
+| 27	| Gem of Seeing					| 2000		| 25000	|
+| 28	|  Girdle of Femininity/Masculinity (C,F,T) 		| -		| 1000	|
+| 29	|  Girdle of Giant Strength (C,F,T) 			| 200		| 2500	|
+| 30	| Helm of Brilliance				| 2500		| 60000	|
+| 31->35	| Helm of Comprehending Languages&Reading Magic	| 1000		| 12500	|
+| 36->37	| Helm of Opposite Alignment			| -		| 1000	|
+| 38->39	| Helm of Telepathy				| 3000		| 35000	|
+| 40	| Helm of Teleportation				| 2500		| 30000	|
+| 41->45	| Helm of Underwater Action			| 1000		| 10000	|
+| 46	| Horn of Blasting					| 5000		| 55000	|
+| 47->48	| Horn of Bubbles					| -		| -	|
+| 49	| Horn of Collapsing				| 1500		| 25000	|
+| 50->53	|  Horn of the Tritons (C, F) 			| 2000		| 17500	|
+| 54->60	| Horn of Valhalla					| "1000**"		| "15000**"	|
+| 61->63	| Horseshoes of Speed				| 2000		| 10000	|
+| 64->65	| Horseshoes of a Zephyr				| 1500		| 7500	|
+| 66->70	| Incense of Meditation (C)				| 500		| 7500	|
+| 71	| Incense of Obsession (C)				| -		| 500	|
+| 72	| Ioun Stones					| "300***"		| "5000***"	|
+| 73->78	| Instrument of the Bards				| "1000****"	| "5000****"	|
+| 79->80	| Iron Flask					| -		| -	|
+| 81->85	| Javelin of Lightning (F)				| 250		| 3000	|
+| 86->90	| Javelin of Piercing (F)				| 250		| 3000	|
+| 91	| Jewel of Attacks					| -		| 1000	|
+| 92	| Jewel of Flawlessness				| -		| "1000/facet"	|
+| 93->100	| Keoghtom's Ointment				| 500		| 10000	|
+#*  Per hit die of the figurine.
+#**  Double for a bronze horn, triple for an iron horn.
+#***  Per stone.
+#****  Per level of instrument for Bards.
+
+
+III E 4 (Score=d100)
+| Score	| *Name*					| *XP*	| *GP*	|
+| 01	| Libram of Gainful Conjuration (M)		| 8000		| 40000	|
+| 02	| Libram of Ineffable Damnation (M)		| 8000		| 40000	|
+| 03	| Libram of Silver Magic (M)		| 8000		| 40000	|
+| 04	| Lyre of Building				| 5000		| 30000	|
+| 05	| Manual of Bodily Health			| 5000		| 50000	|
+| 06	| Manual of Gainful Exercise		| 5000		| 50000	|
+| 07	|  Manual of Golems (C, M) 		| 3000		| 30000	|
+| 08	| Manual of Puissant Skill at Arms (F)	| 8000		| 40000	|
+| 09	| Manual of Quickness of Action		| 5000		| 50000	|
+| 10	| Manual of Stealthy Pilfering (T)		| 8000		| 40000	|
+| 11	| Mattock of the Titans (F)			| 3500		| 7000	|
+| 12	| Maul of the Titans			| 4000		| 12000	|
+| 13->15	| Medallion of ESP				| "1000/3000"	| "10000/30000"	|
+| 16->17	| Medallion of Thought Projection		| -		| 1000	|
+| 18	| Mirror of Life Trapping (M)		| 2500		| 25000	|
+| 19	| Mirror of Mental Prowess			| 5000		| 50000	|
+| 20	| Mirror of Opposition			| -		| 2000	|
+| 21->23	| Necklace of Adaptation			| 1000		| 10000	|
+| 24->27	| Necklace of Missiles			| "50*"		| "200*"	|
+| 28->33	| Necklace of Prayer Beads (C)		| "500**"		| "3000**"	|
+| 34->35	| Necklace of Strangulation			| -		| 1000	|
+| 36->38	|  Net of Entrapment (C, F, T) 		| 1000		| 7500	|
+| 39->42	|  Net of Snaring (C, F, T) 			| 1000		| 6000	|
+| 43->44	| Nolzurs' Marvelous Pigments		| "500***"		| "3000***"	|
+| 45->46	| Pearl of Power (M)			| "200****"		| "2000****"	|
+| 47->48	| Pearl of Wisdom (C)			| 500		| 5000	|
+| 49->50	| Periapt of Foul Rotting			| -		| 1000	|
+| 51->53	| Periapt of Health				| 1000		| 10000	|
+| 54->60	| Periapt of Proof Against Poison		| 1500		| 12500	|
+| 61->64	| Periapt of Wound Closure			| 1000		| 10000	|
+| 65->70	| Phylactery of Faithfulness (C)		| 1000		| 7500	|
+| 71->74	| Phylactery of Long Years (C)		| 3000		| 25000	|
+| 75->76	| Phylactery of Monstrous Attention (C)	| -		| 2000	|
+| 77->84	| Pipes of the Sewers			| 1750		| 8500	|
+| 85	| Portable Hole				| 5000		| 50000	|
+| 86->100	| Quaal's Feather Token			| "500/1000"	| "2000/7000"	|
+#*  Per hit die of each missile.
+#**  Per special bead.
+#***  Per pot of pigments.
+#****  Per level of spell.
+
+III E 5 (Score=d100)
+| Score	| *Name*					| *XP*	| *GP*	|
+| 01	| Robe of the Archmagi (M)			| 6000		| 65000	|
+| 02->08	| Robe of Blending				| 3500		| 35000	|
+| 09	| Robe of Eyes (M)				| 4500		| 50000	|
+| 10	| Robe of Powerlessness (M)		| -		| 1000	|
+| 11	|  Robe of Scintillating Colors (C,M) 	| 2750		| 25000	|
+| 12->19	| Robe of Useful Items (M)			| 1500		| 15000	|
+| 20->25	| Rope of Climbing				| 1000		| 10000	|
+| 26->27	| Rope of Constriction			| -		| 1000	|
+| 28->31	| Rope of Entanglement			| 1250		| 12000	|
+| 32	| Rug of Smothering			| -		| 1500	|
+| 33	| Rug of Welcome (M)			| 6500		| 45000	|
+| 34	| Saw of Mighty Cutting (F)			| 1750		| 12500	|
+| 35	| Scarab of Death				| -		| 2500	|
+| 36->38	| Scarab of Enraging Enemies		| 1000		| 8000	|
+| 39->40	| Scarab of Insanity			| 1500		| 11000	|
+| 41->46	| Scarab of Protection			| 2500		| 25000	|
+| 47	| Spade of Colossal Excavation (F)		| 1000		| 6500	|
+| 48	| Sphere of Annihilation (M)		| 3750		| 30000	|
+| 49->50	| Stone of Controlling Earth Elementals	| 1500		| 12500	|
+| 51->52	| Stone of Good Luck (Luckstone)		| 3000		| 25000	|
+| 53->54	| Stone of Weight (Loadstone)		| -		| 1000	|
+| 55->57	| Talisman of Pure Good (C)		| 3500		| 27500	|
+| 58	| Talisman of the Sphere (M)		| 100		| 10000	|
+| 59->60	| Talisman of Ultimate Evil (C)		| 3500		| 32500	|
+| 61->66	| Talisman of Zagy				| 1000		| 10000	|
+| 67	| Tome of Clear Thought			| 8000		| 48000	|
+| 68	| Tome of Leadership and Influence		| 7500		| 40000	|
+| 69	| Tome of Understanding			| 8000		| 43500	|
+| 70->76	|  Trident of Fish Command (C, F, T) 	| 500		| 4000	|
+| 77->78	| Trident of Submission (F)			| 1250		| 12500	|
+| 79->83	|  Trident of Warning (C, F, I) 		| 1000		| 10000	|
+| 84->85	| Trident of Yearning			| -		| 1000	|
+| 86->87	| Vacuous Grimoire			| -		| 1000	|
+| 88->90	| Well of Many Worlds			| 6000		| 12000	|
+| 91->100	| Wings of Flying				| 750		| 7500	|
+

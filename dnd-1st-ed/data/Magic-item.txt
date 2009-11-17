@@ -1,0 +1,15 @@
+# MAGIC ITEMS
+III (Score=d100)
+| Score	| *Results*	|
+| 01->20	| [III A]	|
+| 21->35	| [III B]	|
+| 36->40	| [III C]	|
+| 41->45	| [III D]	|
+| 46->48	| [III E 1]	|
+| 49->51	| [III E 2]	|
+| 52->54	| [III E 3]	|
+| 55->57	| [III E 4]	|
+| 56->60	| [III E 5]	|
+| 61->75	| [III F]	|
+| 76->86	| [III G]	|
+| 87->100	| [III H]	|
