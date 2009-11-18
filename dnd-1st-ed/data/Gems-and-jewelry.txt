@@ -31,9 +31,9 @@ Jewelry (Score=d100)
 | 11->20	| 2d6*100	| "wrought silver and gold"		| [Standard Jewelry Mod/Desc]	|
 | 21->40	| 3d6*100	| "wrought gold"			| [Standard Jewelry Mod/Desc]	|
 | 41->50	| 5d6*100	| "jade, coral or wrought platinum"	| [Standard Jewelry Mod/Desc]	|
-| 51->70	| d6*1000	| "Silver with gems"			| [Standard Jewelry Mod/Desc] + [Jewelry Gem Mod/Desc]	|
-| 71->90	| 2d4*1000	| "Gold with gems"			| [Standard Jewelry Mod/Desc] + [Jewelry Gem Mod/Desc]	|
-| 91->100	| 2d6*1000	| "Platinum with gems"			| [Standard Jewelry Mod/Desc] + [Jewelry Gem Mod/Desc]	|
+| 51->70	| d6*1000	| "Silver with gems"			| [Standard Jewelry Mod/Desc] + ", " + [Jewelry Gem Mod/Desc]	|
+| 71->90	| 2d4*1000	| "Gold with gems"			| [Standard Jewelry Mod/Desc] + ", " + [Jewelry Gem Mod/Desc]	|
+| 91->100	| 2d6*1000	| "Platinum with gems"			| [Standard Jewelry Mod/Desc] + ", " + [Jewelry Gem Mod/Desc]	|
 
 ##
 # See page 26 of DMG
