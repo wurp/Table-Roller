@@ -91,7 +91,14 @@ class ListExpr(Expr):
     self.exprList = exprList
 
   def resolve(self):
-    return map(Expr.resolve, self.exprList)
+    retval = []
+    for expr in self.exprList:
+      val = expr.resolve()
+      if( isinstance(val, list) ):
+        retval.extend(val)
+      else:
+        retval.append(val)
+    return retval
 
 class RangeExpr(Expr):
   def __init__(self, minval, maxval):
@@ -131,10 +138,11 @@ class ChanceExpr(Expr):
     self.expr = expr
 
   def resolve(self):
-    if( die(100) <= self.chance ):
-      debug("Chance passed")
+    roll = die(100)
+    if( roll <= self.chance ):
+      debug("Chance " + repr(self.chance) + " passed with " + repr(roll))
       return self.expr.resolve()
-    debug("Chance failed")
+    debug("Chance " + repr(self.chance) + " failed with " + repr(roll))
     return None
 
 class ConstExpr(Expr):

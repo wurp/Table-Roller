@@ -15,6 +15,7 @@ Scroll Class (Score=d1000)
 ###
 #correct, just incomplete
 III B (Score=d100)
+alias Scroll
 | Score		| *Scroll*						| *XP*			| *GP*			|
 | 01->10	| [{[Scroll Class/Class]} Spell Level {d4}/Spell]	| "100 * spell level"	| "300 * spell level" |
 | ->16		| [{[Scroll Class/Class]} Spell Level {d6}/Spell]	| "100 * spell level"	| "300 * spell level" |
@@ -32,14 +33,14 @@ III B (Score=d100)
 | 55->57	| [{[Scroll Class/Class]} Scroll 1-8/Spell] * 7		| "100 * spell level"	| "300 * spell level" |
 | 58->59	| [{[Scroll Class/Class]} Scroll 2-9/Spell] * 7		| "100 * spell level"	| "300 * spell level" |
 | 60		| [{[Scroll Class/Class]} Scroll 4-9/Spell] * 7		| "100 * spell level"	| "300 * spell level" |
-| 61->62	| Protection - Demons	 				| 2500 			| "3 * xp total" |
-| 63->64	| Protection - Devils	 				| 2500			| "3 * xp total" |
-| 65->70	| Protection - Elementals	 			| 1500			| "3 * xp total" |
-| 71->76	| Protection - Lycanthropes	 			| 1000			| "3 * xp total" |
-| 77->82	| Protection - Magic	 				| 1500			| "3 * xp total" |
-| 83->87	| Protection - Petrification	 			| 2000			| "3 * xp total" |
-| 88->92	| Protection - Possession	 			| 2000			| "3 * xp total" |
-| 93->97	| Protection - Undead	 				| 1500			| "3 * xp total" |
+| 61->62	| Protection - Demons	 				| 2500 			| "5 * xp total" |
+| 63->64	| Protection - Devils	 				| 2500			| "5 * xp total" |
+| 65->70	| Protection - Elementals	 			| 1500			| "5 * xp total" |
+| 71->76	| Protection - Lycanthropes	 			| 1000			| "5 * xp total" |
+| 77->82	| Protection - Magic	 				| 1500			| "5 * xp total" |
+| 83->87	| Protection - Petrification	 			| 2000			| "5 * xp total" |
+| 88->92	| Protection - Possession	 			| 2000			| "5 * xp total" |
+| 93->97	| Protection - Undead	 				| 1500			| "5 * xp total" |
 | 98->100	| "Curse: " + [Curse/Effect]				| 0			| 0 |
 
 Curse (Score=d100)

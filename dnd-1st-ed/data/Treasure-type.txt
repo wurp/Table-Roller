@@ -4,11 +4,11 @@ Treasure
 | B	| 50% d8 * 1000		| 25% d6 * 1000		| 25% d4 * 1000		| 25% d3 * 1000		| -			| 30% [Gems] * d8	| 20% [Jewelry] * d4	| 10%  [Weapon or Armor]	|
 | C	| 20% d12 * 1000	| 30% d6 * 1000		| 10% d4 * 1000		| -			| -			| 25% [Gems] * d6	| 20% [Jewelry] * d3	| 2 * 10%  [Any Magic Item]	|
 | D	| 10% d8 * 1000		| 15% d12 * 1000	| 15% d8 * 1000		| 50% d6 * 1000		| -			| 30% [Gems] * d10	| 25% [Jewelry] * d6	| 2 * 15%  [Any Magic Item] &  15% [Potion]	|
-| E	| 05% d10 * 1000	| 25% d12 * 1000	| 25% d6 * 1000		| 25% d8 * 1000		| -			| 15% [Gems] * d12	| 10% [Jewelry] * d8	| 25%  any 3 + 1 scroll	|
-| F	| -			| 10% d20 * 1000	| 15% d12 * 1000	| 40% d10  * 1000	| 35% d8 * 1000		| 20% [Gems] * 3d10	| 10% [Jewelry] * d10	| "3 * 30%  [Any Magic Item But Weapons] + 1 potion and 1 scroll"	|
-| G	| -			| -			| -			| 50% 10d4 * 1000	| 50% d20 * 1000	| 30% [Gems] * 5d4	| 25% [Jewelry] * d10	| 35%  any 4 + 1 scroll	|
-| H	| 25% 5d6 * 1000	| 40% d100 * 1000	| 50% 10d4 * 1000	| 55% 10d6 * 1000	| 25% 5d10 * 1000	| 50% [Gems] * d100	| 50% [Jewelry] * 10d4	| 15%  any 4 + 1 potion and 1 scroll	|
-| I	| -			| -			| -			| -			| 30% 3d6 * 1000	| 55% [Gems] * 2d10	| 50% [Jewelry] * d12	| 15%  any 1	|
+| E	| 05% d10 * 1000	| 25% d12 * 1000	| 25% d6 * 1000		| 25% d8 * 1000		| -			| 15% [Gems] * d12	| 10% [Jewelry] * d8	| 3 * 25%  [Any Magic Item] & 25% [Scroll]	|
+| F	| -			| 10% d20 * 1000	| 15% d12 * 1000	| 40% d10  * 1000	| 35% d8 * 1000		| 20% [Gems] * 3d10	| 10% [Jewelry] * d10	| 3 * 30%  [Any Magic Item But Weapons] & 30% [Potion] & 30% [Scroll]	|
+| G	| -			| -			| -			| 50% 10d4 * 1000	| 50% d20 * 1000	| 30% [Gems] * 5d4	| 25% [Jewelry] * d10	| 4 * 35%  [Any Magic Item] & [Scroll]	|
+| H	| 25% 5d6 * 1000	| 40% d100 * 1000	| 50% 10d4 * 1000	| 55% 10d6 * 1000	| 25% 5d10 * 1000	| 50% [Gems] * d100	| 50% [Jewelry] * 10d4	| 4 * 15%  [Any Magic Item] & [Potion] & [Scroll]	|
+| I	| -			| -			| -			| -			| 30% 3d6 * 1000	| 55% [Gems] * 2d10	| 50% [Jewelry] * d12	| 15%  [Any Magic Item] |
 | J	| 3d8 			| -			| -			| -			| -			| -			| -			| -			|
 | K	| -			| 3d6 			| -			| -			| -			| -			| -			| -			|
 | L	| -			| -			| 2d6 			| -			| -			| -			| -			| -			|
@@ -18,7 +18,7 @@ Treasure
 | P	| -			| 30% d6 * 1000		| 25% d2 * 1000		| -			| -			| -			| -			| -			|
 | Q	| -			| -			| -			| -			| -			| 50% [Gems] * d4	| -			| -			|
 | R	| -			| -			| -			| 40% 2d4 * 1000	| 50% 10d6 * 1000	| 55% [Gems] * 4d8	| 45% [Jewelry] * d12	| -			|
-| S	| -			| -			| -			| -			| -			| -			| -			| 40%  "2d4 potions"	|
-| T	| -			| -			| -			| -			| -			| -			| -			| 50%  "d4 scrolls"	|
+| S	| -			| -			| -			| -			| -			| -			| -			| 40%  [Potion]	* 2d4	|
+| T	| -			| -			| -			| -			| -			| -			| -			| 50%  [Scroll] * d4	|
 
 #TODO U-Z
