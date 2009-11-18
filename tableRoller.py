@@ -114,11 +114,14 @@ class DieRollExpr(Expr):
 
 class ChanceExpr(Expr):
   def __init__(self, chance, expr):
-    self.chance = chance
+    self.chance = int(chance)
     self.expr = expr
 
   def resolve(self):
-    if( die(100) <= self.chance ): return self.expr.resolve()
+    if( die(100) <= self.chance ):
+      debug("Chance passed")
+      return self.expr.resolve()
+    debug("Chance failed")
     return None
 
 class ConstExpr(Expr):
