@@ -86,7 +86,7 @@ III E 3 (Score=d100)
 | 28	|  Girdle of Femininity/Masculinity (C,F,T) 		| -		| 1000	|
 | 29	|  Girdle of Giant Strength (C,F,T) 			| 200		| 2500	|
 | 30	| Helm of Brilliance				| 2500		| 60000	|
-| 31->35	| Helm of Comprehending Languages&Reading Magic	| 1000		| 12500	|
+| 31->35	| Helm of Comprehending Languages and Reading Magic	| 1000		| 12500	|
 | 36->37	| Helm of Opposite Alignment			| -		| 1000	|
 | 38->39	| Helm of Telepathy				| 3000		| 35000	|
 | 40	| Helm of Teleportation				| 2500		| 30000	|

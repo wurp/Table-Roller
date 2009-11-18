@@ -9,6 +9,8 @@ import random
 DEBUG=False
 #DEBUG=True
 
+aliasRE = re.compile('^\s*alias\s+(.*)$')
+
 strRE = re.compile('^"([^"]*)"$')
 chanceRE = re.compile('^([0-9]+)\s*%\s*(.*)$')
 dieRE = re.compile('^([0-9]*)\s*d\s*([0-9]+)$')
@@ -20,6 +22,7 @@ rangeRE = re.compile('^([0-9]*)\s*->\s*([0-9]+)$')
 tableNameRE = re.compile('^(.*?)\s*\(\s*(.*)\s*\)$')
 altStrRE = re.compile('^[A-Za-ce-z]')
 evalRE = re.compile('^(.*){\s*([^}]+?)\s*}(.*)$')
+listRE = re.compile('^(.*)&(.*)$')
 
 headerRE = re.compile("^\s*\**\s*(.*?)\s*\**\s*$")
 
@@ -43,6 +46,9 @@ def expressionObject(objStr):
   
   m = numRE.match(objStr)
   if( m ): return ConstExpr(int(m.group(1)))
+  
+  m = listRE.match(objStr)
+  if( m ): return ListExpr([expressionObject(m.group(1)), expressionObject(m.group(2))])
   
   m = chanceRE.match(objStr)
   if( m ): return ChanceExpr(m.group(1), expressionObject(m.group(2)))
@@ -79,6 +85,13 @@ class Expr:
 
   def match(self, objStr):
     return self.resolve() == objStr
+
+class ListExpr(Expr):
+  def __init__(self, exprList):
+    self.exprList = exprList
+
+  def resolve(self):
+    return map(Expr.resolve, self.exprList)
 
 class RangeExpr(Expr):
   def __init__(self, minval, maxval):
@@ -170,7 +183,21 @@ class MultiplyExpr(Expr):
 
   def resolve(self):
     debug("lhs: " + repr(self.lhs))
-    return int(self.lhs.resolve()) * int(self.rhs.resolve())
+    num = None
+    if( isinstance(self.lhs, ConstExpr) and isinstance(self.rhs, ChanceExpr) ):
+      num = self.lhs
+      other = self.rhs
+    if( isinstance(self.rhs, ConstExpr) and isinstance(self.lhs, ChanceExpr) ):
+      num = self.rhs
+      other = self.lhs
+
+    if( num ):
+      retval = []
+      for i in range(num.resolve()):
+        retval.append(other.resolve())
+      return retval
+    else:
+      return int(self.lhs.resolve()) * int(self.rhs.resolve())
 
 class PlusExpr(Expr):
   def __init__(self, lhs, rhs):
@@ -287,14 +314,18 @@ class Table:
 
           mode = 'H'
         elif mode == 'H':
-          #read column header row
-          #parse header row
-          headers = cls.columns(line)
+          m = aliasRE.match(line)
+          if( m ):
+            Table.tables[m.group(1)] = table
+          else:
+            #read column header row
+            #parse header row
+            headers = cls.columns(line)
 
-          #parse header data (for now, no parsing)
-          table.headers = headers
+            #parse header data (for now, no parsing)
+            table.headers = headers
 
-          mode = 'C'
+            mode = 'C'
         elif mode == 'C':
           #read column data row
           #parse column data row

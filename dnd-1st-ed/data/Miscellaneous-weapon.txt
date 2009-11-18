@@ -1,5 +1,6 @@
 #MISCELLANEOUS WEAPONS
 III H (Score=d100)
+alias Miscellaneous Weapon
 | Score	| *Name*						| *XP*	| *GP*	|
 | 01->08	|  Arrow +1, 2-24 in number 			| 20		| 120	|
 | 09->12	|  Arrow +2, 2-16 in number 			| 50		| 300	|

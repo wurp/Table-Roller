@@ -1,5 +1,6 @@
 # MAGIC ITEMS
 III (Score=d100)
+alias Any Magic Item
 | Score	| *Results*	|
 | 01->20	| [III A]	|
 | 21->35	| [III B]	|

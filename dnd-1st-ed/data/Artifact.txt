@@ -1,5 +1,6 @@
 #Special (Score=d100)
 III E Special (Score=d100)
+alias Artifact
 | Score	| *Name*					| *GP*	|
 | 01	| Axe of the Dwarvish Lords		| 55000	|
 | 02	| Baba Yaga's Hut				| 90000	|

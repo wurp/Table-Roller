@@ -1,5 +1,6 @@
-#RODS, STAVES, & WANDS
+#RODS, STAVES, and WANDS
 III D (Score=d100)
+alias Rod Staff or Wand
 | Score	| *Name*					| *XP*	| *GP*	|
 | 01->03	| Rod of Absorption (C,M) 			| 7500		| 40000	|
 | 04	| Rod oft Beguiling (C,M,T) 		| 5000		| 30000	|
@@ -24,11 +25,11 @@ III D (Score=d100)
 | 53->56	| Wand of Illusion (M)			| 3000		| 20000	|
 | 57->59	| Wand of Lightning (M)			| 4000		| 30000	|
 | 60->68	| Wand of Magic Detection (any)		| 2500		| 25000	|
-| 69->73	| Wand of Metal & Mineral Detection (any)	| 1500		| 7500	|
+| 69->73	| Wand of Metal and Mineral Detection (any)	| 1500		| 7500	|
 | 74->78	| Wand of Magic Missiles (any)		| 4000		| 35000	|
 | 79->86	| Wand of Negation (any)			| 3500		| 15000	|
 | 87->89	| Wand of Paralyzation (M)			| 3500		| 25000	|
 | 90->92	| Wand of Polymorphing (M)		| 3500		| 25000	|
-| 93->94	| Wand of Secret Door & Trap Location (any)	| 5000		| 40000	|
+| 93->94	| Wand of Secret Door and Trap Location (any)	| 5000		| 40000	|
 | 95->100	| Wand of Wonder (any)			| 6000		| 10000	|
 

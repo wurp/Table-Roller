@@ -1,4 +1,5 @@
 III A (Score=d100)
+alias Potion
 | Score		| *Potion*		| *XP*		| *GP*		| *Other*		|
 | 01->03	| Animal Control	| 250		| 400		|			|
 | 04->06	| Clairaudience		| 		| 		|			|

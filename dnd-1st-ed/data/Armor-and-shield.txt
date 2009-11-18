@@ -1,5 +1,6 @@
 #ARMOR AND SHIELD
 III F (Score=d100)
+alias Armor or Shield
 | Score	| *Name*				| *XP*	| *GP*	|
 | 01->05	| Chain Mail +1			| 600		| 3500	|
 | 06->09	| Chain Mail +2			| 1200		| 7500	|

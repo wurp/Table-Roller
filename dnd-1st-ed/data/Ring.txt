@@ -1,4 +1,5 @@
 III C (Score=d100)
+alias Ring
 | Score	| *Ring*				| *XP*	| *GP*	|
 | 01->06	| Contrariness			| -		| 1000	|
 | 07->12	| Delusion			| -		| 2000	|
