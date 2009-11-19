@@ -389,10 +389,15 @@ def printColumns(tableFileNames, columnCriterion):
   for hdr in table.headers:
     val = table.getRowExpr(row, hdr).resolve()
     if( isinstance(val, list) ):
-      print(hdr)
-      print("  " + "\n  ".join(map(repr, val)))
+      hdrPrinted = False
+      for valElem in val:
+        if( not valElem is None ):
+          if( not hdrPrinted ):
+            hdrPrinted = True
+            print(hdr)
+          print("  " + repr(valElem) + "\n")
     else:
-      print hdr + ": " + repr(val)
+      if( not val is None ): print hdr + ": " + repr(val)
 
 if __name__=='__main__':
     main(sys.argv[1:])

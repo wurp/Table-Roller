@@ -58,12 +58,3 @@ Jewelry Gem Mod II (Score=d6)
 | Score	| *Desc* |
 | 1	| "double gem bonus, to max of 640000, run [Jewelry Gem Mod II]" |
 | 2->6	| "No change" |
-
-
-
-###
-# Test tables, not correct!
-###
-Treasure
-|*Type*	| *cp*			| *sp*			| *ep*			| *gp*			| *pp*			| *gems*		| *jewelry*	| *magic*			|
-| "A"	| 50% 4d10 * 1000	| -			| 25% 3d4 * 1000	| 10% d4 * 1000		| -			| 90% [Gems] * d10	| 5% [Jewelry] * d4		| -				|
