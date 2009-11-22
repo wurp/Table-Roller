@@ -289,7 +289,14 @@ class Table:
       #and set the ? to be the sum of all the weights
       m = weightedCriteriaRE.match(self.defaultCriteria)
       if( weightedCriteriaRE.match(self.defaultCriteria) ):
-        pass
+        colName, qPrefix = m.group(1), m.group(2)
+        colIdx = self.headerIdx[colName]
+        wtSum = 0
+        for row in self.rows:
+          colWt = int(row.cols[colIdx].resolve())
+          row.cols[colIdx] = RangeExpr(wtSum + 1, wtSum + colWt)
+          wtSum += colWt
+        self.defaultCriteria = colName + "=" + qPrefix + repr(wtSum)
         
       columnCriteria = self.defaultCriteria
 

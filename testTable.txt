@@ -1,4 +1,4 @@
-Table
+Table (Weight=d?)
 | *Weight*	| *Value*	|
 | 1		| One	|
 | 2		| Two	|
