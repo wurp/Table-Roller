@@ -25,6 +25,7 @@ evalRE = re.compile('^(.*){\s*([^}]+?)\s*}(.*)$')
 listRE = re.compile('^(.*)&(.*)$')
 
 headerRE = re.compile("^\s*\**\s*(.*?)\s*\**\s*$")
+weightedCriteriaRE = re.compile("^(.*?)=(.*)\?$")
 
 def die(sides):
   return random.randint(1, sides)
@@ -282,7 +283,15 @@ class Table:
   def findRow(self, columnCriteria):
     debug(columnCriteria)
 
-    if( columnCriteria == None ): columnCriteria = self.defaultCriteria
+    if( columnCriteria == None ):
+      #if default criteria ends with ? (i.e. 'd?'), treat
+      #column values as weights, set up column ranges accordingly
+      #and set the ? to be the sum of all the weights
+      m = weightedCriteriaRE.match(self.defaultCriteria)
+      if( weightedCriteriaRE.match(self.defaultCriteria) ):
+        pass
+        
+      columnCriteria = self.defaultCriteria
 
     debug(columnCriteria)
     if( columnCriteria.find('=') == -1 ): raise Exception("No = found in criteria: " + columnCriteria)
