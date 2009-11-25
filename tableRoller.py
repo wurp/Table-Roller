@@ -398,27 +398,27 @@ class Table:
 
     return table, row
 
+  @classmethod
+  def printColumns(cls, columnCriterion):
+    table, row = Table.getRow(columnCriterion)
+    for hdr in table.headers:
+      val = table.getRowExpr(row, hdr).resolve()
+      if( isinstance(val, list) ):
+        hdrPrinted = False
+        for valElem in val:
+          if( not valElem is None ):
+            if( not hdrPrinted ):
+              hdrPrinted = True
+              print(hdr)
+            print("  " + repr(valElem) + "\n")
+      else:
+        if( not val is None ): print hdr + ": " + repr(val)
+
 
 #print out values for all columns
 def main(args):
-  printColumns(args[1:], args[0])
-
-def printColumns(tableFileNames, columnCriterion):
-  Table.parseFilesAndDirectories(tableFileNames)
-
-  table, row = Table.getRow(columnCriterion)
-  for hdr in table.headers:
-    val = table.getRowExpr(row, hdr).resolve()
-    if( isinstance(val, list) ):
-      hdrPrinted = False
-      for valElem in val:
-        if( not valElem is None ):
-          if( not hdrPrinted ):
-            hdrPrinted = True
-            print(hdr)
-          print("  " + repr(valElem) + "\n")
-    else:
-      if( not val is None ): print hdr + ": " + repr(val)
+  Table.parseFilesAndDirectories(args[1:])
+  Table.printColumns(args[0])
 
 if __name__=='__main__':
     main(sys.argv[1:])
