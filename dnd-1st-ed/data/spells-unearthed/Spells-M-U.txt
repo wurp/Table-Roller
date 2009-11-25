@@ -1,4 +1,4 @@
-M-U Spell Level 1 (Score=d?)
+M-U Spell Level 1 (Weight=d?)
 | Weight	| *Level* | *Spell*	|
 | 1		| 1	| Affect Normal Fires 	|
 | 1		| 1	| Alarm 	|
@@ -41,7 +41,7 @@ M-U Spell Level 1 (Score=d?)
 | 1		| 1	| Wizard Mark	|
 | 1		| 1	| Write	|
 
-M-U Spell Level 2 (Score=d?)
+M-U Spell Level 2 (Weight=d?)
 | Weight	| *Level* | *Spell*	|
 | 1		| 2	| Audible Glamer	|
 | 1		| 2	| Bind	|
@@ -80,7 +80,7 @@ M-U Spell Level 2 (Score=d?)
 | 1		| 2	| Wizard Lock	|
 | 1		| 2	| Zephyr	|
 
-M-U Spell Level 3 (Score=d?)
+M-U Spell Level 3 (Weight=d?)
 | Weight	| *Level* | *Spell*	|
 | 1		| 3	| Blink	|
 | 1		| 3	| Clairaudience	|
@@ -115,7 +115,7 @@ M-U Spell Level 3 (Score=d?)
 | 1		| 3	| Water Breathing (reversible)	|
 | 1		| 3	| Wind Wall	|
 
-M-U Spell Level 4 (Score=d?)
+M-U Spell Level 4 (Weight=d?)
 | Weight	| *Level* | *Spell*	|
 | 1		| 4	| Charm Monster	|
 | 1		| 4	| Confusion	|
@@ -149,7 +149,7 @@ M-U Spell Level 4 (Score=d?)
 | 1		| 4	| Wall of Ice	|
 | 1		| 4	| Wizard Eye	|
 
-M-U Spell Level 5 (Score=d?)
+M-U Spell Level 5 (Weight=d?)
 | Weight	| *Level* | *Spell*	|
 | 1		| 5	| Airy Water	|
 | 1		| 5	| Animal Growth	|
@@ -182,7 +182,7 @@ M-U Spell Level 5 (Score=d?)
 | 1		| 5	| Wall of Iron	|
 | 1		| 5	| Wall of Stone	|
 
-M-U Spell Level 6 (Score=d?)
+M-U Spell Level 6 (Weight=d?)
 | Weight	| *Level* | *Spell*	|
 | 1		| 6	| Anti-Magic Shell	|
 | 1		| 6	| Bigby's Forceful Hand	|
@@ -215,7 +215,7 @@ M-U Spell Level 6 (Score=d?)
 | 1		| 6	| Tenser's Transformation	|
 | 1		| 6	| Transmute Water to Dust	|
 
-M-U Spell Level 7 (Score=d?)
+M-U Spell Level 7 (Weight=d?)
 | Weight	| *Level* | *Spell*	|
 | 1		| 7	| Banishment	|
 | 1		| 7	| Bigby's Grasping Hand	|
@@ -242,7 +242,7 @@ M-U Spell Level 7 (Score=d?)
 | 1		| 7	| Vanish	|
 | 1		| 7	| Volley	|
 
-M-U Spell Level 8 (Score=d?)
+M-U Spell Level 8 (Weight=d?)
 | Weight	| *Level* | *Spell*	|
 | 1		| 8	| Antipathy/Sympathy	|
 | 1		| 8	| Bigby's Clenched Fist	|
@@ -265,7 +265,7 @@ M-U Spell Level 8 (Score=d?)
 | 1		| 8	| Symbol	|
 | 1		| 8	| Trap The Soul	|
 
-M-U Spell Level 9 (Score=d?)
+M-U Spell Level 9 (Weight=d?)
 | Weight	| *Level* | *Spell*	|
 | 1		| 9	| Astral Spell	|
 | 1		| 9	| Bigby's Crushing Hand	|

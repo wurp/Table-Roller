@@ -1,0 +1,88 @@
+Illusionist Spell Level 1 (Score=d10)
+| Score		| *Level* | *Spell*	|
+| 01->10	| 1       | Illusionist 1	|
+
+Cleric Spell Level 1 (Score=d10)
+| Score		| *Level* | *Spell*	|
+| 01->10	| 1       | Cleric 1	|
+
+Druid Spell Level 1 (Score=d10)
+| Score		| *Level* | *Spell*	|
+| 01->10	| 1       | Druid 1	|
+
+Illusionist Spell Level 2 (Score=d10)
+| Score		| *Level* | *Spell*	|
+| 01->10	| 2       | Illusionist 2	|
+
+Cleric Spell Level 2 (Score=d10)
+| Score		| *Level* | *Spell*	|
+| 01->10	| 2       | Cleric 2	|
+
+Druid Spell Level 2 (Score=d10)
+| Score		| *Level* | *Spell*	|
+| 01->10	| 2       | Druid 2	|
+
+Illusionist Spell Level 3 (Score=d10)
+| Score		| *Level* | *Spell*	|
+| 01->10	| 3       | Illusionist 3	|
+
+Cleric Spell Level 3 (Score=d10)
+| Score		| *Level* | *Spell*	|
+| 01->10	| 3       | Cleric 3	|
+
+Druid Spell Level 3 (Score=d10)
+| Score		| *Level* | *Spell*	|
+| 01->10	| 3       | Druid 3	|
+
+Illusionist Spell Level 4 (Score=d10)
+| Score		| *Level* | *Spell*	|
+| 01->10	| 4       | Illusionist 4	|
+
+Cleric Spell Level 4 (Score=d10)
+| Score		| *Level* | *Spell*	|
+| 01->10	| 4       | Cleric 4	|
+
+Druid Spell Level 4 (Score=d10)
+| Score		| *Level* | *Spell*	|
+| 01->10	| 4       | Druid 4	|
+
+
+Illusionist Spell Level 5 (Score=d10)
+| Score		| *Level* | *Spell*	|
+| 01->10	| 5       | Illusionist 5	|
+
+Cleric Spell Level 5 (Score=d10)
+| Score		| *Level* | *Spell*	|
+| 01->10	| 5       | Cleric 5	|
+
+Druid Spell Level 5 (Score=d10)
+| Score		| *Level* | *Spell*	|
+| 01->10	| 5       | Druid 5	|
+
+
+Illusionist Spell Level 6 (Score=d10)
+| Score		| *Level* | *Spell*	|
+| 01->10	| 6       | Illusionist 6	|
+
+Cleric Spell Level 6 (Score=d10)
+| Score		| *Level* | *Spell*	|
+| 01->10	| 6       | Cleric 6	|
+
+Druid Spell Level 6 (Score=d10)
+| Score		| *Level* | *Spell*	|
+| 01->10	| 6       | Druid 6	|
+
+
+Illusionist Spell Level 7 (Score=d10)
+| Score		| *Level* | *Spell*	|
+| 01->10	| 7       | Illusionist 7	|
+
+Cleric Spell Level 7 (Score=d10)
+| Score		| *Level* | *Spell*	|
+| 01->10	| 7       | Cleric 7	|
+
+Druid Spell Level 7 (Score=d10)
+| Score		| *Level* | *Spell*	|
+| 01->10	| 7       | Druid 7	|
+
+
