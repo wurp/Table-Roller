@@ -1,4 +1,4 @@
-Table
+Table (Weight=d3)
 | *Weight*	| *Value*	|
 | 1		| One	|
 | 2		| Two	|

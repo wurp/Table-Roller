@@ -359,6 +359,17 @@ class Table:
     f.close
 
   @classmethod
+  def parseFilesAndDirectories(cls, tableFileNames):
+    for fileName in tableFileNames:
+      if( os.path.isdir(fileName) ):
+        dirFileNames = glob.glob(fileName+"/*.txt")
+        for dirFileName in dirFileNames:
+          if( os.path.isfile(dirFileName) ):
+            Table.parseFile(dirFileName)
+      else:
+        Table.parseFile(fileName)
+
+  @classmethod
   def columns(cls, line):
     debug(line)
     return line.split('|')[1:-1]
@@ -386,14 +397,8 @@ def main(args):
   printColumns(args[1:], args[0])
 
 def printColumns(tableFileNames, columnCriterion):
-  for fileName in tableFileNames:
-    if( os.path.isdir(fileName) ):
-      dirFileNames = glob.glob(fileName+"/*.txt")
-      for dirFileName in dirFileNames:
-        if( os.path.isfile(dirFileName) ):
-          Table.parseFile(dirFileName)
-    else:
-      Table.parseFile(fileName)
+  Table.parseFilesAndDirectories(tableFileNames)
+
   table, row = Table.getRow(columnCriterion)
   for hdr in table.headers:
     val = table.getRowExpr(row, hdr).resolve()
