@@ -1,4 +1,5 @@
 III E 1 (Score=d100)
+alias Miscellaneous Magic 1
 | Score	| *Name*						| *XP*	| *GP*	|
 | 01->02	| Alchemy Jug					| 3000		| 12000	|
 | 03->04	| Amulet of Inescapable Location			| -		| 1000	|
@@ -37,6 +38,7 @@ III E 1 (Score=d100)
 
 
 III E 2 (Score=d100)
+alias Miscellaneous Magic 2
 | Score	| *Name*	| *XP*	| *GP*	|
 | 01->06	| Candle of Invocation (C)	| 1000	| 5000	|
 | 07->08	| Carpet of Flying	| 7500	| 25000	|
@@ -74,6 +76,7 @@ III E 2 (Score=d100)
 
 
 III E 3 (Score=d100)
+alias Miscellaneous Magic 3
 | Score	| *Name*						| *XP*	| *GP*	|
 | 01->15	| Figurine of Wondrous Power			| "100*"		| "1000*"	|
 | 16	| Flask of Curses					| -		| 1000	|
@@ -115,6 +118,7 @@ III E 3 (Score=d100)
 
 
 III E 4 (Score=d100)
+alias Miscellaneous Magic 4
 | Score	| *Name*					| *XP*	| *GP*	|
 | 01	| Libram of Gainful Conjuration (M)		| 8000		| 40000	|
 | 02	| Libram of Ineffable Damnation (M)		| 8000		| 40000	|
@@ -158,6 +162,7 @@ III E 4 (Score=d100)
 #****  Per level of spell.
 
 III E 5 (Score=d100)
+alias Miscellaneous Magic 5
 | Score	| *Name*					| *XP*	| *GP*	|
 | 01	| Robe of the Archmagi (M)			| 6000		| 65000	|
 | 02->08	| Robe of Blending				| 3500		| 35000	|
