@@ -399,7 +399,8 @@ class Table:
     return table, row
 
   @classmethod
-  def printColumns(cls, columnCriterion):
+  def resultsAsString(cls, columnCriterion):
+    results = ""
     table, row = Table.getRow(columnCriterion)
     for hdr in table.headers:
       val = table.getRowExpr(row, hdr).resolve()
@@ -409,10 +410,16 @@ class Table:
           if( not valElem is None ):
             if( not hdrPrinted ):
               hdrPrinted = True
-              print(hdr)
-            print("  " + repr(valElem) + "\n")
+              results = results + str(hdr) + "\n"
+            results = results + "  " + repr(valElem) + "\n"
       else:
-        if( not val is None ): print hdr + ": " + repr(val)
+        if( not val is None ): results = results + hdr + ": " + repr(val) + "\n"
+
+    return results
+
+  @classmethod
+  def printColumns(cls, columnCriterion):
+    print cls.resultsAsString(columnCriterion)
 
 
 #print out values for all columns

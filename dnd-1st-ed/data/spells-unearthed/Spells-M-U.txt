@@ -47,7 +47,7 @@ M-U Spell Level 2 (Weight=d?)
 | 1		| 2	| Bind	|
 | 1		| 2	| Continual Light (not reversible)	|
 | 1		| 2	| Darkness 15' Radius	|
-| 1		| 2	| Deeppokets	|
+| 1		| 2	| Deeppockets	|
 | 1		| 2	| Detect Evil (reversible)	|
 | 1		| 2	| Detect Invisibility	|
 | 1		| 2	| ESP	|
