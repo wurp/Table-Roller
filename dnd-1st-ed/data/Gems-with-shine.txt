@@ -1,0 +1,36 @@
+##
+# Use this to generate gems that have been treated with the Shine cantrip.
+# See page 26 of DMG, page 46 of Unearthed Arcana.
+##
+Gems with Shine (Score=d100)
+|Score	| *Base Value*	| *Description*		| *(or Size)*		| *Value mod*		|
+| 01->25	| 10		| "ornamental" 		| "very small"	| [Gem with Shine Value Mod/Desc] 	|
+| 26->50	| 50		| "semi-precious"	|		| [Gem with Shine Value Mod/Desc] 	|
+| 51->70	| 100		| "fancy" 		|		| [Gem with Shine Value Mod/Desc] 	|
+| 71->90	| 500		| "fancy (precious)" 	|		| [Gem with Shine Value Mod/Desc] 	|
+| 91->99	| 1000		| "gem stones" 		|		| [Gem with Shine Value Mod/Desc] 	|
+| 100		| 5000		| "gem stones (jewels)"	|		| [Gem with Shine Value Mod/Desc] 	|
+
+##
+# See page 26 of DMG, page 46 of the Unearthed Arcana
+##
+Gem with Shine Value Mod (Score=d10)
+|Score	| *Desc*				|
+| 1		| "10->50->100->500->1000->5000->10000->25000->50000->100000->250000->500000->1000000, run [Gem Value Mod:Score=d8]" |
+| 2		| "value * 2"	|
+| 3		| "increase by %:" + d6 * 10 |
+| 4->8		| "no change"	|
+| 9		| [Gem Shine Mod] |
+| 10		| [Gem Shine Mod] |
+
+##
+# See page 26 of DMG, page 46 of the Unearthed Arcana
+##
+Gem Shine Mod (Score=d10)
+|Score	| *Desc*				|
+| 1		| "10->50->100->500->1000->5000->10000->25000->50000->100000->250000->500000->1000000, run [Gem Value Mod:Score=d8]" |
+| 2		| "10->50->100->500->1000->5000->10000->25000->50000->100000->250000->500000->1000000, run [Gem Value Mod:Score=d8]" |
+| 3		| "value * 2"	|
+| 4		| "increase by %:" + d6 * 10 |
+| 5->9		| "no change"	|
+| 10		| "decrease by %:" + d4 * 10 |
