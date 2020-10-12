@@ -3,7 +3,6 @@
 import re
 import os
 import sys
-import glob
 import random
 
 DEBUG=False
@@ -104,7 +103,7 @@ class ListExpr(Expr):
 class RangeExpr(Expr):
   def __init__(self, minval, maxval):
     if( minval == '' ):
-      self.minval = -sys.maxint-1
+      self.minval = -sys.maxsize-1
     else:
       self.minval = int(minval)
     self.maxval = int(maxval)
@@ -112,7 +111,7 @@ class RangeExpr(Expr):
   def __repr__(self): return self.resolve()
 
   def resolve(self):
-    if( self.minval == -sys.maxint-1 ): return ".." + repr(self.maxval)
+    if( self.minval == -sys.maxsize-1 ): return ".." + repr(self.maxval)
     return repr(self.minval) + ".." + repr(self.maxval)
 
   def match(self, val):
@@ -217,7 +216,7 @@ class PlusExpr(Expr):
     debug("lhs: " + repr(self.lhs))
     lhsval = self.lhs.resolve()
 
-    if( isinstance(lhsval, basestring) ): return lhsval + str(self.rhs.resolve())
+    if( isinstance(lhsval, str) ): return lhsval + str(self.rhs.resolve())
     if( isinstance(lhsval, Row) ): return str(lhsval) + str(self.rhs.resolve())
     return int(lhsval) + int(self.rhs.resolve())
 
@@ -238,7 +237,7 @@ class Row:
     return retval + "]"
 
 def debug(msg):
-  if DEBUG: print msg
+  if DEBUG: print(msg)
 
 class Table:
   tables = {}
@@ -419,13 +418,4 @@ class Table:
 
   @classmethod
   def printColumns(cls, columnCriterion):
-    print cls.resultsAsString(columnCriterion)
-
-
-#print out values for all columns
-def main(args):
-  Table.parseFilesAndDirectories(args[1:])
-  Table.printColumns(args[0])
-
-if __name__=='__main__':
-    main(sys.argv[1:])
+    print(cls.resultsAsString(columnCriterion))
