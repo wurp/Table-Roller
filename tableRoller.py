@@ -1,7 +1,6 @@
 #!/usr/bin/python
 
 import re
-import os
 import sys
 import random
 
@@ -363,17 +362,6 @@ class Table:
 
           mode = 'C'
     f.close
-
-  @classmethod
-  def parseFilesAndDirectories(cls, tableFileNames):
-    for fileName in tableFileNames:
-      if( os.path.isdir(fileName) ):
-        dirFileNames = glob.glob(fileName+"/*.txt")
-        for dirFileName in dirFileNames:
-          if( os.path.isfile(dirFileName) ):
-            Table.parseFile(dirFileName)
-      else:
-        Table.parseFile(fileName)
 
   @classmethod
   def columns(cls, line):
