@@ -1,19 +1,113 @@
 #From Claude 3.5 Sonnet based on txt OCR of DMG, need to verify
-Disease (Or Disorder) Table (Score=d100)
-| Score | *Area of Body Affected* | *Acute* | *Chronic* | *Mild* | *Severe* | *Terminal* |
-| 01->03 | blood/blood forming organs | 1-3 | 4-8 | 1-2 | 3-5 | 6-8 |
-| 04 | bones | 1 | 2-8 | 1 | 2-3 | 4-8 |
-| 05 | brain/nervous system | 1-6 | 7-8 | 1-2 | 3-5 | 6-8 |
-| 06->07 | cardiovascular-renal | 1-3 | 4-8 | 1-2 | 3-4 | 5-8 |
-| 08->09 | connective tissue | 1 | 2-8 | 1 | 2-3 | 4-8 |
-| 10->12 | ears | 1-7 | 8 | 1-6 | 7 | 8 |
-| 13->18 | eyes | 1-7 | 8 | 1-5 | 6-7 | 8 |
-| 19->40 | gastro-intestinal | 1-6 | 7-8 | 1-5 | 6-7 | 8 |
-| 41->42 | generative organs | 1-2 | 3-8 | 1-3 | 4-7 | 8 |
-| 43->48 | joints | 1-4 | 5-8 | 1-6 | 7-8 | - |
-| 49->50 | mucous membranes | 1-7 | 8 | 1-6 | 7-8 | - |
-| 51->52 | muscles | 1-5 | 6-8 | 1-5 | 6-7 | 8 |
-| 53->65 | nose-throat | 1-6 | 7-8 | 1-6 | 7-8 | - |
-| 66->85 | respiratory system | 1-5 | 6-8 | 1-5 | 6-7 | 8 |
-| 86->96 | skin | 1-6 | 7-8 | 1-5 | 6-7 | 8 |
-| 97->00 | urinary system | 1-6 | 7-8 | 1-5 | 6-7 | - |
+#DISEASE TABLE
+Disease (Score=d100)
+| Score | *Area of Body Affected* | *Acuity* | *Severity* |
+| 01->03 | blood/blood forming organs | [Acuity I] | [Severity I] |
+| 04 | bones | [Acuity II] | [Severity II] |
+| 05 | brain/nervous system | [Acuity III] | [Severity I] |
+| 06->07 | cardiovascular-renal | [Acuity I] | [Severity III] |
+| 08->09 | connective tissue | [Acuity II] | [Severity II] |
+| 10->12 | ears | [Acuity IV] | [Severity IV] |
+| 13->18 | eyes | [Acuity IV] | [Severity V] |
+| 19->40 | gastro-intestinal | [Acuity III] | [Severity VI] |
+| 41->42 | generative organs | [Acuity V] | [Severity VII] |
+| 43->48 | joints | [Acuity VI] | [Severity VIII] |
+| 49->50 | mucous membranes | [Acuity IV] | [Severity IX] |
+| 51->52 | muscles | [Acuity VII] | [Severity VI] |
+| 53->65 | nose-throat | [Acuity III] | [Severity IX] |
+| 66->85 | respiratory system | [Acuity VII] | [Severity VI] |
+| 86->96 | skin | [Acuity III] | [Severity VI] |
+| 97->00 | urinary system | [Acuity III] | [Severity X] |
+
+Acuity I (Score=d8)
+| Score | *Acuity* |
+| 1->3 | Acute |
+| 4->8 | Chronic |
+
+Acuity II (Score=d8)
+| Score | *Acuity* |
+| 1 | Acute |
+| 2->8 | Chronic |
+
+Acuity III (Score=d8)
+| Score | *Acuity* |
+| 1->6 | Acute |
+| 7->8 | Chronic |
+
+Acuity IV (Score=d8)
+| Score | *Acuity* |
+| 1->7 | Acute |
+| 8 | Chronic |
+
+Acuity V (Score=d8)
+| Score | *Acuity* |
+| 1->2 | Acute |
+| 3->8 | Chronic |
+
+Acuity VI (Score=d8)
+| Score | *Acuity* |
+| 1->4 | Acute |
+| 5->8 | Chronic |
+
+Acuity VII (Score=d8)
+| Score | *Acuity* |
+| 1->5 | Acute |
+| 6->8 | Chronic |
+
+Severity I (Score=d8)
+| Score | *Severity* |
+| 1->2 | Mild |
+| 3->5 | Severe |
+| 6->8 | Terminal |
+
+Severity II (Score=d8)
+| Score | *Severity* |
+| 1 | Mild |
+| 2->3 | Severe |
+| 4->8 | Terminal |
+
+Severity III (Score=d8)
+| Score | *Severity* |
+| 1->2 | Mild |
+| 3->4 | Severe |
+| 5->8 | Terminal |
+
+Severity IV (Score=d8)
+| Score | *Severity* |
+| 1->6 | Mild |
+| 7 | Severe |
+| 8 | Terminal |
+
+Severity V (Score=d8)
+| Score | *Severity* |
+| 1->5 | Mild |
+| 6->7 | Severe |
+| 8 | Terminal |
+
+Severity VI (Score=d8)
+| Score | *Severity* |
+| 1->5 | Mild |
+| 6->7 | Severe |
+| 8 | Terminal |
+
+Severity VII (Score=d8)
+| Score | *Severity* |
+| 1->3 | Mild |
+| 4->7 | Severe |
+| 8 | Terminal |
+
+Severity VIII (Score=d8)
+| Score | *Severity* |
+| 1->6 | Mild |
+| 7->8 | Severe |
+
+Severity IX (Score=d8)
+| Score | *Severity* |
+| 1->6 | Mild |
+| 7->8 | Severe |
+
+Severity X (Score=d8)
+| Score | *Severity* |
+| 1->5 | Mild |
+| 6->7 | Severe |
+| 8 | Terminal |
