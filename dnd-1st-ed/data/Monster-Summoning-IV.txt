@@ -13,4 +13,4 @@ Monster Summoning IV (Score=d100)
 | 68->76 | Shadow |
 | 77->86 | Snake, giant, constrictor |
 | 87->93 | Toad, ice |
-| 94->00 | Toad, poisonous |
+| 94->100 | Toad, poisonous |

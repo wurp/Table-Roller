@@ -1,0 +1,24 @@
+#From Claude 3.5 Sonnet based on txt OCR of DMG, need to verify
+#Mountains Encounters
+Mountains (Score=d100)
+| Score | *Monster* | *Number Appearing* |
+| 01->05 | Dragon, red | 1 |
+| 06->10 | Dwarf | 4d4 |
+| 11->15 | Eagle, giant | 1d6 |
+| 16->20 | Elemental, air | 1 |
+| 21->25 | Ettin | 1d2 |
+| 26->30 | Giant, cloud | 1d2 |
+| 31->35 | Giant, frost | 1d4 |
+| 36->40 | Giant, stone | 1d2 |
+| 41->45 | Gnome | 5d6 |
+| 46->50 | Griffon | 2d4 |
+| 51->55 | Human, berserker | 3d10 |
+| 56->60 | Manticore | 1d2 |
+| 61->65 | Minotaur | 1d8 |
+| 66->70 | Ogre | 1d6 |
+| 71->75 | Orc | 3d10 |
+| 76->80 | Roc | 1d2 |
+| 81->85 | Salamander | 2d4 |
+| 86->90 | Titan | 1 |
+| 91->95 | Wyvern | 1d2 |
+| 96->100 | NPC party | 2d4 |

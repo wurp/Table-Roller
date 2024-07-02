@@ -1,0 +1,21 @@
+#From Claude 3.5 Sonnet based on txt OCR of DMG, need to verify
+#Dungeon Level 4 Encounters
+Dungeon Level 4 (Score=d100)
+| Score | *Monster* | *Number Appearing* |
+| 01->04 | Beholder | 1 |
+| 05->10 | Cockatrice | 1d4 |
+| 11->16 | Displacer beast | 1d2 |
+| 17->22 | Doppleganger | 1d3 |
+| 23->28 | Gargoyle | 1d6 |
+| 29->34 | Gelatinous cube | 1 |
+| 35->40 | Hell hound | 2d4 |
+| 41->46 | Hydra, 5-8 heads | 1 |
+| 47->52 | Lycanthrope, wereboar | 1d4 |
+| 53->58 | Manticore | 1 |
+| 59->64 | Minotaur | 1d3 |
+| 65->70 | Ochre jelly | 1 |
+| 71->76 | Ogre | 1d6+1 |
+| 77->82 | Owlbear | 1d3 |
+| 83->88 | Rust monster | 1d2 |
+| 89->94 | Troll | 1d4 |
+| 95->100 | NPC party | 2d4 |

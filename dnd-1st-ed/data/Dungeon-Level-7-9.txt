@@ -1,0 +1,22 @@
+#From Claude 3.5 Sonnet based on txt OCR of DMG, need to verify
+#Dungeon Level 7-9 Encounters
+Dungeon Level 7-9 (Score=d100)
+| Score | *Monster* | *Number Appearing* |
+| 01->05 | Demon, type I-IV | 1 |
+| 06->10 | Devil, lesser | 1 |
+| 11->15 | Dragon, adult | 1 |
+| 16->20 | Giant, fire | 1d2 |
+| 21->25 | Giant, frost | 1d2 |
+| 26->30 | Golem, stone | 1 |
+| 31->35 | Hydra, 10-12 heads | 1 |
+| 36->40 | Mind flayer | 1d4 |
+| 41->45 | Neo-otyugh | 1d2 |
+| 46->50 | Purple worm | 1d2 |
+| 51->55 | Remorhaz | 1 |
+| 56->60 | Salamander | 2d4 |
+| 61->65 | Titan | 1 |
+| 66->70 | Vampire | 1d2 |
+| 71->75 | Will-o-wisp | 1d3 |
+| 76->80 | Wraith | 1d6 |
+| 81->85 | Xorn | 1d4 |
+| 86->100 | NPC party | 2d4 |

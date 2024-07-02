@@ -36,8 +36,8 @@ Furnishings (Score=d100)
 | 35 | cresset |
 | 36 | cupboard |
 | 37 | cushion |
-| 38 | dais |
-| 39 | desk |
+| 38 | "dais" |
+| 39 | "desk" |
 | 40->42 | fireplace & wood |
 | 43 | fireplace with mantle |
 | 44 | firkin |
@@ -89,4 +89,4 @@ Furnishings (Score=d100)
 | 97 | urn |
 | 98 | wall basin and font |
 | 99 | wood billets |
-| 00 | workbench |
+| 100 | workbench |

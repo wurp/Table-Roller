@@ -7,4 +7,4 @@ Figurines of Wondrous Power (Score=d100)
 | 41->55 | Marble Elephant |
 | 56->65 | Obsidian Steed |
 | 66->85 | Onyx Dog |
-| 86->00 | Serpentine Owl |
+| 86->100 | Serpentine Owl |

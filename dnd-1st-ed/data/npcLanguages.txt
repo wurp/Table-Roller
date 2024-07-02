@@ -54,4 +54,4 @@ Random Language (Score=d100)
 | 83 | Titan |
 | 84 | Troll |
 | 85 | Xorn |
-| 86->00 | Human foreign or other* |
+| 86->100 | Human foreign or other* |

@@ -1,0 +1,18 @@
+#From Claude 3.5 Sonnet based on txt OCR of DMG, need to verify
+#Dungeon Level 6 Encounters
+Dungeon Level 6 (Score=d100)
+| Score | *Monster* | *Number Appearing* |
+| 01->07 | Chimera | 1d2 |
+| 08->14 | Dragon, young adult | 1 |
+| 15->21 | Gorgon | 1d2 |
+| 22->28 | Hydra, 9-12 heads | 1 |
+| 29->35 | Lizard king | 1+2d4 |
+| 36->42 | Manticore | 1d2 |
+| 43->49 | Minotaur | 1d4+1 |
+| 50->56 | Mummy | 1d4 |
+| 57->63 | Purple worm | 1 |
+| 64->70 | Roper | 1d2 |
+| 71->77 | Salamander | 1d4+1 |
+| 78->84 | Troll | 1d6 |
+| 85->91 | Vampire | 1d2 |
+| 92->100 | NPC party | 2d4 |

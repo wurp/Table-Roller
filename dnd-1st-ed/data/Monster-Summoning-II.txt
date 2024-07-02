@@ -7,4 +7,4 @@ Monster Summoning II (Score=d100)
 | 26->45 | Gnoll |
 | 46->60 | Stirge |
 | 61->75 | Toad, giant |
-| 76->00 | Troglodyte |
+| 76->100 | Troglodyte |

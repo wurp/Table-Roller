@@ -1,0 +1,29 @@
+#From Claude 3.5 Sonnet based on txt OCR of DMG, need to verify
+#Hills/Rough Encounters
+Hills/Rough (Score=d100)
+| Score | *Monster* | *Number Appearing* |
+| 01->04 | Bandit | 2d6 |
+| 05->08 | Bear | 1d4 |
+| 09->12 | Bugbear | 2d4 |
+| 13->16 | Dragon, red | 1 |
+| 17->20 | Dwarf | 4d4 |
+| 21->24 | Eagle, giant | 1d6 |
+| 25->28 | Ettin | 1d2 |
+| 29->32 | Giant, hill | 1d4 |
+| 33->36 | Giant, stone | 1d2 |
+| 37->40 | Gnoll | 3d6 |
+| 41->44 | Gnome | 5d6 |
+| 45->48 | Goblin | 6d10 |
+| 49->52 | Griffon | 2d4 |
+| 53->56 | Hobgoblin | 4d6 |
+| 57->60 | Human, berserker | 3d10 |
+| 61->64 | Kobold | 5d4 |
+| 65->68 | Lion, mountain | 1d4 |
+| 69->72 | Lycanthrope, werewolf | 1d6 |
+| 73->76 | Ogre | 1d6 |
+| 77->80 | Orc | 3d10 |
+| 81->84 | Roc | 1d2 |
+| 85->88 | Troll | 1d8 |
+| 89->92 | Wyvern | 1d2 |
+| 93->96 | Yeti | 1d6 |
+| 97->100 | NPC party | 2d4 |

@@ -1,0 +1,36 @@
+#From Claude 3.5 Sonnet based on txt OCR of DMG, need to verify
+#Dungeon Level 1 Encounters
+Dungeon Level 1 (Score=d100)
+| Score | *Monster* | *Number Appearing* |
+| 01->02 | Ant, giant | 2d4 |
+| 03->04 | Badger, giant | 1d4+1 |
+| 05->06 | Beetle, fire | 1d8 |
+| 07->08 | Caveman | 1d3 |
+| 09->10 | Dog, wild | 2d4 |
+| 11->12 | Dwarf | 2d4 |
+| 13->14 | Elf | 1d4 |
+| 15->20 | Gnoll | 1d6+3 |
+| 21->28 | Goblin | 4d6 |
+| 29->30 | Green slime | 1 |
+| 31->32 | Halfling | 3d6 |
+| 33->40 | Hobgoblin | 2d8 |
+| 41->42 | Human, bandit | 1d6+3 |
+| 43->44 | Human, berserker | 1d6 |
+| 45->46 | Kobold | 5d8 |
+| 47->48 | Lizard, giant | 1d6 |
+| 49->50 | Lycanthrope, wererat | 1d8 |
+| 51->52 | Neanderthal | 2d4 |
+| 53->60 | Orc | 3d10 |
+| 61->62 | Piercer | 3d6 |
+| 63->64 | Rat, giant | 3d10 |
+| 65->67 | Shrieker | 1d8 |
+| 68->69 | Skeleton | 3d10 |
+| 70->71 | Snake, poisonous | 1d6 |
+| 72->73 | Spider, large | 1d8 |
+| 74->75 | Stirge | 1d10 |
+| 76->77 | Swarm, rat | 1 |
+| 78->79 | Tick, giant | 2d6 |
+| 80->81 | Toad, giant | 1d4 |
+| 82->85 | Troglodyte | 1d12 |
+| 86->90 | Men, brigand | 2d6 |
+| 91->100 | NPC party | 2d4 |

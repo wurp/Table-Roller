@@ -13,4 +13,4 @@ Monster Summoning III (Score=d100)
 | 68->75 | Spider, huge |
 | 76->85 | Spider, large |
 | 86->95 | Tick, giant |
-| 96->00 | Weasel, giant |
+| 96->100 | Weasel, giant |

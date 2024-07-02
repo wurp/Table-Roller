@@ -2,54 +2,54 @@
 #MINOR BENIGN POWERS 
 I (Score=d100)
 | Score | *Result* |
-| 01->02 | Adds 1 point to possessor's major attribute |
-| 03->04 | Animate dead (1 figure) (by touch) - 7 times/week |
-| 05->06 | Audible glamer upon command - 3 times/day |
-| 07->08 | Bless (by touch) |
-| 09->10 | Clairaudience (when touched to the ear) |
-| 11->12 | Clairvoyance (when touched to the eyes) |
-| 13->14 | Color spray - 3 times/day |
-| 15->16 | Comprehend languages when held |
-| 17->18 | Create food and water - 1 time/day |
-| 19->20 | Cure light wounds - 7 times/week |
-| 21->22 | Darkness (1/2, 1, or 15' radius) - 3 times/day |
-| 23->24 | Detect charm - 3 times/day |
-| 25->26 | Detect evil/good when held or ordered |
-| 27->28 | Detect invisibility when held and ordered |
-| 29->30 | Detect magic - 3 times/day |
-| 31->32 | ESP (30', 40', 50', or 60' range) - 3 times/day |
-| 33->34 | Feather fall when grasped and ordered |
-| 35->36 | Find traps - 3 times/day |
-| 37->38 | Fly when held and ordered - 1 time/day |
-| 39->40 | Hypnotic pattern (when moved) - 3 times/day |
-| 41->42 | Infravision when held or worn |
-| 43->44 | Invisibility (improved) - 3 times/day |
-| 45->46 | Know alignment when held and ordered - 1 time/day |
-| 47->48 | Levitate when held and ordered - 3 times/day |
-| 49->50 | Light - 7 times/week |
-| 51->52 | Mind blank - 3 times/day |
-| 53->54 | Obscurement - 1 time/day |
-| 55->56 | Pass without trace - 1 time/day |
-| 57->58 | Possessor immune to disease |
-| 59->60 | Possessor immune to fear |
-| 61->62 | Possessor immune to gas of any type |
-| 63->64 | Possessor need neither eat nor drink for up to 1 week |
-| 65->66 | Protection +2 when held or worn |
-| 67->68 | Remove fear by touch |
-| 69->70 | Sanctuary when held or worn - 1 time/day |
-| 71->72 | Shield, when held or worn, upon command - 3 times/day |
-| 73->74 | Speak with animals - 3 times/day |
-| 75->76 | Speak with dead - 1 time/day |
-| 77->78 | Speak with plants - 7 times/week |
-| 79->80 | Tongues when held or worn and commanded |
-| 81->82 | Ultravision when held or worn |
-| 83->84 | Ventriloquism upon command - 3 times/day |
-| 85->86 | Water breathing upon command |
-| 87->88 | Water walking ability |
-| 89->90 | Wearer immune to charm or hold spells |
-| 91->92 | Wearer immune to magic missiles |
-| 93->94 | Web - 1 time/day |
-| 95->96 | Wizard lock - 7 times/week |
-| 97->98 | Write - 1 time/day |
-| 99->100 | Zombie animation - 1 time/week |
+| 01->02 | "Adds 1 point to possessor's major attribute" |
+| 03->04 | "Animate dead (1 figure) (by touch) - 7 times/week" |
+| 05->06 | "Audible glamer upon command - 3 times/day" |
+| 07->08 | "Bless (by touch)" |
+| 09->10 | "Clairaudience (when touched to the ear)" |
+| 11->12 | "Clairvoyance (when touched to the eyes)" |
+| 13->14 | "Color spray - 3 times/day" |
+| 15->16 | "Comprehend languages when held" |
+| 17->18 | "Create food and water - 1 time/day" |
+| 19->20 | "Cure light wounds - 7 times/week" |
+| 21->22 | "Darkness (1/2, 1, or 15' radius) - 3 times/day" |
+| 23->24 | "Detect charm - 3 times/day" |
+| 25->26 | "Detect evil/good when held or ordered" |
+| 27->28 | "Detect invisibility when held and ordered" |
+| 29->30 | "Detect magic - 3 times/day" |
+| 31->32 | "ESP (30', 40', 50', or 60' range) - 3 times/day" |
+| 33->34 | "Feather fall when grasped and ordered" |
+| 35->36 | "Find traps - 3 times/day" |
+| 37->38 | "Fly when held and ordered - 1 time/day" |
+| 39->40 | "Hypnotic pattern (when moved) - 3 times/day" |
+| 41->42 | "Infravision when held or worn" |
+| 43->44 | "Invisibility (improved) - 3 times/day" |
+| 45->46 | "Know alignment when held and ordered - 1 time/day" |
+| 47->48 | "Levitate when held and ordered - 3 times/day" |
+| 49->50 | "Light - 7 times/week" |
+| 51->52 | "Mind blank - 3 times/day" |
+| 53->54 | "Obscurement - 1 time/day" |
+| 55->56 | "Pass without trace - 1 time/day" |
+| 57->58 | "Possessor immune to disease" |
+| 59->60 | "Possessor immune to fear" |
+| 61->62 | "Possessor immune to gas of any type" |
+| 63->64 | "Possessor need neither eat nor drink for up to 1 week" |
+| 65->66 | "Protection +2 when held or worn" |
+| 67->68 | "Remove fear by touch" |
+| 69->70 | "Sanctuary when held or worn - 1 time/day" |
+| 71->72 | "Shield, when held or worn, upon command - 3 times/day" |
+| 73->74 | "Speak with animals - 3 times/day" |
+| 75->76 | "Speak with dead - 1 time/day" |
+| 77->78 | "Speak with plants - 7 times/week" |
+| 79->80 | "Tongues when held or worn and commanded" |
+| 81->82 | "Ultravision when held or worn" |
+| 83->84 | "Ventriloquism upon command - 3 times/day" |
+| 85->86 | "Water breathing upon command" |
+| 87->88 | "Water walking ability" |
+| 89->90 | "Wearer immune to charm or hold spells" |
+| 91->92 | "Wearer immune to magic missiles" |
+| 93->94 | "Web - 1 time/day" |
+| 95->96 | "Wizard lock - 7 times/week" |
+| 97->98 | "Write - 1 time/day" |
+| 99->100 | "Zombie animation - 1 time/week" |
 

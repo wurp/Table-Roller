@@ -1,0 +1,39 @@
+#From Claude 3.5 Sonnet based on txt OCR of DMG, need to verify
+#Dungeon Level 3 Encounters
+Dungeon Level 3 (Score=d100)
+| Score | *Monster* | *Number Appearing* |
+| 01->02 | Ankheg | 1d3 |
+| 03->04 | Beetle, boring | 1d12 |
+| 05->06 | Bugbear | 2d4 |
+| 07->08 | Carrion crawler | 1d6 |
+| 09->10 | Caterwaul | 1 |
+| 11->12 | Cockatrice | 1d4 |
+| 13->14 | Displacer beast | 1d2 |
+| 15->16 | Doppleganger | 1d3 |
+| 17->22 | Ghast | 1d4 |
+| 23->28 | Ghoul | 1d6 |
+| 29->30 | Grell | 1 |
+| 31->36 | Hell hound | 2d4 |
+| 37->38 | Human, medium | 1d4 |
+| 39->40 | Human, sub-chief & guards | 1+2d6 |
+| 41->42 | Hydra, 5-7 heads | 1 |
+| 43->44 | Intellect devourer | 1 |
+| 45->46 | Leucrotta | 1d2 |
+| 47->48 | Lycanthrope, werewolf | 1d6 |
+| 49->50 | Mimic | 1 |
+| 51->52 | Minotaur | 1d3 |
+| 53->54 | Neo-otyugh | 1 |
+| 55->56 | Ogre | 1d6+1 |
+| 57->58 | Owlbear | 1d3 |
+| 59->60 | Piercer | 3d6 |
+| 61->62 | Rust monster | 1d2 |
+| 63->64 | Shadow | 1d8 |
+| 65->66 | Spider, phase | 1d3 |
+| 67->68 | Swarm, rot grub | 1 |
+| 69->70 | Throghrin | 1d4+1 |
+| 71->76 | Troll | 1d4 |
+| 77->78 | Wight | 1d6 |
+| 79->80 | Wolf, worg | 1d4+1 |
+| 81->85 | Yellow mold | 1d4 |
+| 86->90 | Men, brigand | 2d6 |
+| 91->100 | NPC party | 2d4 |

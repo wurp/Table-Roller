@@ -1,0 +1,14 @@
+#From Claude 3.5 Sonnet based on txt OCR of DMG, need to verify
+#Dungeon Level 10+ Encounters
+Dungeon Level 10+ (Score=d100)
+| Score | *Monster* | *Number Appearing* |
+| 01->10 | Beholder | 1 |
+| 11->20 | Demon, greater | 1 |
+| 21->30 | Devil, greater | 1 |
+| 31->40 | Dragon, very old | 1 |
+| 41->50 | Giant, cloud | 1d2 |
+| 51->60 | Giant, storm | 1 |
+| 61->70 | Golem, iron | 1 |
+| 71->80 | Lich | 1 |
+| 81->90 | Purple worm | 1d3 |
+| 91->100 | NPC party | 2d4 |

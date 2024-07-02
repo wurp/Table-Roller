@@ -35,5 +35,5 @@ Monster Summoning VII (Score=d100)
 | 89->91 | Sphinx, hieraco- (andro-) |
 | 92->94 | Umber hulk |
 | 95->97 | Will-o-wisp |
-| 98->00 | Xorn |
+| 98->100 | Xorn |
 

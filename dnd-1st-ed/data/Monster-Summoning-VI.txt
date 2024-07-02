@@ -17,4 +17,4 @@ Monster Summoning VI (Score=d100)
 | 79->84 | Wight |
 | 85->88 | Wind walker |
 | 89->92 | Wraith |
-| 93->00 | Wyvern |
+| 93->100 | Wyvern |

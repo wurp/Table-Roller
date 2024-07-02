@@ -13,46 +13,46 @@ General (Score=d100)
 | 21->22 | cracks, ceiling |
 | 23->24 | cracks, floor |
 | 25->26 | cracks, wall |
-| 27 | dagger hilt |
-| 28->29 | dampness, ceiling |
-| 30->33 | dampness, wall |
-| 34->40 | dripping |
-| 41 | dried blood |
-| 42->44 | dung |
-| 45->49 | dust |
-| 50 | flask, cracked |
-| 51 | food scraps |
-| 52 | fungi, common |
-| 53->55 | guano |
-| 56 | hair/fur bits |
-| 57 | hammer head, cracked |
-| 58 | helmet, badly dented |
-| 59 | iron bar, bent, rusted |
-| 60 | javelin head, blunt |
-| 61 | leather boot |
-| 62->64 | leaves (dry) & twigs |
-| 65->68 | mold (common) |
-| 69 | pick handle |
-| 70 | pole, broken (5'???) |
-| 71 | pottery shards |
-| 72->73 | rags |
-| 74 | rope, rotten |
-| 75->76 | rubble & dirt |
-| 77 | sack, torn |
-| 78 | slimy coating, ceiling |
-| 79 | slimy coating, floor |
-| 80 | slimy coating, wall |
-| 81 | spike, rusted |
-| 82->83 | sticks |
-| 84 | stones, small |
-| 85 | straw |
-| 86 | sword blade, broken |
-| 87 | teeth/fangs, scattered |
-| 88 | torch stub |
-| 89 | wall scratchings |
-| 90->91 | water, small puddle |
-| 92->93 | water, large puddle |
-| 94->95 | water, trickle |
-| 96 | wax drippings |
-| 97 | wax blob (candle stub) |
-| 98->00 | wood pieces, rotting |
+| 27 | "dagger hilt" |
+| 28->29 | "dampness, ceiling" |
+| 30->33 | "dampness, wall" |
+| 34->40 | "dripping" |
+| 41 | "dried blood" |
+| 42->44 | "dung" |
+| 45->49 | "dust" |
+| 50 | "flask, cracked" |
+| 51 | "food scraps" |
+| 52 | "fungi, common" |
+| 53->55 | "guano" |
+| 56 | "hair/fur bits" |
+| 57 | "hammer head, cracked" |
+| 58 | "helmet, badly dented" |
+| 59 | "iron bar, bent, rusted" |
+| 60 | "javelin head, blunt" |
+| 61 | "leather boot" |
+| 62->64 | "leaves (dry) & twigs" |
+| 65->68 | "mold (common)" |
+| 69 | "pick handle" |
+| 70 | "pole, broken (5'???)" |
+| 71 | "pottery shards" |
+| 72->73 | "rags" |
+| 74 | "rope, rotten" |
+| 75->76 | "rubble & dirt" |
+| 77 | "sack, torn" |
+| 78 | "slimy coating, ceiling" |
+| 79 | "slimy coating, floor" |
+| 80 | "slimy coating, wall" |
+| 81 | "spike, rusted" |
+| 82->83 | "sticks" |
+| 84 | "stones, small" |
+| 85 | "straw" |
+| 86 | "sword blade, broken" |
+| 87 | "teeth/fangs, scattered" |
+| 88 | "torch stub" |
+| 89 | "wall scratchings" |
+| 90->91 | "water, small puddle" |
+| 92->93 | "water, large puddle" |
+| 94->95 | "water, trickle" |
+| 96 | "wax drippings" |
+| 97 | "wax blob (candle stub)" |
+| 98->100 | "wood pieces, rotting" |

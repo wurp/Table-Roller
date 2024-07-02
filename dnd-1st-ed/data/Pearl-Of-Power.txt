@@ -10,4 +10,4 @@ Pearl of Power (Score=d100)
 | 93->96 | Seventh |
 | 97->98 | Eighth |
 | 99 | Ninth |
-| 00 | Recalls 2 spells of 1st to 6th level (use d6) |
+| 100 | Recalls 2 spells of 1st to 6th level (use d6) |

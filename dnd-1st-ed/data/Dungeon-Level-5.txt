@@ -1,0 +1,23 @@
+#From Claude 3.5 Sonnet based on txt OCR of DMG, need to verify
+#Dungeon Level 5 Encounters
+Dungeon Level 5 (Score=d100)
+| Score | *Monster* | *Number Appearing* |
+| 01->05 | Basilisk | 1d4 |
+| 06->10 | Black pudding | 1 |
+| 11->15 | Crypt thing | 1 |
+| 16->20 | Djinni | 1 |
+| 21->25 | Efreeti | 1 |
+| 26->30 | Elemental, any | 1 |
+| 31->35 | Giant, hill | 1d4 |
+| 36->40 | Golem, flesh | 1 |
+| 41->45 | Hydra, 7-10 heads | 1 |
+| 46->50 | Invisible stalker | 1 |
+| 51->55 | Mummy | 1d3 |
+| 56->60 | Salamander | 1d3 |
+| 61->65 | Spectre | 1d4 |
+| 66->70 | Umber hulk | 1d2 |
+| 71->75 | Vampire | 1 |
+| 76->80 | Wraith | 1d4 |
+| 81->85 | Wyvern | 1d2 |
+| 86->90 | Xorn | 1d3 |
+| 91->100 | NPC party | 2d4 |

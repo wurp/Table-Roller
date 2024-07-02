@@ -6,8 +6,8 @@ Air (Score=d100)
 | 06->10 | breeze, slight, damp |
 | 11->12 | breeze, gusting |
 | 13->18 | cold current |
-| 19->20 | downdraft, slight |
-| 21->22 | downdraft, strong |
+| 19->20 | "downdraft, slight" |
+| 21->22 | "downdraft, strong" |
 | 23->69 | still |
 | 70->75 | still, very chill |
 | 76->85 | still, warm (or hot) |
@@ -15,4 +15,4 @@ Air (Score=d100)
 | 88->89 | updraft, strong |
 | 90->93 | wind, strong |
 | 94->95 | wind, strong, gusting |
-| 96->00 | wind, strong, moaning |
+| 96->100 | wind, strong, moaning |

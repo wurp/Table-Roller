@@ -7,4 +7,4 @@ Monster Summoning I (Score=d100)
 | 26->40 | Hobgoblin (Elf) |
 | 41->55 | Kobold (Halfling) |
 | 56->70 | Orc (Gnome) |
-| 71->00 | Rat, giant |
+| 71->100 | Rat, giant |

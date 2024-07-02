@@ -1,0 +1,31 @@
+#From Claude 3.5 Sonnet based on txt OCR of DMG, need to verify
+#Plains Encounters
+Plains (Score=d100)
+| Score | *Monster* | *Number Appearing* |
+| 01->02 | Ant, giant | 5d6 |
+| 03->04 | Bandit | 2d6 |
+| 05->07 | Boar, wild | 1d4 |
+| 08->10 | Centaur | 2d10 |
+| 11->14 | Dog, wild | 3d6 |
+| 15->17 | Dragon | 1 |
+| 18->22 | Elephant | 1d12 |
+| 23->26 | Elf | 2d12 |
+| 27->30 | Giant, hill | 1d4 |
+| 31->35 | Gnoll | 3d6 |
+| 36->40 | Goblin | 6d10 |
+| 41->44 | Griffon | 2d4 |
+| 45->48 | Hippogriff | 2d8 |
+| 49->53 | Hobgoblin | 4d6 |
+| 54->57 | Human, nomad | 3d10 |
+| 58->60 | Lizard, giant | 1d6 |
+| 61->65 | Orc | 3d10 |
+| 66->69 | Pegasus | 1d6 |
+| 70->73 | Rat, giant | 3d10 |
+| 74->76 | Rhinoceros | 1d8 |
+| 77->79 | Snake | 1d8 |
+| 80->82 | Spider, huge | 1d6 |
+| 83->86 | Stag | 1d10 |
+| 87->89 | Thoul | 1d6 |
+| 90->92 | Weasel, giant | 1d4 |
+| 93->95 | Wolf | 2d6 |
+| 96->100 | Wyvern | 1d2 |

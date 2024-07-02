@@ -14,301 +14,48 @@ Sounds (Score=d100)
 | 16 | clicking |
 | 17->18 | coughing |
 | 19 | creaking |
-| 20->23 | drumming |
-| 24->26 | footsteps (ahead) |
-| 27->29 | footsteps (approaching) |
-| 30->31 | footsteps (behind) |
-| 32->33 | footsteps (receding) |
-| 34->35 | footsteps (side) |
-| 36 | giggling (faint) |
-| 37->39 | gong |
-| 40->41 | grating |
-| 42 | groaning |
-| 43->44 | grunting |
-| 45 | hissing |
-| 46 | hooting |
-| 47 | horn/trumpet sounding |
-| 48 | howling |
-| 49 | humming |
-| 50->53 | knocking |
-| 54->55 | laughter |
-| 56->57 | moaning |
-| 58->60 | murmuring |
-| 61 | music |
-| 62 | rattling |
-| 63 | ringing |
-| 64 | roar(ing) |
-| 65->68 | rustling |
-| 69->72 | scratching/scrabbling |
-| 73->74 | scream(ing) |
-| 75->77 | scuttling |
-| 78 | shuffling |
-| 79->80 | slithering |
-| 81 | snapping |
-| 82 | sneezing |
-| 83 | sobbing |
-| 84 | splashing |
-| 85 | splintering |
-| 86->87 | squeaking |
-| 88 | squealing |
-| 89->90 | tapping |
-| 91->92 | thud |
-| 93->94 | thumping |
-| 95 | tinkling |
-| 96 | twanging |
-| 97 | whining |
-| 98 | whispering |
-| 99->00 | whistling |
-
-#Dungeon Dressing - Furnishings
-Furnishings (Score=d100)
-| Score | *Results* |
-| 01 | altar |
-| 02 | armchair |
-| 03 | armoire |
-| 04 | arras |
-| 05 | bag |
-| 06 | barrel |
-| 07->08 | bed |
-| 09 | bench |
-| 10 | blanket |
-| 11 | box (large) |
-| 12 | brazier & charcoal |
-| 13 | bucket |
-| 14 | buffet |
-| 15 | bunks |
-| 16 | butt (large barrel) |
-| 17 | cabinet |
-| 18 | candelabrum |
-| 19 | carpet (largish) |
-| 20 | cask |
-| 21 | chandelier |
-| 22 | charcoal |
-| 23->24 | chair |
-| 25 | chair, padded |
-| 26 | chair, padded, arm |
-| 27 | chest, large |
-| 28 | chest, medium |
-| 29 | chest of drawers |
-| 30 | closet (wardrobe) |
-| 31 | coal |
-| 32->33 | couch |
-| 34 | crate |
-| 35 | cresset |
-| 36 | cupboard |
-| 37 | cushion |
-| 38 | dais |
-| 39 | desk |
-| 40->42 | fireplace & wood |
-| 43 | fireplace with mantle |
-| 44 | firkin |
-| 45 | fountain |
-| 46 | fresco |
-| 47 | grindstone |
-| 48 | hamper |
-| 49 | hassock |
-| 50 | hogshead |
-| 51 | idol (largish) |
-| 52 | keg |
-| 53 | loom |
-| 54 | mat |
-| 55 | mattress |
-| 56 | pail |
-| 57 | painting |
-| 58->60 | pallet |
-| 61 | pedestal |
-| 62->64 | pegs |
-| 65 | pillow |
-| 66 | pipe (large cask) |
-| 67 | quilt |
-| 68->70 | rug (small-medium) |
-| 71 | rushes |
-| 72 | sack |
-| 73 | sconce, wall |
-| 74 | screen |
-| 75 | sheet |
-| 76->77 | shelf |
-| 78 | shrine |
-| 79 | sideboard |
-| 80 | sofa |
-| 81 | staff, normal |
-| 82 | stand |
-| 83 | statue |
-| 84 | stool, high |
-| 85 | stool, normal |
-| 86 | table, large |
-| 87 | table, long |
-| 88 | table, low |
-| 89 | table, round |
-| 90 | table, small |
-| 91 | table, trestle |
-| 92 | tapestry |
-| 93 | throne |
-| 94 | trunk |
-| 95 | tub |
-| 96 | tun |
-| 97 | urn |
-| 98 | wall basin and font |
-| 99 | wood billets |
-| 00 | workbench |
-
-#Religious Articles and Furnishings
-Religious (Score=d100)
-| Score | *Results* |
-| 01->05 | altar |
-| 06->08 | bell(s) |
-| 09->11 | brazier(s) |
-| 12 | candelabra |
-| 13->14 | candles |
-| 15 | candlesticks |
-| 16 | cassocks |
-| 17 | chime(s) |
-| 18->19 | cloth (altar) |
-| 20->23 | columns/pillars |
-| 24 | curtain/tapestry |
-| 25 | drum |
-| 26->27 | font |
-| 28->29 | gong |
-| 30->35 | holy/unholy symbol(s) |
-| 36->37 | holy/unholy writings |
-| 38->43 | idol(s) |
-| 44->48 | incense burner(s) |
-| 49 | kneeling bench |
-| 50->53 | lamp(s) |
-| 54 | lectern |
-| 55 | mosaics |
-| 56->58 | offertory container |
-| 59 | paintings/frescoes |
-| 60->61 | pews |
-| 62 | pipes (musical) |
-| 63 | prayer rug |
-| 64 | pulpit |
-| 65 | rail |
-| 66->67 | robes |
-| 68->69 | sanctuary |
-| 70->71 | screen |
-| 72->76 | shrine |
-| 77 | side chair(s) |
-| 78->79 | stand |
-| 80->82 | statue(s) |
-| 83 | throne |
-| 84->85 | thurible |
-| 86->88 | tripod |
-| 89->90 | vestry |
-| 91->97 | vestments |
-| 98->99 | votive light |
-| 00 | whistle |
-
-#Torture Chamber Furnishings
-Torture (Score=d100)
-| Score | *Results* |
-| 01->02 | bastinadoes |
-| 03 | bell (huge) |
-| 04->06 | bench |
-| 07->10 | boots (iron) |
-| 11->15 | branding irons |
-| 16->20 | brazier |
-| 21->22 | cage |
-| 23->26 | chains |
-| 27 | chair with straps |
-| 28 | clamps |
-| 29->31 | cressets |
-| 32 | fetters |
-| 33->35 | fire pit |
-| 36 | grill |
-| 37->38 | hooks |
-| 39->43 | iron maiden |
-| 44 | knives |
-| 45 | manacles |
-| 46 | oil (barrel of) |
-| 47->48 | oubliette (pit) |
-| 49->50 | pillory |
-| 51->54 | pincers |
-| 55->56 | pliers |
-| 57->58 | pot (huge) |
-| 59->66 | rack |
-| 67->68 | ropes |
-| 69 | stocks |
-| 70->71 | stool |
-| 72->75 | strappado |
-| 76->78 | straw |
-| 79->80 | table |
-| 81 | thongs |
-| 82->85 | thumb screws |
-| 86->88 | torches |
-| 89->90 | "U" rack |
-| 91 | vice |
-| 92->93 | well |
-| 94->96 | wheel |
-| 97->00 | whips |
-
-#Magic-User Furnishings
-MagicUser (Score=d100)
-| Score | *Results* |
-| 01->03 | alembic |
-| 04->05 | balance & weights |
-| 06->09 | beaker |
-| 10 | bellows |
-| 11 | bladder |
-| 12->13 | bottle |
-| 14->16 | book |
-| 17 | bowl |
-| 18 | box |
-| 19->22 | brazier |
-| 23 | cage |
-| 24->25 | caldron |
-| 26 | candle |
-| 27 | candlestick |
-| 28 | carafe |
-| 29->30 | chalk |
-| 31 | crucible |
-| 32 | cruet |
-| 33 | crystal ball |
-| 34 | decanter |
-| 35 | desk |
-| 36 | dish |
-| 37->38 | flask |
-| 39 | funnel |
-| 40 | furnace |
-| 41->44 | herbs |
-| 45 | horn |
-| 46 | hourglass |
-| 47->48 | jar |
-| 49 | jug |
-| 50 | kettle |
-| 51 | ladle |
-| 52 | lamp |
-| 53 | lens (concave, convex, etc.) |
-| 54 | magic circle |
-| 55 | mortar & pestle |
-| 56 | pan |
-| 57->58 | parchment |
-| 59 | pentacle |
-| 60 | pentagram |
-| 61 | phial |
-| 62 | pipette |
-| 63 | pot |
-| 64 | prism |
-| 65 | quill |
-| 66->68 | retort |
-| 69 | rod, mixing/stirring |
-| 70->71 | scroll |
-| 72 | scroll tube |
-| 73 | sheet |
-| 74 | skin |
-| 75 | skull |
-| 76 | spatula |
-| 77 | spoon, measuring |
-| 78 | stand |
-| 79 | stool |
-| 80 | stuffed animal |
-| 81 | tank (container) |
-| 82 | tongs |
-| 83 | tripod |
-| 84 | tube (container) |
-| 85->86 | tube (piping) |
-| 87 | tweezers |
-| 88->90 | vial |
-| 91 | waterclock |
-| 92 | wire |
-| 93->00 | workbench |
+| 20->23 | "drumming" |
+| 24->26 | "footsteps (ahead)" |
+| 27->29 | "footsteps (approaching)" |
+| 30->31 | "footsteps (behind)" |
+| 32->33 | "footsteps (receding)" |
+| 34->35 | "footsteps (side)" |
+| 36 | "giggling (faint)" |
+| 37->39 | "gong" |
+| 40->41 | "grating" |
+| 42 | "groaning" |
+| 43->44 | "grunting" |
+| 45 | "hissing" |
+| 46 | "hooting" |
+| 47 | "horn/trumpet sounding" |
+| 48 | "howling" |
+| 49 | "humming" |
+| 50->53 | "knocking" |
+| 54->55 | "laughter" |
+| 56->57 | "moaning" |
+| 58->60 | "murmuring" |
+| 61 | "music" |
+| 62 | "rattling" |
+| 63 | "ringing" |
+| 64 | "roar(ing)" |
+| 65->68 | "rustling" |
+| 69->72 | "scratching/scrabbling" |
+| 73->74 | "scream(ing)" |
+| 75->77 | "scuttling" |
+| 78 | "shuffling" |
+| 79->80 | "slithering" |
+| 81 | "snapping" |
+| 82 | "sneezing" |
+| 83 | "sobbing" |
+| 84 | "splashing" |
+| 85 | "splintering" |
+| 86->87 | "squeaking" |
+| 88 | "squealing" |
+| 89->90 | "tapping" |
+| 91->92 | "thud" |
+| 93->94 | "thumping" |
+| 95 | "tinkling" |
+| 96 | "twanging" |
+| 97 | "whining" |
+| 98 | "whispering" |
+| 99->100 | "whistling" |

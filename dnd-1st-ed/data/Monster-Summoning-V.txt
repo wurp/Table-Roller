@@ -13,4 +13,4 @@ Monster Summoning V (Score=d100)
 | 73->78 | Snake, giant, amphisbaena |
 | 79->85 | Snake, giant, poisonous |
 | 86->90 | Snake, giant, spitting |
-| 91->00 | Spider, giant |
+| 91->100 | Spider, giant |

@@ -1,0 +1,24 @@
+#From Claude 3.5 Sonnet based on txt OCR of DMG, need to verify
+#Desert Encounters
+Desert (Score=d100)
+| Score | *Monster* | *Number Appearing* |
+| 01->05 | Ant lion, giant | 1 |
+| 06->10 | Camel | 2d6 |
+| 11->15 | Dragon, blue | 1 |
+| 16->20 | Elemental, fire | 1 |
+| 21->25 | Efreeti | 1 |
+| 26->30 | Giant, fire | 1d2 |
+| 31->35 | Human, dervish | 3d10 |
+| 36->40 | Human, nomad | 3d10 |
+| 41->45 | Jackal | 2d6 |
+| 46->50 | Jackalwere | 1d4 |
+| 51->55 | Lamia | 1 |
+| 56->60 | Lizard, giant | 1d6 |
+| 61->65 | Manticore | 1d2 |
+| 66->70 | Purple worm | 1 |
+| 71->75 | Roc | 1d2 |
+| 76->80 | Salamander | 2d4 |
+| 81->85 | Scorpion, giant | 1d6 |
+| 86->90 | Snake, giant | 1d6 |
+| 91->95 | Spider, giant | 1d3 |
+| 96->100 | NPC party | 2d4 |
