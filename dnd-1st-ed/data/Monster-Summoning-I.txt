@@ -1,0 +1,10 @@
+#From Claude 3.5 Sonnet based on txt OCR of DMG, need to verify
+#Monster Summoning I
+Monster Summoning I (Score=d100)
+| Score | *Monster Summoned* |
+| 01->10 | Demon, manes |
+| 11->25 | Goblin (Dwarf) |
+| 26->40 | Hobgoblin (Elf) |
+| 41->55 | Kobold (Halfling) |
+| 56->70 | Orc (Gnome) |
+| 71->00 | Rat, giant |

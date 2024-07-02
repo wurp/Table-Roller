@@ -1,0 +1,18 @@
+#From Claude 3.5 Sonnet based on txt OCR of DMG, need to verify
+#Dungeon Dressing - Air
+Air (Score=d100)
+| Score | *Results* |
+| 01->05 | breeze, slight |
+| 06->10 | breeze, slight, damp |
+| 11->12 | breeze, gusting |
+| 13->18 | cold current |
+| 19->20 | downdraft, slight |
+| 21->22 | downdraft, strong |
+| 23->69 | still |
+| 70->75 | still, very chill |
+| 76->85 | still, warm (or hot) |
+| 86->87 | updraft, slight |
+| 88->89 | updraft, strong |
+| 90->93 | wind, strong |
+| 94->95 | wind, strong, gusting |
+| 96->00 | wind, strong, moaning |

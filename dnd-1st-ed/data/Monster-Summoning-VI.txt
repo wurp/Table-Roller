@@ -1,0 +1,20 @@
+#From Claude 3.5 Sonnet based on txt OCR of DMG, need to verify
+#Monster Summoning VI
+Monster Summoning VI (Score=d100)
+| Score | *Monster Summoned* |
+| 01->06 | Carrion crawler |
+| 07->12 | Devil, erinyes |
+| 13->19 | Hydra, 8 heads |
+| 20->26 | Jackalwere (lammasu) |
+| 27->31 | Lycanthrope, weretiger (werebear) |
+| 32->38 | Manticore |
+| 39->43 | Ogre mage |
+| 44->51 | Otyugh |
+| 52->56 | Rakshasa |
+| 57->63 | Salamander |
+| 64->68 | Spider, phase |
+| 69->78 | Troll |
+| 79->84 | Wight |
+| 85->88 | Wind walker |
+| 89->92 | Wraith |
+| 93->00 | Wyvern |

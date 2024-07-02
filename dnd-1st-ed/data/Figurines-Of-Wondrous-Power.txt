@@ -1,0 +1,10 @@
+#From Claude 3.5 Sonnet based on txt OCR of DMG, need to verify
+Figurines of Wondrous Power (Score=d100)
+| Score | Result |
+| 01->15 | Ebony Fly |
+| 16->30 | Golden Lions (pair) |
+| 31->40 | Ivory Goats (trio) |
+| 41->55 | Marble Elephant |
+| 56->65 | Obsidian Steed |
+| 66->85 | Onyx Dog |
+| 86->00 | Serpentine Owl |

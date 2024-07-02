@@ -1,0 +1,13 @@
+#From Claude 3.5 Sonnet based on txt OCR of DMG, need to verify
+Pearl of Power (Score=d100)
+| Score | Level of Spell Recalled by Pearl |
+| 01->25 | First |
+| 26->45 | Second |
+| 46->60 | Third |
+| 61->75 | Fourth |
+| 76->85 | Fifth |
+| 86->92 | Sixth |
+| 93->96 | Seventh |
+| 97->98 | Eighth |
+| 99 | Ninth |
+| 00 | Recalls 2 spells of 1st to 6th level (use d6) |

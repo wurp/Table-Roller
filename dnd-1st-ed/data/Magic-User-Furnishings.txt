@@ -1,0 +1,71 @@
+#From Claude 3.5 Sonnet based on txt OCR of DMG, need to verify
+#Magic-User Furnishings
+MagicUser (Score=d100)
+| Score | *Results* |
+| 01->03 | alembic |
+| 04->05 | balance & weights |
+| 06->09 | beaker |
+| 10 | bellows |
+| 11 | bladder |
+| 12->13 | bottle |
+| 14->16 | book |
+| 17 | bowl |
+| 18 | box |
+| 19->22 | brazier |
+| 23 | cage |
+| 24->25 | caldron |
+| 26 | candle |
+| 27 | candlestick |
+| 28 | carafe |
+| 29->30 | chalk |
+| 31 | crucible |
+| 32 | cruet |
+| 33 | crystal ball |
+| 34 | decanter |
+| 35 | desk |
+| 36 | dish |
+| 37->38 | flask |
+| 39 | funnel |
+| 40 | furnace |
+| 41->44 | herbs |
+| 45 | horn |
+| 46 | hourglass |
+| 47->48 | jar |
+| 49 | jug |
+| 50 | kettle |
+| 51 | ladle |
+| 52 | lamp |
+| 53 | lens (concave, convex, etc.) |
+| 54 | magic circle |
+| 55 | mortar & pestle |
+| 56 | pan |
+| 57->58 | parchment |
+| 59 | pentacle |
+| 60 | pentagram |
+| 61 | phial |
+| 62 | pipette |
+| 63 | pot |
+| 64 | prism |
+| 65 | quill |
+| 66->68 | retort |
+| 69 | rod, mixing/stirring |
+| 70->71 | scroll |
+| 72 | scroll tube |
+| 73 | sheet |
+| 74 | skin |
+| 75 | skull |
+| 76 | spatula |
+| 77 | spoon, measuring |
+| 78 | stand |
+| 79 | stool |
+| 80 | stuffed animal |
+| 81 | tank (container) |
+| 82 | tongs |
+| 83 | tripod |
+| 84 | tube (container) |
+| 85->86 | tube (piping) |
+| 87 | tweezers |
+| 88->90 | vial |
+| 91 | waterclock |
+| 92 | wire |
+| 93->00 | workbench |

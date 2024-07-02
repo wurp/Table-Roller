@@ -1,0 +1,54 @@
+#From Claude 3.5 Sonnet based on txt OCR of DMG, need to verify
+#MAJOR BENIGN POWERS
+II (Score=d100)
+| Score | *Result* |
+| 01->02 | Animal summoning (II or III) - 2 times/day |
+| 03->04 | Animate object upon command - 1 time/day |
+| 05->06 | +2 to armor class of possessor or AC 0, whichever is better |
+| 07->08 | Cause serious wounds by touch |
+| 09->10 | Charm monster - 2 times/day |
+| 11->12 | Charm person - 7 times/week |
+| 13->14 | Cone of cold (9-12 dice) - 2 times/day |
+| 15->16 | Confusion - 1 time/day |
+| 17->18 | Cure blindness by touch |
+| 19->20 | Cure disease by touch |
+| 21->22 | Dimension door - 2 times/day |
+| 23->24 | Disintegrate - 1 time/day |
+| 25->26 | Dispel illusion upon command - 2 times/day |
+| 27->28 | Dispel magic upon command - 2 times/day |
+| 29->30 | Double movement speed (on foot) |
+| 31->32 | Emotion - 2 times/day |
+| 33->34 | Exorcise - 1 time/month |
+| 35->36 | Fear by touch or gaze |
+| 37->38 | Fireball (9-12 dice) - 2 times/day |
+| 39->40 | Fire shield - 2 times/day |
+| 41->42 | Giant strength (determine type) for 2 turns |
+| 43->44 | Haste - 1 time/day |
+| 45->46 | Heal - 1 time/day |
+| 47->48 | Hold animal - 1 time/day |
+| 49->50 | Hold monster - 1 time/day |
+| 51->52 | Hold person - 1 time/day |
+| 53->54 | Lightning bolt (9-12 dice) - 2 times/day |
+| 55->56 | Minor globe of invulnerability - 1 time/day |
+| 57->58 | Paralyzation by touch |
+| 59->60 | Passwall - 2 times/day |
+| 61->62 | Phantasmal killer - 1 time/day |
+| 63->64 | Polymorph self - 7 times/week |
+| 65->66 | Regenerate 2 h.p./turn (but not if killed) |
+| 67->68 | Remove curse by touch - 7 times/week |
+| 69->70 | Slow - 1 time/day |
+| 71->72 | Speak with monster - 2 times/day |
+| 73->74 | Stone to flesh - 1 time/day |
+| 75->76 | Suggestion - 2 times/day |
+| 77->78 | Telekinesis (1,000-6,000 g.p. weight) - 2 times/day |
+| 79->80 | Teleport (no error) - 2 times/day |
+| 81->82 | Transmute rock to mud - 2 times/day |
+| 83->84 | True seeing - 1 time/day |
+| 85->86 | Turn wood - 1 time/day |
+| 87->88 | Wall of fire - 2 times/day |
+| 89->90 | Wall of ice - 2 times/day |
+| 91->92 | Wall of thorns - 2 times/day |
+| 93->94 | Weapon damage is +2 hit points |
+| 95->96 | Wind walk - 1 time/day |
+| 97->98 | Wizard eye - 2 times/day |
+| 99->100 | X-ray vision - 2 times/day |

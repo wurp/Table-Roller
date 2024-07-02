@@ -1,0 +1,10 @@
+#From Claude 3.5 Sonnet based on txt OCR of DMG, need to verify
+#Monster Summoning II
+Monster Summoning II (Score=d100)
+| Score | *Monster Summoned* |
+| 01->15 | Centipede, giant |
+| 16->25 | Devil, lemure |
+| 26->45 | Gnoll |
+| 46->60 | Stirge |
+| 61->75 | Toad, giant |
+| 76->00 | Troglodyte |

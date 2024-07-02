@@ -1,0 +1,16 @@
+#From Claude 3.5 Sonnet based on txt OCR of DMG, need to verify
+#Monster Summoning V
+Monster Summoning V (Score=d100)
+| Score | *Monster Summoned* |
+| 01->07 | Cockatrice |
+| 08->17 | Displacer beast |
+| 18->26 | Doppleganger |
+| 27->36 | Hydra, 7 heads |
+| 37->45 | Leucrotta |
+| 46->55 | Lizard, subterranean |
+| 56->63 | Lycanthrope, wereboar |
+| 64->72 | Minotaur |
+| 73->78 | Snake, giant, amphisbaena |
+| 79->85 | Snake, giant, poisonous |
+| 86->90 | Snake, giant, spitting |
+| 91->00 | Spider, giant |

@@ -1,0 +1,29 @@
+#From Claude 3.5 Sonnet based on txt OCR of DMG, need to verify
+#MINOR MALEVOLENT EFFECTS
+III (Score=d100)
+| Score | *Result* |
+| 01->04 | Acne on possessor's face |
+| 05->08 | Blindness for 1-4 rounds when first used against an enemy |
+| 09->12 | Body odor noticeable at 10' distance |
+| 13->16 | Deafness for 1-4 turns when first used against an enemy |
+| 17->20 | Gems or jewelry found never increase in value |
+| 21->24 | Holy water within 10' of item becomes polluted |
+| 25->28 | Lose 1-4 points of charisma for 1-4 days when major power used |
+| 29->32 | Possessor loses interest in romantic relationships |
+| 33->36 | Possessor has increased romantic interest |
+| 37->40 | Possessor's hair turns white |
+| 41->44 | Saving throws versus magic are at -1 |
+| 45->48 | Saving throws versus poison are at -2 |
+| 49->52 | Sense of smell lost for 2-8 hours when first used against an enemy |
+| 53->56 | Small fires (torches, etc.) extinguished when major power used |
+| 57->60 | Small items of wood rot from possessor's touch (up to normal door size, 1-7 days time) |
+| 61->64 | Touch of possessor kills green plants |
+| 65->68 | User causes hostility towards himself in all mammals within 6" |
+| 69->72 | User must eat and drink 6 times the normal amount due to the item's drain |
+| 73->76 | User's sex changes |
+| 77->80 | Wart appears on possessor's nose |
+| 81->84 | Weight gain of 10-40 pounds |
+| 85->88 | Weight loss of 5-30 pounds |
+| 89->92 | Yearning for item forces possessor to never be away from it for more than 1 day if possible |
+| 93->96 | Yelling becomes necessary to invoke spells with verbal components |
+| 97->100 | Roll twice on this table |

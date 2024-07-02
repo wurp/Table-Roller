@@ -1,0 +1,16 @@
+#From Claude 3.5 Sonnet based on txt OCR of DMG, need to verify
+#Monster Summoning IV
+Monster Summoning IV (Score=d100)
+| Score | *Monster Summoned* |
+| 01->07 | Ape, carnivorous |
+| 08->15 | Gargoyle (blink dog) |
+| 16->25 | Ghost |
+| 26->35 | Gray ooze |
+| 36->42 | Hell hound |
+| 43->50 | Hydra, 5 heads |
+| 51->58 | Lycanthrope, werewolf |
+| 59->67 | Owlbear |
+| 68->76 | Shadow |
+| 77->86 | Snake, giant, constrictor |
+| 87->93 | Toad, ice |
+| 94->00 | Toad, poisonous |

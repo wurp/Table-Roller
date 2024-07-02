@@ -1,0 +1,66 @@
+#From Claude 3.5 Sonnet based on txt OCR of DMG, BROKEN! Should fix (or ask Sonnet to do so)
+#Conjured Animals
+Conjured Animals (Score=d100)
+| Score | *Hit Dice* | *Animal Type* | *Hit Dice Cost* |
+| 01->15 | 1 | Baboon | 1½ |
+| 16->45 | 1 | Dog, wild | 1½ |
+| 46->55 | 1 | Flightless Bird | ¾ |
+| 56->65 | 1 | Jackal | ½ |
+| 66->00 | 1 | Rat, giant | ½ |
+| 01->25 | 2 | Badger | 1¾ |
+| 26->35 | 2 | Flightless bird | 2 |
+| 36->60 | 2 | Herd animal | 2 |
+| 61->00 | 2 | Horse, wild | 2 |
+| 01->05 | 3 | Axe beak | 3 |
+| 06->10 | 3 | Badger, giant | 3 |
+| 11->15 | 3 | Boar, warthog | 3 |
+| 16->20 | 3 | Camel | 3 |
+| 21->30 | 3 | Cattle, wild | 2½ |
+| 31->40 | 3 | Dog, war | 2½ |
+| 41->45 | 3 | Flightless bird | 3 |
+| 46->55 | 3 | Goat, giant | 3½ |
+| 56->65 | 3 | Hyena | 3 |
+| 66->75 | 3 | Lion, mountain | 3½ |
+| 76->80 | 3 | Lynx, giant | 2½ |
+| 81->85 | 3 | Mule | 3 |
+| 86->90 | 3 | Stag | 3 |
+| 91->95 | 3 | Wolf | 2½ |
+| 96->00 | 3 | Wolverine | 3 |
+| 01->05 | 4 | Ape | 4½ |
+| 06->15 | 4 | Bear, black | 3¾ |
+| 16->20 | 4 | Beaver, giant | 4 |
+| 21->30 | 4 | Boar, wild | 3¾ |
+| 31->40 | 4 | Bull | 4 |
+| 41->45 | 4 | Eagle, giant | 4 |
+| 46->50 | 4 | Irish deer | 4½ |
+| 51->55 | 4 | Jaguar | 3¾ |
+| 56->60 | 4 | Leopard | 4 |
+| 61->65 | 4 | Owl, giant | 3¾ |
+| 66->75 | 4 | Ram, giant | 4 |
+| 76->85 | 4 | Weasel, giant | 3¾ |
+| 86->00 | 4 | Wolf, dire | 3¾ |
+| 01->10 | 5 | Ape, carnivorous | 5 |
+| 11->25 | 5 | Buffalo | 5 |
+| 26->35 | 5 | Hyena, giant | 5 |
+| 36->50 | 5 | Otter, giant | 5 |
+| 51->70 | 5 | Skunk, giant | 5 |
+| 71->85 | 5 | Stag, giant | 5 |
+| 86->00 | 5 | Wolverine, giant | 5 |
+| 01->40 | 6 | Bear, brown | 6½ |
+| 41->60 | 6 | Lion | 5½ |
+| 61->80 | 6 | Porcupine, giant | 6 |
+| 81->00 | 6 | Tiger | 6½ |
+| 01->65 | 7 | Boar, giant | 7 |
+| 66->00 | 7 | Lion, spotted | 6½ |
+| 01->30 | 8 | Bear, cave | 7½ |
+| 31->70 | 8 | Hippopotamus | 8 |
+| 71->00 | 8 | Tiger, sabre-tooth | 7½ |
+| 01->60 | 9 | Rhinoceros | 8½ |
+| 61->00 | 9 | Elephant | 10 |
+| 01->60 | 10 | Rhinoceros, woolly | 10 |
+| 61->00 | 10 | Elephant (loxodont) | 11 |
+| 01->00 | 11 | Mastodon | 12 |
+| 01->00 | 12 | Titanothere | 12 |
+| 01->00 | 13 | Mammoth | 13 |
+| 01->00 | 14 | Whale (small) | 14 |
+| 01->00 | 15+ | Baluchitherium | 14 |

@@ -1,0 +1,17 @@
+#From Claude 3.5 Sonnet based on txt OCR of DMG, need to verify
+#SIDE EFFECTS
+VI (Score=d100)
+| Score | *Result* |
+| 01->08 | Alignment of possessor permanently changed to that of item |
+| 09->16 | Charisma of possessor reduced to 3 as long as item is owned |
+| 17->24 | Fear reaction possible in any creature within 20' of the item whenever a major or primary power is used; all, including possessor, must save versus magic or flee in panic |
+| 25->32 | Fumble reaction possible (as above) |
+| 33->40 | Greed and covetousness reaction in all intelligent creatures viewing the item; save versus magic or attack possessor and steal the item - associates are only 25% likely to have to check; henchmen check loyalty first, failure then requires saving throw as above |
+| 41->48 | Lycanthropy inflicted upon the possessor, type according to alignment of item, change to animal form involuntary and 50% likely (1 check only) whenever confronted and attacked by an enemy |
+| 49->56 | Treasure within 5' radius of mineral nature (metal or gems) of non-magical type is reduced by 20%-80% as the item consumes it to sustain its power |
+| 57->64 | User becomes ethereal whenever any major or primary power of the item is activated, and there is 0.5% cumulative chance that he or she will thereafter become ethereal whenever a stress (combat, life-or-death, difficult problem involving user's decision) situation exists; the ethereal state lasts until stress is removed |
+| 65->72 | User becomes fantastically strong (18/00 - 19 if 18/00 already) but very clumsy; so dexterity is reduced by as many points as strength was increased, and so no "to hit" bonuses are allowed for strength, and a -2 for clumsiness is given instead; furthermore, the individual must be checked as if he or she has a fumble spell cast upon him or her whenever any item is handled or spell is to be cast |
+| 73->80 | User cannot touch or be touched by any (even magical) metal; metal simply passes through his or her body as if it did not exist and has no effect |
+| 81->88 | User has a poison touch which requires that humans and man-sized humanoids (but not undead) save versus poison whenever touched |
+| 89->96 | User has limited omniscience and may request the DM to answer 1 question per game day (answer is given with limitations set by DM's discretion, with overall campaign factors and knowledge of player vs. player character overriding considerations) |
+| 97->100 | User has short-duration super charismatic effect upon creatures of the same basic alignment - evil, good, neutral (chaotic, lawful, true) - so that they will willingly join and serve the character for 1-4, 2-8, or 3-12 turns (depending upon how exact the alignment match is); thereafter the effect of the dweomer wears off and the creature will no longer serve due to realization of the enchantment and fear of it (and hostility is possible) |

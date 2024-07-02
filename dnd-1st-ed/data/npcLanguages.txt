@@ -1,0 +1,57 @@
+#From Claude 3.5 Sonnet based on txt OCR of DMG, need to verify
+#RANDOM LANGUAGE DETERMINATION
+Random Language (Score=d100)
+| Score | *Language* |
+| 01 | Brownie |
+| 02->03 | Bugbear |
+| 04 | Centaur |
+| 05 | Dragon, Black |
+| 06 | Dragon, Blue |
+| 07 | Dragon, Brass |
+| 08 | Dragon, Bronze |
+| 09 | Dragon, Copper |
+| 10 | Dragon, Gold |
+| 11 | Dragon, Green |
+| 12 | Dragon, Red |
+| 13 | Dragon, Silver |
+| 14 | Dragon, White |
+| 15 | Dryad |
+| 16->20 | Dwarvish |
+| 21->25 | Elvish |
+| 26 | Ettin |
+| 27 | Gargoyle |
+| 28 | Giant, Cloud |
+| 29 | Giant, Fire |
+| 30 | Giant, Frost |
+| 31->33 | Giant, Hill |
+| 34 | Giant, Stone |
+| 35 | Giant, Storm |
+| 36->39 | Goblin |
+| 40 | Gnoll |
+| 41->44 | Gnome |
+| 45->49 | Halfling |
+| 50->51 | Hobgoblin |
+| 52->54 | Kobold |
+| 55 | Lammasu |
+| 56->58 | Lizard Man |
+| 59 | Manticore |
+| 60 | Medusa |
+| 61 | Minotaur |
+| 62 | Naga, Guardian |
+| 63 | Naga, Spirit |
+| 64 | Naga, Water |
+| 65 | Nixie |
+| 66 | Nymph |
+| 67->70 | Ogrish |
+| 71 | Ogre mage |
+| 72->76 | Orcish |
+| 77 | Pixie |
+| 78 | Salamander |
+| 79 | Satyr |
+| 80 | Shedu |
+| 81 | Sprite |
+| 82 | Sylph |
+| 83 | Titan |
+| 84 | Troll |
+| 85 | Xorn |
+| 86->00 | Human foreign or other* |

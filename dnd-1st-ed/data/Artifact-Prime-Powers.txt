@@ -1,0 +1,44 @@
+#From Claude 3.5 Sonnet based on txt OCR of DMG, need to verify
+#PRIME POWERS
+V (Score=d100)
+| Score | *Result* |
+| 01->02 | All of possessor's ability totals permanently raised 2 points each upon pronouncement of a command word (18 maximum) |
+| 03->04 | All of possessor's ability totals raised to 18 each upon pronouncement of a command word |
+| 05->06 | Bones/exoskeleton/cartilage of opponent turned to jelly - 1 time/day |
+| 07->08 | Cacodemon-like power summons a demon lord, arch-devil, or nycadaemon - 1 time/month |
+| 09->10 | Creeping doom callable - 1 time/day |
+| 11->12 | Death ray equal to a finger of death with no saving throw - 1 time/day |
+| 13->14 | Death spell power of 110%-200% effectiveness with respect to number of levels affected - 1 time/day |
+| 15->16 | Gate spell power, 100% effective - 1 time/day |
+| 17->18 | Imprisonment spell power - 1 time/week |
+| 19->20 | Magical resistance of 50%-75% for possessor upon command word - 1 time/day |
+| 21->22 | Major attribute permanently raised to 19 upon command word |
+| 23->24 | Meteor swarm - 1 time/day |
+| 25->26 | Monster summoning VIII - 2 times/day |
+| 27->28 | Plane shift - 1 time/day |
+| 29->30 | Polymorph any object - 1 time/day |
+| 31->32 | Power word blind/kill/stun - 1 time/day |
+| 33->34 | Premonition of death or serious harm to possessor |
+| 35->36 | Prismatic spray - 1 time/day |
+| 37->38 | Restoration - 1 time/day |
+| 39->40 | Resurrection - 7 times/week |
+| 41->42 | Shades - 2 times/day |
+| 43->44 | Shape change - 2 times/day |
+| 45->46 | Spell absorption, 19-24 levels - 1 time/week |
+| 47->48 | Summon 1 of each type of elemental, 16 hit dice each, no need for control - 1 time/week |
+| 49->50 | Summon djinn or efreet lord (8 h.p./die, +2 "to hit" and +4 damage) for 1 day of service - 1 time/week |
+| 51->52 | Super sleep spell affects double the number of creatures plus up to 2 5th or 6th and 1 7th or 8th level creature |
+| 53->54 | Temporal stasis, no saving throw, upon touch - 1 time/month |
+| 55->56 | The item enables the possessor to legend lore, commune, or contact higher plane (7th-10th) - 1 time/week |
+| 57->58 | Time stop of twice normal duration - 1 time/week |
+| 59->60 | Total fire/heat resistance for all creatures within 20' of the item |
+| 61->62 | Total immunity from all forms of mental and psionic attacks |
+| 63->64 | Total immunity from all forms of cold |
+| 65->66 | Trap the soul with 90% effectiveness - 1 time/month |
+| 67->68 | User can cast combination spells (if a spell caster) as follows (d4): 1) 1st and 2nd level spells simultaneously, 2) 2nd and 3rd level spells simultaneously, 3) 3rd and 4th level spells simultaneously, 4) 1st, 2nd, and 3rd level spells simultaneously |
+| 69->70 | Vanish - 2 times/day |
+| 71->72 | Vision - 1 time/day |
+| 73->74 | Wish - 1 time/day |
+| 75->76 | Youth restored to creature touched - 1 time/month |
+| 77->100 | Roll twice on this table |
+

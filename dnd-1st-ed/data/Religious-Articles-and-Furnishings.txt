@@ -1,0 +1,47 @@
+#From Claude 3.5 Sonnet based on txt OCR of DMG, need to verify
+#Religious Articles and Furnishings
+Religious (Score=d100)
+| Score | *Results* |
+| 01->05 | altar |
+| 06->08 | bell(s) |
+| 09->11 | brazier(s) |
+| 12 | candelabra |
+| 13->14 | candles |
+| 15 | candlesticks |
+| 16 | cassocks |
+| 17 | chime(s) |
+| 18->19 | cloth (altar) |
+| 20->23 | columns/pillars |
+| 24 | curtain/tapestry |
+| 25 | drum |
+| 26->27 | font |
+| 28->29 | gong |
+| 30->35 | holy/unholy symbol(s) |
+| 36->37 | holy/unholy writings |
+| 38->43 | idol(s) |
+| 44->48 | incense burner(s) |
+| 49 | kneeling bench |
+| 50->53 | lamp(s) |
+| 54 | lectern |
+| 55 | mosaics |
+| 56->58 | offertory container |
+| 59 | paintings/frescoes |
+| 60->61 | pews |
+| 62 | pipes (musical) |
+| 63 | prayer rug |
+| 64 | pulpit |
+| 65 | rail |
+| 66->67 | robes |
+| 68->69 | sanctuary |
+| 70->71 | screen |
+| 72->76 | shrine |
+| 77 | side chair(s) |
+| 78->79 | stand |
+| 80->82 | statue(s) |
+| 83 | throne |
+| 84->85 | thurible |
+| 86->88 | tripod |
+| 89->90 | vestry |
+| 91->97 | vestments |
+| 98->99 | votive light |
+| 00 | whistle |

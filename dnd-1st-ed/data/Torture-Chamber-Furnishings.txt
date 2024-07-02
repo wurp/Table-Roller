@@ -1,0 +1,43 @@
+#From Claude 3.5 Sonnet based on txt OCR of DMG, need to verify
+#Torture Chamber Furnishings
+Torture (Score=d100)
+| Score | *Results* |
+| 01->02 | bastinadoes |
+| 03 | bell (huge) |
+| 04->06 | bench |
+| 07->10 | boots (iron) |
+| 11->15 | branding irons |
+| 16->20 | brazier |
+| 21->22 | cage |
+| 23->26 | chains |
+| 27 | chair with straps |
+| 28 | clamps |
+| 29->31 | cressets |
+| 32 | fetters |
+| 33->35 | fire pit |
+| 36 | grill |
+| 37->38 | hooks |
+| 39->43 | iron maiden |
+| 44 | knives |
+| 45 | manacles |
+| 46 | oil (barrel of) |
+| 47->48 | oubliette (pit) |
+| 49->50 | pillory |
+| 51->54 | pincers |
+| 55->56 | pliers |
+| 57->58 | pot (huge) |
+| 59->66 | rack |
+| 67->68 | ropes |
+| 69 | stocks |
+| 70->71 | stool |
+| 72->75 | strappado |
+| 76->78 | straw |
+| 79->80 | table |
+| 81 | thongs |
+| 82->85 | thumb screws |
+| 86->88 | torches |
+| 89->90 | "U" rack |
+| 91 | vice |
+| 92->93 | well |
+| 94->96 | wheel |
+| 97->00 | whips |

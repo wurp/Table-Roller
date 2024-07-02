@@ -1,0 +1,9 @@
+#From Claude Sonnet 3.5; need to verify
+Parasitic Infestation (Score=d100)
+| Score | *Parasites Infest* | *Mild* | *Severe* | *Terminal* |
+| 01-10 | cardiovascular system | 1-2 | 3-5 | 6-8 |
+| 11-35 | intestines | 1-2 | 3-7 | 8 |
+| 36-40 | muscles | 1 | 2-3 | 4-8 |
+| 41-45 | respiratory system | 1 | 2-4 | 5-8 |
+| 46-75 | skin/hair | 1-7 | 8 | - |
+| 76-00 | stomach | 1-2 | 3-7 | 8 |

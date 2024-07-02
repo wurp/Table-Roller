@@ -1,0 +1,16 @@
+#From Claude 3.5 Sonnet based on txt OCR of DMG, need to verify
+#Monster Summoning III
+Monster Summoning III (Score=d100)
+| Score | *Monster Summoned* |
+| 01->07 | Beetle, boring |
+| 08->17 | Bugbear |
+| 18->25 | Gelatinous cube |
+| 26->32 | Ghoul |
+| 33->40 | Lizard, giant |
+| 41->47 | Lycanthrope, wererat |
+| 48->57 | Ochre jelly |
+| 58->67 | Ogre |
+| 68->75 | Spider, huge |
+| 76->85 | Spider, large |
+| 86->95 | Tick, giant |
+| 96->00 | Weasel, giant |
